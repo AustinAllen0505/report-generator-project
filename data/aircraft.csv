@@ -1,0 +1,21 @@
+aircraft_id,type,model,tail_number,squadron,status,last_maintenance_date,total_flight_hours
+A001,Fighter,F/A-18E Super Hornet,NE-400,VFA-41,Active,2024-10-15,1247
+A002,Fighter,F/A-18E Super Hornet,NE-401,VFA-41,Active,2024-10-22,1089
+A003,Fighter,F/A-18F Super Hornet,NE-402,VFA-41,Active,2024-10-18,1356
+A004,Fighter,F/A-18E Super Hornet,NK-300,VFA-25,Active,2024-10-20,1523
+A005,Fighter,F/A-18E Super Hornet,NK-301,VFA-25,Maintenance,2024-09-28,1678
+A006,Fighter,F/A-18F Super Hornet,NK-302,VFA-25,Active,2024-10-25,1234
+A007,Fighter,F/A-18E Super Hornet,NF-200,VFA-154,Active,2024-10-19,1445
+A008,Fighter,F/A-18E Super Hornet,NF-201,VFA-154,Active,2024-10-23,1298
+A009,Fighter,F/A-18F Super Hornet,NF-202,VFA-154,Active,2024-10-17,1567
+A010,Fighter,F/A-18E Super Hornet,AJ-100,VFA-113,Active,2024-10-21,1389
+A011,Fighter,F/A-18E Super Hornet,AJ-101,VFA-113,Active,2024-10-16,1456
+A012,Fighter,F/A-18F Super Hornet,AJ-102,VFA-113,Maintenance,2024-10-01,1789
+A013,Fighter,F/A-18E Super Hornet,NH-500,VFA-14,Active,2024-10-24,1234
+A014,Fighter,F/A-18E Super Hornet,NH-501,VFA-14,Active,2024-10-20,1098
+A015,Fighter,F/A-18F Super Hornet,NH-502,VFA-14,Active,2024-10-22,1345
+A016,Fighter,F/A-18E Super Hornet,NJ-600,VFA-192,Active,2024-10-19,1567
+A017,Fighter,F/A-18E Super Hornet,NJ-601,VFA-192,Active,2024-10-25,1234
+A018,Fighter,F/A-18F Super Hornet,NJ-602,VFA-192,Maintenance,2024-10-05,1678
+A019,Fighter,F/A-18E Super Hornet,NE-700,VFA-2,Active,2024-10-23,1456
+A020,Fighter,F/A-18F Super Hornet,NE-701,VFA-2,Active,2024-10-21,1389

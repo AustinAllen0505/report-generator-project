@@ -1,0 +1,2001 @@
+flight_id,date,pilot_id,aircraft_id,mission_type,duration_hours,fuel_used_lbs,status,notes
+FL0001,2024-10-01,P020,A004,Transport,2.4,4927,Completed,Coastal transport operation
+FL0002,2024-10-01,P017,A003,Reconnaissance,3.5,7039,Completed,Joint force reconnaissance exercise
+FL0003,2024-10-01,P007,A003,Reconnaissance,3.0,6233,Completed,Routine reconnaissance mission
+FL0004,2024-10-01,P004,A019,Combat,4.7,9760,Completed,Standard combat procedures
+FL0005,2024-10-01,P002,A017,Transport,2.4,4387,Completed,Routine transport mission
+FL0006,2024-10-01,P018,A010,Reconnaissance,4.5,8663,Completed,Standard reconnaissance procedures
+FL0007,2024-10-01,P010,A006,Reconnaissance,3.9,7740,Completed,Coastal reconnaissance operation
+FL0008,2024-10-01,P012,A003,Patrol,3.1,6308,Completed,Emergency patrol training
+FL0009,2024-10-01,P001,A003,Transport,2.1,4237,Completed,transport systems check completed
+FL0010,2024-10-01,P010,A018,Reconnaissance,4.0,7443,Completed,Weather-related reconnaissance mission
+FL0011,2024-10-02,P019,A014,Training,2.0,3763,Completed,Emergency training training
+FL0012,2024-10-02,P004,A007,Training,2.3,4557,Completed,Night training mission
+FL0013,2024-10-02,P003,A013,Combat,3.7,7406,Completed,Routine combat mission
+FL0014,2024-10-02,P006,A010,Transport,3.5,6347,Completed,Emergency transport training
+FL0015,2024-10-02,P011,A008,Combat,4.5,9163,Completed,combat systems check completed
+FL0016,2024-10-02,P010,A003,Patrol,3.1,5892,Completed,Successful patrol operation
+FL0017,2024-10-02,P001,A017,Patrol,2.9,6002,Completed,Emergency patrol training
+FL0018,2024-10-02,P002,A020,Reconnaissance,3.3,6403,Cancelled,Emergency reconnaissance training
+FL0019,2024-10-02,P017,A014,Transport,2.2,4212,Completed,Successful transport operation
+FL0020,2024-10-02,P004,A004,Reconnaissance,3.8,7471,Completed,Successful reconnaissance operation
+FL0021,2024-10-03,P001,A011,Patrol,2.8,5085,Completed,Routine patrol mission
+FL0022,2024-10-03,P013,A005,Transport,3.0,5943,Cancelled,Coastal transport operation
+FL0023,2024-10-03,P019,A016,Reconnaissance,4.2,8791,Completed,Emergency reconnaissance training
+FL0024,2024-10-03,P014,A004,Patrol,3.9,7457,Completed,Night patrol mission
+FL0025,2024-10-03,P001,A003,Patrol,3.4,6272,Completed,Night patrol mission
+FL0026,2024-10-03,P011,A014,Reconnaissance,3.5,7219,Completed,Night reconnaissance mission
+FL0027,2024-10-03,P017,A002,Training,1.6,3355,Completed,Successful training operation
+FL0028,2024-10-03,P009,A009,Patrol,3.9,7806,Cancelled,Coastal patrol operation
+FL0029,2024-10-03,P009,A001,Transport,2.2,4068,Completed,Successful transport operation
+FL0030,2024-10-03,P017,A009,Combat,4.9,9638,Cancelled,Weather-related combat mission
+FL0031,2024-10-04,P011,A006,Training,2.0,3691,Cancelled,Weather-related training mission
+FL0032,2024-10-04,P013,A008,Training,1.8,3713,Completed,Night training mission
+FL0033,2024-10-04,P007,A006,Combat,4.1,8206,Completed,Night combat mission
+FL0034,2024-10-04,P018,A009,Patrol,3.9,7660,Completed,Advanced patrol training
+FL0035,2024-10-04,P001,A011,Transport,2.7,5104,Completed,Coastal transport operation
+FL0036,2024-10-04,P009,A014,Reconnaissance,3.5,6982,Completed,Joint force reconnaissance exercise
+FL0037,2024-10-04,P005,A004,Training,2.1,4243,Completed,Joint force training exercise
+FL0038,2024-10-04,P005,A003,Patrol,2.6,5225,Completed,Weather-related patrol mission
+FL0039,2024-10-04,P009,A013,Transport,2.2,4082,Completed,Joint force transport exercise
+FL0040,2024-10-04,P011,A005,Training,1.6,3345,Completed,Advanced training training
+FL0041,2024-10-05,P019,A006,Transport,3.0,5899,Completed,Routine transport mission
+FL0042,2024-10-05,P011,A001,Patrol,3.4,6255,Completed,Coastal patrol operation
+FL0043,2024-10-05,P012,A008,Training,2.5,4966,Completed,training systems check completed
+FL0044,2024-10-05,P018,A020,Patrol,2.7,5029,Cancelled,Advanced patrol training
+FL0045,2024-10-05,P008,A008,Training,2.1,3910,Completed,Weather-related training mission
+FL0046,2024-10-05,P020,A014,Training,2.2,4297,Cancelled,Successful training operation
+FL0047,2024-10-05,P019,A015,Patrol,2.9,5571,Completed,Night patrol mission
+FL0048,2024-10-05,P015,A016,Training,2.5,4622,Completed,training systems check completed
+FL0049,2024-10-05,P011,A012,Patrol,3.0,6099,Completed,patrol systems check completed
+FL0050,2024-10-05,P008,A006,Transport,3.1,5816,Completed,Joint force transport exercise
+FL0051,2024-10-06,P003,A003,Patrol,2.6,5427,Completed,Weather-related patrol mission
+FL0052,2024-10-06,P019,A013,Training,1.7,3454,Completed,Emergency training training
+FL0053,2024-10-06,P015,A014,Patrol,2.6,5066,Cancelled,Emergency patrol training
+FL0054,2024-10-06,P015,A002,Transport,2.9,5916,Completed,Coastal transport operation
+FL0055,2024-10-06,P005,A003,Combat,4.9,9968,Completed,Successful combat operation
+FL0056,2024-10-06,P007,A015,Transport,3.0,5749,Completed,Successful transport operation
+FL0057,2024-10-06,P014,A020,Combat,4.7,8864,Completed,Night combat mission
+FL0058,2024-10-06,P008,A004,Transport,3.1,5986,Completed,Emergency transport training
+FL0059,2024-10-06,P015,A007,Training,2.0,3709,Completed,Advanced training training
+FL0060,2024-10-06,P016,A004,Training,2.3,4436,Completed,Routine training mission
+FL0061,2024-10-07,P008,A018,Patrol,3.3,6086,Completed,Emergency patrol training
+FL0062,2024-10-07,P015,A012,Training,2.3,4382,Completed,Weather-related training mission
+FL0063,2024-10-07,P005,A013,Transport,3.2,6465,Completed,Advanced transport training
+FL0064,2024-10-07,P010,A014,Reconnaissance,3.4,7052,Completed,Weather-related reconnaissance mission
+FL0065,2024-10-07,P010,A009,Reconnaissance,3.0,5695,Completed,reconnaissance systems check completed
+FL0066,2024-10-07,P014,A012,Training,1.8,3398,Completed,Routine training mission
+FL0067,2024-10-07,P002,A006,Training,2.3,4500,Completed,Routine training mission
+FL0068,2024-10-07,P014,A017,Combat,4.1,8213,Cancelled,Night combat mission
+FL0069,2024-10-07,P012,A019,Patrol,3.0,5435,Completed,Emergency patrol training
+FL0070,2024-10-07,P006,A005,Reconnaissance,3.7,7539,Completed,Weather-related reconnaissance mission
+FL0071,2024-10-08,P019,A010,Transport,2.9,5563,Completed,Night transport mission
+FL0072,2024-10-08,P017,A002,Transport,2.0,3838,Cancelled,Weather-related transport mission
+FL0073,2024-10-08,P018,A016,Training,1.8,3376,Cancelled,Coastal training operation
+FL0074,2024-10-08,P004,A015,Combat,3.6,6625,Completed,Standard combat procedures
+FL0075,2024-10-08,P009,A003,Combat,3.6,6964,Completed,Coastal combat operation
+FL0076,2024-10-08,P005,A019,Reconnaissance,4.5,9247,Completed,Successful reconnaissance operation
+FL0077,2024-10-08,P007,A018,Training,1.7,3223,Completed,Standard training procedures
+FL0078,2024-10-08,P014,A007,Patrol,3.0,5422,Completed,Routine patrol mission
+FL0079,2024-10-08,P014,A018,Transport,2.6,5021,Completed,Routine transport mission
+FL0080,2024-10-08,P007,A018,Transport,3.3,6596,Cancelled,Coastal transport operation
+FL0081,2024-10-09,P012,A003,Combat,4.0,7525,Completed,Advanced combat training
+FL0082,2024-10-09,P002,A003,Transport,3.1,6076,Cancelled,Successful transport operation
+FL0083,2024-10-09,P005,A009,Training,1.8,3647,Completed,Routine training mission
+FL0084,2024-10-09,P015,A017,Patrol,3.9,7225,Completed,Coastal patrol operation
+FL0085,2024-10-09,P012,A018,Combat,4.4,8229,Completed,Joint force combat exercise
+FL0086,2024-10-09,P019,A007,Reconnaissance,4.2,7956,Completed,Successful reconnaissance operation
+FL0087,2024-10-09,P007,A017,Training,1.9,3596,Completed,Emergency training training
+FL0088,2024-10-09,P012,A016,Combat,4.7,9768,Cancelled,Joint force combat exercise
+FL0089,2024-10-09,P006,A005,Combat,4.2,8426,Completed,Emergency combat training
+FL0090,2024-10-09,P019,A009,Combat,4.2,8747,Completed,Successful combat operation
+FL0091,2024-10-10,P017,A001,Reconnaissance,3.1,5805,Cancelled,Advanced reconnaissance training
+FL0092,2024-10-10,P012,A007,Combat,3.5,7151,Completed,Routine combat mission
+FL0093,2024-10-10,P016,A011,Combat,4.9,9621,Completed,Advanced combat training
+FL0094,2024-10-10,P014,A005,Transport,3.5,6918,Completed,Successful transport operation
+FL0095,2024-10-10,P007,A009,Transport,2.2,4530,Completed,Advanced transport training
+FL0096,2024-10-10,P011,A017,Training,2.4,4794,Completed,Routine training mission
+FL0097,2024-10-10,P015,A019,Patrol,3.9,7174,Completed,Successful patrol operation
+FL0098,2024-10-10,P007,A005,Combat,4.3,8636,Cancelled,Coastal combat operation
+FL0099,2024-10-10,P014,A012,Combat,4.6,9176,Cancelled,Emergency combat training
+FL0100,2024-10-10,P020,A015,Transport,2.8,5277,Cancelled,Successful transport operation
+FL0101,2024-10-11,P009,A017,Transport,2.2,4084,Completed,Night transport mission
+FL0102,2024-10-11,P006,A019,Reconnaissance,3.6,6860,Completed,Emergency reconnaissance training
+FL0103,2024-10-11,P013,A015,Training,2.2,4207,Completed,Joint force training exercise
+FL0104,2024-10-11,P004,A020,Patrol,3.5,6775,Completed,Successful patrol operation
+FL0105,2024-10-11,P002,A011,Reconnaissance,2.8,5063,Cancelled,Advanced reconnaissance training
+FL0106,2024-10-11,P008,A004,Patrol,3.1,6086,Completed,patrol systems check completed
+FL0107,2024-10-11,P014,A005,Training,1.7,3545,Completed,Joint force training exercise
+FL0108,2024-10-11,P006,A006,Training,2.0,4181,Completed,Advanced training training
+FL0109,2024-10-11,P010,A009,Patrol,3.9,8162,Completed,Night patrol mission
+FL0110,2024-10-11,P019,A020,Patrol,3.4,7110,Completed,Coastal patrol operation
+FL0111,2024-10-12,P014,A020,Transport,2.8,5872,Completed,Night transport mission
+FL0112,2024-10-12,P007,A007,Training,2.7,4995,Completed,Successful training operation
+FL0113,2024-10-12,P017,A009,Transport,3.5,6500,Completed,Emergency transport training
+FL0114,2024-10-12,P006,A020,Training,2.0,3914,Completed,Weather-related training mission
+FL0115,2024-10-12,P013,A004,Training,2.1,4191,Completed,Weather-related training mission
+FL0116,2024-10-12,P003,A009,Transport,3.0,6068,Completed,Standard transport procedures
+FL0117,2024-10-12,P005,A014,Training,2.7,5001,Completed,Weather-related training mission
+FL0118,2024-10-12,P017,A001,Transport,2.0,3963,Completed,transport systems check completed
+FL0119,2024-10-12,P007,A009,Reconnaissance,4.2,7925,Cancelled,Successful reconnaissance operation
+FL0120,2024-10-12,P013,A003,Patrol,3.8,7375,Completed,Successful patrol operation
+FL0121,2024-10-13,P009,A012,Patrol,3.0,5722,Completed,patrol systems check completed
+FL0122,2024-10-13,P009,A017,Patrol,2.6,4714,Completed,Emergency patrol training
+FL0123,2024-10-13,P020,A016,Patrol,3.8,7679,Cancelled,Joint force patrol exercise
+FL0124,2024-10-13,P002,A020,Patrol,2.7,4944,Completed,Standard patrol procedures
+FL0125,2024-10-13,P019,A012,Training,1.6,3081,Completed,Coastal training operation
+FL0126,2024-10-13,P008,A012,Combat,3.8,6958,Cancelled,Joint force combat exercise
+FL0127,2024-10-13,P006,A014,Reconnaissance,3.4,6185,Completed,Routine reconnaissance mission
+FL0128,2024-10-13,P008,A011,Training,2.2,3985,Completed,Coastal training operation
+FL0129,2024-10-13,P016,A006,Patrol,2.8,5393,Completed,Weather-related patrol mission
+FL0130,2024-10-13,P004,A005,Transport,3.2,5977,Completed,Advanced transport training
+FL0131,2024-10-14,P013,A019,Training,2.6,5273,Cancelled,Coastal training operation
+FL0132,2024-10-14,P007,A019,Training,2.1,4337,Completed,Routine training mission
+FL0133,2024-10-14,P020,A001,Combat,4.7,9510,Completed,Standard combat procedures
+FL0134,2024-10-14,P003,A009,Training,2.5,4504,Completed,Advanced training training
+FL0135,2024-10-14,P019,A010,Combat,3.9,7292,Completed,Emergency combat training
+FL0136,2024-10-14,P001,A003,Reconnaissance,3.8,7443,Completed,Weather-related reconnaissance mission
+FL0137,2024-10-14,P009,A009,Reconnaissance,3.5,6645,Completed,Coastal reconnaissance operation
+FL0138,2024-10-14,P004,A006,Patrol,2.8,5133,Completed,Coastal patrol operation
+FL0139,2024-10-14,P006,A014,Reconnaissance,3.4,7102,Cancelled,Standard reconnaissance procedures
+FL0140,2024-10-14,P005,A002,Patrol,2.9,5764,Cancelled,Night patrol mission
+FL0141,2024-10-15,P011,A013,Training,2.7,5616,Completed,Standard training procedures
+FL0142,2024-10-15,P003,A010,Reconnaissance,4.4,9061,Completed,Emergency reconnaissance training
+FL0143,2024-10-15,P009,A003,Patrol,3.6,6876,Completed,Coastal patrol operation
+FL0144,2024-10-15,P006,A007,Reconnaissance,4.4,8489,Completed,Standard reconnaissance procedures
+FL0145,2024-10-15,P014,A011,Training,2.3,4766,Completed,Advanced training training
+FL0146,2024-10-15,P015,A019,Reconnaissance,3.9,7245,Completed,reconnaissance systems check completed
+FL0147,2024-10-15,P015,A002,Reconnaissance,4.4,8627,Completed,Weather-related reconnaissance mission
+FL0148,2024-10-15,P015,A008,Reconnaissance,3.5,6471,Completed,Joint force reconnaissance exercise
+FL0149,2024-10-15,P006,A015,Patrol,3.4,6278,Completed,Weather-related patrol mission
+FL0150,2024-10-15,P018,A014,Combat,3.7,6925,Completed,Emergency combat training
+FL0151,2024-10-16,P007,A011,Reconnaissance,3.7,6714,Completed,Routine reconnaissance mission
+FL0152,2024-10-16,P004,A019,Transport,3.3,6359,Completed,Successful transport operation
+FL0153,2024-10-16,P008,A018,Training,1.9,3989,Completed,Standard training procedures
+FL0154,2024-10-16,P006,A001,Patrol,2.8,5632,Completed,Joint force patrol exercise
+FL0155,2024-10-16,P015,A020,Transport,2.9,5741,Completed,transport systems check completed
+FL0156,2024-10-16,P015,A013,Transport,3.5,6675,Completed,transport systems check completed
+FL0157,2024-10-16,P001,A013,Reconnaissance,2.8,5570,Completed,Emergency reconnaissance training
+FL0158,2024-10-16,P011,A011,Patrol,3.6,7498,Completed,Standard patrol procedures
+FL0159,2024-10-16,P018,A015,Patrol,3.5,7343,Completed,Weather-related patrol mission
+FL0160,2024-10-16,P017,A002,Patrol,3.9,7338,Completed,patrol systems check completed
+FL0161,2024-10-17,P017,A017,Training,2.0,3873,Completed,Standard training procedures
+FL0162,2024-10-17,P011,A006,Patrol,3.8,7500,Completed,Coastal patrol operation
+FL0163,2024-10-17,P002,A007,Reconnaissance,3.2,6236,Cancelled,Standard reconnaissance procedures
+FL0164,2024-10-17,P017,A011,Transport,3.2,6139,Completed,Successful transport operation
+FL0165,2024-10-17,P014,A019,Training,1.8,3479,Completed,Successful training operation
+FL0166,2024-10-17,P016,A003,Transport,2.5,4987,Cancelled,Routine transport mission
+FL0167,2024-10-17,P003,A009,Transport,2.6,5228,Completed,transport systems check completed
+FL0168,2024-10-17,P008,A001,Combat,4.6,9392,Completed,Weather-related combat mission
+FL0169,2024-10-17,P004,A020,Combat,4.6,9013,Completed,Joint force combat exercise
+FL0170,2024-10-17,P010,A012,Patrol,2.8,5452,Completed,Emergency patrol training
+FL0171,2024-10-18,P003,A002,Patrol,3.8,6981,Completed,Coastal patrol operation
+FL0172,2024-10-18,P015,A007,Combat,4.4,8540,Cancelled,Successful combat operation
+FL0173,2024-10-18,P016,A007,Combat,4.2,7734,Completed,Joint force combat exercise
+FL0174,2024-10-18,P001,A019,Reconnaissance,3.0,6168,Cancelled,Standard reconnaissance procedures
+FL0175,2024-10-18,P010,A008,Combat,3.5,7259,Completed,Weather-related combat mission
+FL0176,2024-10-18,P016,A011,Combat,3.9,7691,Completed,Joint force combat exercise
+FL0177,2024-10-18,P016,A005,Patrol,3.3,6034,Completed,Coastal patrol operation
+FL0178,2024-10-18,P018,A015,Transport,3.3,6816,Completed,Successful transport operation
+FL0179,2024-10-18,P011,A002,Combat,3.7,7752,Cancelled,Advanced combat training
+FL0180,2024-10-18,P008,A006,Transport,2.7,5065,Completed,Advanced transport training
+FL0181,2024-10-19,P007,A013,Training,2.5,5116,Completed,Routine training mission
+FL0182,2024-10-19,P016,A019,Transport,2.5,4527,Completed,Night transport mission
+FL0183,2024-10-19,P017,A015,Patrol,3.6,6744,Completed,Night patrol mission
+FL0184,2024-10-19,P005,A005,Transport,2.4,4460,Completed,Coastal transport operation
+FL0185,2024-10-19,P015,A014,Reconnaissance,2.9,5994,Completed,Night reconnaissance mission
+FL0186,2024-10-19,P002,A002,Combat,3.8,7772,Completed,Routine combat mission
+FL0187,2024-10-19,P007,A007,Reconnaissance,3.3,6071,Completed,reconnaissance systems check completed
+FL0188,2024-10-19,P014,A013,Transport,2.2,4550,Completed,Coastal transport operation
+FL0189,2024-10-19,P010,A001,Combat,3.7,7440,Completed,Night combat mission
+FL0190,2024-10-19,P014,A012,Training,2.5,4580,Completed,Successful training operation
+FL0191,2024-10-20,P016,A004,Training,1.7,3321,Cancelled,Routine training mission
+FL0192,2024-10-20,P001,A014,Training,2.2,4386,Completed,Coastal training operation
+FL0193,2024-10-20,P005,A005,Reconnaissance,3.9,7151,Completed,Night reconnaissance mission
+FL0194,2024-10-20,P006,A002,Transport,2.3,4260,Cancelled,Night transport mission
+FL0195,2024-10-20,P019,A002,Reconnaissance,3.8,7024,Completed,Standard reconnaissance procedures
+FL0196,2024-10-20,P008,A014,Training,2.0,4045,Completed,Advanced training training
+FL0197,2024-10-20,P017,A010,Combat,4.5,8224,Completed,combat systems check completed
+FL0198,2024-10-20,P019,A008,Training,1.7,3090,Completed,Routine training mission
+FL0199,2024-10-20,P007,A012,Transport,2.2,4281,Completed,Successful transport operation
+FL0200,2024-10-20,P003,A018,Patrol,3.6,7429,Completed,Weather-related patrol mission
+FL0201,2024-10-21,P003,A017,Patrol,2.8,5279,Completed,Advanced patrol training
+FL0202,2024-10-21,P016,A008,Reconnaissance,3.3,6858,Completed,Standard reconnaissance procedures
+FL0203,2024-10-21,P017,A010,Reconnaissance,3.0,5829,Completed,Night reconnaissance mission
+FL0204,2024-10-21,P010,A017,Transport,2.2,4203,Completed,Routine transport mission
+FL0205,2024-10-21,P014,A011,Training,2.1,4282,Cancelled,Routine training mission
+FL0206,2024-10-21,P010,A001,Training,2.6,5274,Completed,Standard training procedures
+FL0207,2024-10-21,P008,A006,Training,2.4,4808,Completed,Advanced training training
+FL0208,2024-10-21,P015,A014,Combat,4.2,7950,Completed,Advanced combat training
+FL0209,2024-10-21,P015,A020,Patrol,3.4,6377,Completed,Emergency patrol training
+FL0210,2024-10-21,P001,A001,Training,2.4,4842,Completed,Emergency training training
+FL0211,2024-10-22,P011,A016,Patrol,3.6,7131,Completed,Emergency patrol training
+FL0212,2024-10-22,P011,A001,Reconnaissance,3.5,6766,Completed,Advanced reconnaissance training
+FL0213,2024-10-22,P002,A003,Patrol,2.8,5164,Completed,Routine patrol mission
+FL0214,2024-10-22,P013,A012,Reconnaissance,2.9,5804,Completed,Coastal reconnaissance operation
+FL0215,2024-10-22,P007,A010,Transport,3.4,6147,Cancelled,Coastal transport operation
+FL0216,2024-10-22,P005,A002,Patrol,2.7,5520,Completed,patrol systems check completed
+FL0217,2024-10-22,P009,A002,Reconnaissance,4.0,7751,Completed,Emergency reconnaissance training
+FL0218,2024-10-22,P003,A008,Transport,3.4,6565,Cancelled,Coastal transport operation
+FL0219,2024-10-22,P002,A019,Reconnaissance,3.5,6634,Completed,Night reconnaissance mission
+FL0220,2024-10-22,P004,A012,Combat,4.0,7509,Completed,Successful combat operation
+FL0221,2024-10-23,P020,A017,Training,2.2,4137,Completed,Emergency training training
+FL0222,2024-10-23,P002,A007,Transport,2.3,4451,Completed,Weather-related transport mission
+FL0223,2024-10-23,P012,A009,Patrol,3.2,6181,Completed,Standard patrol procedures
+FL0224,2024-10-23,P003,A003,Combat,4.6,8378,Completed,combat systems check completed
+FL0225,2024-10-23,P012,A004,Patrol,2.8,5572,Completed,patrol systems check completed
+FL0226,2024-10-23,P012,A001,Combat,4.6,8986,Completed,Standard combat procedures
+FL0227,2024-10-23,P011,A003,Reconnaissance,3.9,7869,Cancelled,Successful reconnaissance operation
+FL0228,2024-10-23,P011,A014,Combat,4.1,7520,Cancelled,Joint force combat exercise
+FL0229,2024-10-23,P005,A019,Reconnaissance,3.5,6368,Completed,Joint force reconnaissance exercise
+FL0230,2024-10-23,P009,A013,Reconnaissance,3.8,6845,Completed,Emergency reconnaissance training
+FL0231,2024-10-24,P008,A004,Combat,3.5,6329,Completed,combat systems check completed
+FL0232,2024-10-24,P011,A011,Combat,4.9,9630,Completed,Standard combat procedures
+FL0233,2024-10-24,P005,A017,Combat,4.6,9240,Completed,Coastal combat operation
+FL0234,2024-10-24,P018,A004,Training,2.1,3847,Completed,Coastal training operation
+FL0235,2024-10-24,P008,A016,Training,2.7,5262,Completed,Advanced training training
+FL0236,2024-10-24,P018,A018,Patrol,3.4,6716,Completed,Successful patrol operation
+FL0237,2024-10-24,P017,A002,Combat,4.3,8322,Completed,Routine combat mission
+FL0238,2024-10-24,P013,A017,Training,2.1,3821,Completed,Emergency training training
+FL0239,2024-10-24,P018,A005,Transport,3.3,6265,Completed,Standard transport procedures
+FL0240,2024-10-24,P015,A001,Reconnaissance,4.4,8632,Cancelled,Night reconnaissance mission
+FL0241,2024-10-25,P016,A005,Transport,3.3,6614,Completed,Successful transport operation
+FL0242,2024-10-25,P013,A020,Combat,4.5,8716,Completed,Emergency combat training
+FL0243,2024-10-25,P020,A007,Transport,3.2,5894,Completed,Weather-related transport mission
+FL0244,2024-10-25,P016,A005,Patrol,3.3,6604,Completed,Joint force patrol exercise
+FL0245,2024-10-25,P006,A003,Training,2.3,4544,Completed,Successful training operation
+FL0246,2024-10-25,P012,A018,Transport,2.4,4753,Completed,Successful transport operation
+FL0247,2024-10-25,P017,A004,Training,2.3,4683,Completed,Night training mission
+FL0248,2024-10-25,P013,A018,Reconnaissance,4.5,8100,Completed,Joint force reconnaissance exercise
+FL0249,2024-10-25,P014,A007,Transport,3.4,6702,Completed,Successful transport operation
+FL0250,2024-10-25,P011,A017,Training,2.2,4078,Completed,training systems check completed
+FL0251,2024-10-26,P013,A018,Combat,3.7,7539,Completed,Standard combat procedures
+FL0252,2024-10-26,P006,A019,Reconnaissance,4.2,8505,Completed,Joint force reconnaissance exercise
+FL0253,2024-10-26,P006,A010,Training,1.6,3167,Cancelled,Weather-related training mission
+FL0254,2024-10-26,P018,A008,Training,2.5,5168,Completed,Successful training operation
+FL0255,2024-10-26,P006,A020,Combat,4.3,8709,Completed,Emergency combat training
+FL0256,2024-10-26,P002,A005,Transport,2.4,4685,Completed,Weather-related transport mission
+FL0257,2024-10-26,P009,A017,Reconnaissance,4.2,7874,Completed,Successful reconnaissance operation
+FL0258,2024-10-26,P001,A002,Reconnaissance,3.8,6852,Completed,reconnaissance systems check completed
+FL0259,2024-10-26,P012,A013,Patrol,3.9,8079,Cancelled,Weather-related patrol mission
+FL0260,2024-10-26,P014,A003,Combat,4.1,8438,Completed,Night combat mission
+FL0261,2024-10-27,P002,A010,Training,2.0,3613,Completed,Standard training procedures
+FL0262,2024-10-27,P017,A002,Patrol,3.4,6407,Cancelled,Standard patrol procedures
+FL0263,2024-10-27,P020,A007,Reconnaissance,3.6,7069,Completed,Emergency reconnaissance training
+FL0264,2024-10-27,P007,A006,Combat,3.6,6886,Cancelled,Successful combat operation
+FL0265,2024-10-27,P006,A019,Transport,3.1,5591,Cancelled,Routine transport mission
+FL0266,2024-10-27,P011,A015,Patrol,3.3,6279,Completed,Standard patrol procedures
+FL0267,2024-10-27,P014,A017,Combat,3.7,7462,Completed,Routine combat mission
+FL0268,2024-10-27,P014,A009,Patrol,3.0,6215,Completed,Successful patrol operation
+FL0269,2024-10-27,P006,A012,Patrol,3.8,7973,Completed,Joint force patrol exercise
+FL0270,2024-10-27,P001,A016,Combat,4.4,8438,Completed,Joint force combat exercise
+FL0271,2024-10-28,P007,A013,Reconnaissance,3.5,6686,Completed,Joint force reconnaissance exercise
+FL0272,2024-10-28,P007,A010,Training,2.5,4655,Completed,training systems check completed
+FL0273,2024-10-28,P010,A005,Patrol,3.5,6516,Completed,Joint force patrol exercise
+FL0274,2024-10-28,P006,A003,Reconnaissance,4.0,7985,Completed,Successful reconnaissance operation
+FL0275,2024-10-28,P010,A018,Combat,4.1,7607,Completed,Night combat mission
+FL0276,2024-10-28,P009,A011,Transport,2.2,4236,Completed,Standard transport procedures
+FL0277,2024-10-28,P007,A018,Training,2.7,4989,Completed,Joint force training exercise
+FL0278,2024-10-28,P016,A009,Combat,4.2,7667,Completed,Successful combat operation
+FL0279,2024-10-28,P018,A013,Combat,4.0,7392,Cancelled,Coastal combat operation
+FL0280,2024-10-28,P017,A007,Training,2.5,4742,Cancelled,Emergency training training
+FL0281,2024-10-29,P010,A019,Reconnaissance,3.8,6918,Completed,Successful reconnaissance operation
+FL0282,2024-10-29,P003,A010,Transport,2.7,5165,Completed,Advanced transport training
+FL0283,2024-10-29,P014,A008,Transport,2.1,3922,Completed,Emergency transport training
+FL0284,2024-10-29,P019,A016,Transport,2.9,5907,Completed,Night transport mission
+FL0285,2024-10-29,P009,A007,Training,2.5,4908,Completed,Weather-related training mission
+FL0286,2024-10-29,P008,A006,Reconnaissance,4.2,7742,Completed,Weather-related reconnaissance mission
+FL0287,2024-10-29,P016,A009,Transport,3.0,5725,Cancelled,Advanced transport training
+FL0288,2024-10-29,P001,A018,Reconnaissance,3.3,6335,Completed,Routine reconnaissance mission
+FL0289,2024-10-29,P018,A006,Transport,2.7,5105,Completed,Coastal transport operation
+FL0290,2024-10-29,P005,A013,Reconnaissance,4.5,8253,Completed,Routine reconnaissance mission
+FL0291,2024-10-30,P007,A014,Combat,3.9,8074,Completed,Advanced combat training
+FL0292,2024-10-30,P015,A007,Reconnaissance,3.2,5884,Completed,Coastal reconnaissance operation
+FL0293,2024-10-30,P019,A011,Reconnaissance,4.2,7814,Completed,Standard reconnaissance procedures
+FL0294,2024-10-30,P006,A006,Patrol,2.6,4945,Completed,Routine patrol mission
+FL0295,2024-10-30,P019,A016,Reconnaissance,3.7,7530,Completed,Standard reconnaissance procedures
+FL0296,2024-10-30,P019,A005,Patrol,3.2,6656,Completed,Joint force patrol exercise
+FL0297,2024-10-30,P012,A001,Training,1.8,3559,Completed,Weather-related training mission
+FL0298,2024-10-30,P018,A019,Combat,4.9,10059,Completed,Successful combat operation
+FL0299,2024-10-30,P007,A012,Training,2.6,4914,Completed,Coastal training operation
+FL0300,2024-10-30,P015,A018,Patrol,3.5,6968,Completed,Coastal patrol operation
+FL0301,2024-10-31,P014,A016,Reconnaissance,4.2,7627,Completed,Weather-related reconnaissance mission
+FL0302,2024-10-31,P019,A013,Training,2.7,5489,Completed,Coastal training operation
+FL0303,2024-10-31,P011,A019,Reconnaissance,3.3,6781,Completed,Standard reconnaissance procedures
+FL0304,2024-10-31,P019,A007,Training,2.5,4854,Completed,Joint force training exercise
+FL0305,2024-10-31,P009,A008,Combat,3.6,7072,Completed,Advanced combat training
+FL0306,2024-10-31,P003,A012,Combat,5.0,9834,Completed,Coastal combat operation
+FL0307,2024-10-31,P019,A020,Transport,2.7,5359,Completed,Advanced transport training
+FL0308,2024-10-31,P007,A008,Training,1.9,3714,Completed,Routine training mission
+FL0309,2024-10-31,P018,A012,Patrol,3.8,7781,Completed,Night patrol mission
+FL0310,2024-10-31,P007,A015,Reconnaissance,4.2,8591,Completed,Standard reconnaissance procedures
+FL0311,2024-11-01,P012,A016,Transport,2.0,4042,Completed,Routine transport mission
+FL0312,2024-11-01,P013,A001,Reconnaissance,3.5,6498,Completed,Weather-related reconnaissance mission
+FL0313,2024-11-01,P012,A011,Patrol,3.8,6992,Completed,Standard patrol procedures
+FL0314,2024-11-01,P003,A013,Combat,3.8,7370,Completed,Standard combat procedures
+FL0315,2024-11-01,P013,A012,Training,2.3,4442,Completed,Night training mission
+FL0316,2024-11-01,P018,A010,Transport,3.5,7087,Completed,Night transport mission
+FL0317,2024-11-01,P017,A009,Training,1.9,3479,Completed,training systems check completed
+FL0318,2024-11-01,P010,A018,Patrol,2.8,5414,Completed,Emergency patrol training
+FL0319,2024-11-01,P004,A004,Reconnaissance,3.3,6387,Cancelled,Weather-related reconnaissance mission
+FL0320,2024-11-01,P014,A016,Combat,4.8,8825,Completed,Weather-related combat mission
+FL0321,2024-11-02,P017,A010,Patrol,3.2,6340,Completed,Routine patrol mission
+FL0322,2024-11-02,P015,A003,Combat,3.8,7618,Completed,Routine combat mission
+FL0323,2024-11-02,P015,A004,Patrol,3.2,6674,Completed,Coastal patrol operation
+FL0324,2024-11-02,P008,A007,Transport,2.7,5159,Completed,Weather-related transport mission
+FL0325,2024-11-02,P002,A008,Combat,4.2,8082,Cancelled,Advanced combat training
+FL0326,2024-11-02,P014,A003,Reconnaissance,3.0,5601,Cancelled,Joint force reconnaissance exercise
+FL0327,2024-11-02,P008,A018,Combat,4.8,9301,Completed,Standard combat procedures
+FL0328,2024-11-02,P017,A004,Training,1.8,3280,Completed,Coastal training operation
+FL0329,2024-11-02,P004,A018,Reconnaissance,3.1,6003,Completed,Advanced reconnaissance training
+FL0330,2024-11-02,P017,A003,Patrol,3.9,7359,Completed,Night patrol mission
+FL0331,2024-11-03,P016,A011,Combat,3.5,6740,Cancelled,Standard combat procedures
+FL0332,2024-11-03,P016,A013,Training,2.0,3860,Completed,Routine training mission
+FL0333,2024-11-03,P015,A005,Combat,3.7,7517,Completed,Routine combat mission
+FL0334,2024-11-03,P016,A008,Reconnaissance,4.3,8607,Completed,Standard reconnaissance procedures
+FL0335,2024-11-03,P017,A007,Patrol,2.8,5232,Completed,Successful patrol operation
+FL0336,2024-11-03,P015,A004,Training,2.4,4882,Completed,training systems check completed
+FL0337,2024-11-03,P015,A002,Patrol,3.1,6076,Completed,Advanced patrol training
+FL0338,2024-11-03,P013,A018,Patrol,3.8,7413,Completed,Advanced patrol training
+FL0339,2024-11-03,P009,A003,Patrol,3.3,6267,Completed,Advanced patrol training
+FL0340,2024-11-03,P016,A004,Transport,3.1,6012,Completed,Advanced transport training
+FL0341,2024-11-04,P005,A020,Reconnaissance,4.3,7752,Completed,Routine reconnaissance mission
+FL0342,2024-11-04,P007,A006,Reconnaissance,4.2,7799,Completed,Joint force reconnaissance exercise
+FL0343,2024-11-04,P020,A006,Training,2.1,3952,Completed,Routine training mission
+FL0344,2024-11-04,P015,A017,Patrol,3.7,7687,Completed,Joint force patrol exercise
+FL0345,2024-11-04,P003,A009,Transport,2.4,4666,Cancelled,Weather-related transport mission
+FL0346,2024-11-04,P001,A001,Transport,3.3,6572,Completed,Emergency transport training
+FL0347,2024-11-04,P004,A010,Reconnaissance,4.2,8477,Completed,Emergency reconnaissance training
+FL0348,2024-11-04,P010,A016,Training,2.2,4595,Completed,Routine training mission
+FL0349,2024-11-04,P008,A009,Reconnaissance,3.3,6509,Completed,Successful reconnaissance operation
+FL0350,2024-11-04,P005,A006,Reconnaissance,4.1,8043,Completed,Night reconnaissance mission
+FL0351,2024-11-05,P013,A009,Combat,4.4,8622,Cancelled,Emergency combat training
+FL0352,2024-11-05,P019,A018,Transport,2.8,5458,Completed,Successful transport operation
+FL0353,2024-11-05,P012,A016,Transport,3.3,5995,Cancelled,Standard transport procedures
+FL0354,2024-11-05,P010,A020,Combat,4.9,9776,Completed,Emergency combat training
+FL0355,2024-11-05,P014,A009,Transport,3.2,6254,Completed,transport systems check completed
+FL0356,2024-11-05,P016,A007,Patrol,3.9,7636,Cancelled,Successful patrol operation
+FL0357,2024-11-05,P003,A011,Reconnaissance,4.2,8810,Cancelled,reconnaissance systems check completed
+FL0358,2024-11-05,P001,A010,Reconnaissance,3.5,6816,Completed,Coastal reconnaissance operation
+FL0359,2024-11-05,P020,A009,Combat,3.6,6768,Completed,Advanced combat training
+FL0360,2024-11-05,P001,A009,Reconnaissance,4.3,8108,Completed,Advanced reconnaissance training
+FL0361,2024-11-06,P020,A011,Transport,2.3,4612,Completed,Weather-related transport mission
+FL0362,2024-11-06,P007,A016,Training,1.8,3589,Completed,training systems check completed
+FL0363,2024-11-06,P004,A004,Transport,3.1,5594,Completed,Night transport mission
+FL0364,2024-11-06,P017,A002,Combat,3.8,7899,Completed,Emergency combat training
+FL0365,2024-11-06,P014,A009,Training,1.8,3344,Completed,Routine training mission
+FL0366,2024-11-06,P009,A008,Training,1.9,3687,Completed,Standard training procedures
+FL0367,2024-11-06,P012,A016,Combat,4.6,9500,Completed,Advanced combat training
+FL0368,2024-11-06,P008,A011,Transport,2.5,5213,Completed,Joint force transport exercise
+FL0369,2024-11-06,P014,A008,Transport,2.8,5518,Completed,transport systems check completed
+FL0370,2024-11-06,P001,A007,Reconnaissance,3.7,6760,Cancelled,reconnaissance systems check completed
+FL0371,2024-11-07,P009,A020,Training,2.2,4353,Completed,Night training mission
+FL0372,2024-11-07,P004,A020,Combat,4.9,9761,Completed,Night combat mission
+FL0373,2024-11-07,P018,A007,Transport,2.9,5556,Completed,Coastal transport operation
+FL0374,2024-11-07,P008,A007,Transport,2.7,5483,Completed,transport systems check completed
+FL0375,2024-11-07,P020,A020,Training,2.7,5290,Completed,Advanced training training
+FL0376,2024-11-07,P013,A005,Transport,2.7,4883,Completed,Advanced transport training
+FL0377,2024-11-07,P010,A005,Patrol,3.5,7125,Completed,Joint force patrol exercise
+FL0378,2024-11-07,P013,A004,Combat,3.8,7142,Completed,combat systems check completed
+FL0379,2024-11-07,P013,A013,Transport,2.8,5486,Completed,transport systems check completed
+FL0380,2024-11-07,P016,A004,Reconnaissance,3.2,6295,Completed,Routine reconnaissance mission
+FL0381,2024-11-08,P002,A001,Training,1.8,3283,Cancelled,Coastal training operation
+FL0382,2024-11-08,P012,A015,Combat,4.1,8245,Completed,Advanced combat training
+FL0383,2024-11-08,P005,A014,Combat,3.6,7186,Completed,Advanced combat training
+FL0384,2024-11-08,P009,A003,Combat,4.9,9735,Completed,Routine combat mission
+FL0385,2024-11-08,P017,A019,Transport,2.4,4373,Cancelled,Emergency transport training
+FL0386,2024-11-08,P015,A016,Patrol,2.9,5875,Completed,Joint force patrol exercise
+FL0387,2024-11-08,P019,A010,Patrol,3.4,6195,Completed,patrol systems check completed
+FL0388,2024-11-08,P013,A001,Reconnaissance,3.0,6273,Completed,Night reconnaissance mission
+FL0389,2024-11-08,P007,A014,Transport,2.6,4906,Completed,Joint force transport exercise
+FL0390,2024-11-08,P008,A016,Training,2.6,5260,Cancelled,Emergency training training
+FL0391,2024-11-09,P002,A013,Training,1.5,3025,Completed,Emergency training training
+FL0392,2024-11-09,P017,A005,Training,1.6,2977,Completed,Night training mission
+FL0393,2024-11-09,P019,A014,Patrol,3.6,7194,Completed,Standard patrol procedures
+FL0394,2024-11-09,P014,A009,Patrol,3.0,6115,Completed,Successful patrol operation
+FL0395,2024-11-09,P010,A006,Transport,2.8,5609,Completed,Successful transport operation
+FL0396,2024-11-09,P017,A012,Reconnaissance,4.1,7588,Completed,Standard reconnaissance procedures
+FL0397,2024-11-09,P016,A010,Patrol,3.3,6252,Completed,Standard patrol procedures
+FL0398,2024-11-09,P010,A009,Combat,4.8,9871,Cancelled,Night combat mission
+FL0399,2024-11-09,P007,A003,Patrol,3.7,7227,Completed,Night patrol mission
+FL0400,2024-11-09,P017,A017,Patrol,2.5,4903,Completed,Coastal patrol operation
+FL0401,2024-11-10,P012,A003,Transport,3.4,6811,Completed,Joint force transport exercise
+FL0402,2024-11-10,P016,A017,Training,2.2,4561,Completed,Coastal training operation
+FL0403,2024-11-10,P002,A007,Patrol,3.5,6474,Cancelled,Night patrol mission
+FL0404,2024-11-10,P011,A016,Training,2.7,5593,Completed,Weather-related training mission
+FL0405,2024-11-10,P009,A012,Training,2.5,4858,Completed,Weather-related training mission
+FL0406,2024-11-10,P002,A016,Combat,4.0,7492,Cancelled,Emergency combat training
+FL0407,2024-11-10,P018,A019,Patrol,3.4,6213,Completed,Routine patrol mission
+FL0408,2024-11-10,P019,A003,Patrol,3.2,5881,Completed,Successful patrol operation
+FL0409,2024-11-10,P005,A017,Training,1.7,3063,Completed,training systems check completed
+FL0410,2024-11-10,P003,A014,Transport,2.8,5283,Completed,Routine transport mission
+FL0411,2024-11-11,P020,A014,Combat,4.8,9668,Completed,Standard combat procedures
+FL0412,2024-11-11,P010,A001,Reconnaissance,3.5,6578,Completed,Coastal reconnaissance operation
+FL0413,2024-11-11,P019,A020,Training,2.7,5542,Completed,Coastal training operation
+FL0414,2024-11-11,P007,A001,Reconnaissance,4.0,8208,Completed,reconnaissance systems check completed
+FL0415,2024-11-11,P006,A005,Training,1.8,3757,Cancelled,Successful training operation
+FL0416,2024-11-11,P008,A018,Transport,2.7,5029,Completed,Joint force transport exercise
+FL0417,2024-11-11,P017,A013,Combat,3.7,6863,Completed,Standard combat procedures
+FL0418,2024-11-11,P006,A020,Reconnaissance,3.3,6859,Completed,Coastal reconnaissance operation
+FL0419,2024-11-11,P010,A011,Training,1.7,3062,Completed,Standard training procedures
+FL0420,2024-11-11,P012,A006,Patrol,2.5,5169,Completed,Joint force patrol exercise
+FL0421,2024-11-12,P014,A020,Patrol,3.2,6324,Completed,Weather-related patrol mission
+FL0422,2024-11-12,P003,A020,Combat,4.0,7235,Completed,Joint force combat exercise
+FL0423,2024-11-12,P015,A018,Reconnaissance,2.9,5489,Completed,Routine reconnaissance mission
+FL0424,2024-11-12,P017,A002,Transport,3.1,5971,Completed,Joint force transport exercise
+FL0425,2024-11-12,P001,A020,Transport,3.3,6842,Completed,Standard transport procedures
+FL0426,2024-11-12,P005,A018,Combat,4.2,8405,Completed,combat systems check completed
+FL0427,2024-11-12,P001,A011,Training,1.6,2978,Completed,Joint force training exercise
+FL0428,2024-11-12,P010,A006,Training,2.4,4884,Completed,Weather-related training mission
+FL0429,2024-11-12,P006,A004,Training,2.3,4407,Completed,Emergency training training
+FL0430,2024-11-12,P018,A016,Transport,2.8,5054,Cancelled,Routine transport mission
+FL0431,2024-11-13,P010,A007,Combat,3.7,6888,Completed,Joint force combat exercise
+FL0432,2024-11-13,P008,A005,Transport,2.5,4924,Completed,Joint force transport exercise
+FL0433,2024-11-13,P016,A001,Transport,2.7,5401,Completed,Coastal transport operation
+FL0434,2024-11-13,P016,A002,Training,1.7,3363,Cancelled,Standard training procedures
+FL0435,2024-11-13,P013,A017,Reconnaissance,2.8,5644,Completed,Weather-related reconnaissance mission
+FL0436,2024-11-13,P010,A010,Patrol,3.9,7999,Completed,Coastal patrol operation
+FL0437,2024-11-13,P002,A013,Combat,4.5,9078,Cancelled,Emergency combat training
+FL0438,2024-11-13,P010,A012,Reconnaissance,4.2,8763,Completed,Emergency reconnaissance training
+FL0439,2024-11-13,P005,A013,Training,1.8,3531,Cancelled,Night training mission
+FL0440,2024-11-13,P020,A018,Patrol,3.5,6588,Completed,Routine patrol mission
+FL0441,2024-11-14,P011,A002,Reconnaissance,3.6,7005,Completed,Night reconnaissance mission
+FL0442,2024-11-14,P004,A019,Patrol,2.8,5399,Completed,Night patrol mission
+FL0443,2024-11-14,P012,A006,Transport,2.5,5242,Completed,Coastal transport operation
+FL0444,2024-11-14,P018,A008,Patrol,4.0,7950,Completed,Routine patrol mission
+FL0445,2024-11-14,P001,A015,Patrol,2.5,4896,Completed,Coastal patrol operation
+FL0446,2024-11-14,P014,A007,Patrol,3.3,6048,Completed,Advanced patrol training
+FL0447,2024-11-14,P013,A007,Combat,3.7,6777,Completed,Coastal combat operation
+FL0448,2024-11-14,P011,A005,Combat,4.0,8070,Completed,Coastal combat operation
+FL0449,2024-11-14,P012,A013,Patrol,3.0,5593,Completed,Successful patrol operation
+FL0450,2024-11-14,P020,A019,Combat,3.5,6458,Completed,Routine combat mission
+FL0451,2024-11-15,P018,A016,Reconnaissance,3.5,7141,Completed,Night reconnaissance mission
+FL0452,2024-11-15,P002,A003,Reconnaissance,3.5,7328,Completed,Advanced reconnaissance training
+FL0453,2024-11-15,P017,A015,Transport,3.3,6663,Completed,Successful transport operation
+FL0454,2024-11-15,P004,A013,Reconnaissance,3.8,7701,Cancelled,Routine reconnaissance mission
+FL0455,2024-11-15,P017,A018,Training,2.6,5456,Completed,Successful training operation
+FL0456,2024-11-15,P016,A008,Combat,3.9,7951,Completed,Standard combat procedures
+FL0457,2024-11-15,P019,A007,Reconnaissance,3.4,6945,Completed,Advanced reconnaissance training
+FL0458,2024-11-15,P005,A016,Patrol,3.4,6467,Completed,Successful patrol operation
+FL0459,2024-11-15,P009,A004,Transport,3.2,5779,Completed,Night transport mission
+FL0460,2024-11-15,P020,A006,Patrol,3.2,6494,Completed,patrol systems check completed
+FL0461,2024-11-16,P006,A014,Combat,4.9,9522,Completed,Standard combat procedures
+FL0462,2024-11-16,P005,A004,Combat,4.3,8383,Completed,combat systems check completed
+FL0463,2024-11-16,P015,A018,Transport,2.2,4099,Completed,Coastal transport operation
+FL0464,2024-11-16,P002,A018,Reconnaissance,4.2,8679,Completed,Successful reconnaissance operation
+FL0465,2024-11-16,P004,A005,Patrol,2.8,5203,Completed,Night patrol mission
+FL0466,2024-11-16,P011,A010,Combat,4.1,7883,Cancelled,Emergency combat training
+FL0467,2024-11-16,P010,A002,Training,2.0,3877,Completed,Coastal training operation
+FL0468,2024-11-16,P009,A020,Transport,3.1,5629,Completed,Advanced transport training
+FL0469,2024-11-16,P004,A001,Reconnaissance,4.1,8215,Completed,Coastal reconnaissance operation
+FL0470,2024-11-16,P011,A006,Combat,4.1,7429,Completed,Emergency combat training
+FL0471,2024-11-17,P008,A007,Transport,2.5,4567,Completed,Advanced transport training
+FL0472,2024-11-17,P007,A014,Patrol,3.8,7401,Completed,Routine patrol mission
+FL0473,2024-11-17,P006,A017,Transport,2.3,4776,Completed,Coastal transport operation
+FL0474,2024-11-17,P018,A009,Patrol,3.5,6903,Completed,Emergency patrol training
+FL0475,2024-11-17,P002,A012,Combat,4.6,8815,Cancelled,Joint force combat exercise
+FL0476,2024-11-17,P013,A006,Combat,4.9,10131,Completed,Joint force combat exercise
+FL0477,2024-11-17,P010,A009,Transport,2.9,5797,Cancelled,Successful transport operation
+FL0478,2024-11-17,P009,A017,Reconnaissance,3.5,7149,Completed,reconnaissance systems check completed
+FL0479,2024-11-17,P007,A009,Reconnaissance,3.4,7039,Cancelled,Successful reconnaissance operation
+FL0480,2024-11-17,P001,A015,Transport,2.9,5952,Cancelled,transport systems check completed
+FL0481,2024-11-18,P010,A019,Transport,2.7,5131,Completed,transport systems check completed
+FL0482,2024-11-18,P007,A002,Patrol,2.8,5486,Completed,Weather-related patrol mission
+FL0483,2024-11-18,P006,A014,Training,2.0,3748,Completed,Advanced training training
+FL0484,2024-11-18,P012,A011,Training,1.9,3670,Completed,training systems check completed
+FL0485,2024-11-18,P008,A016,Reconnaissance,3.2,5806,Completed,Coastal reconnaissance operation
+FL0486,2024-11-18,P014,A006,Transport,2.2,4456,Completed,Routine transport mission
+FL0487,2024-11-18,P013,A003,Patrol,3.4,6209,Cancelled,Weather-related patrol mission
+FL0488,2024-11-18,P015,A014,Patrol,3.6,6747,Completed,Successful patrol operation
+FL0489,2024-11-18,P004,A020,Transport,3.2,5975,Cancelled,Advanced transport training
+FL0490,2024-11-18,P005,A014,Training,1.8,3584,Completed,Joint force training exercise
+FL0491,2024-11-19,P017,A018,Reconnaissance,3.7,7083,Completed,Advanced reconnaissance training
+FL0492,2024-11-19,P016,A017,Training,2.3,4229,Completed,Successful training operation
+FL0493,2024-11-19,P004,A013,Reconnaissance,3.0,5435,Completed,Joint force reconnaissance exercise
+FL0494,2024-11-19,P015,A019,Training,2.0,3736,Completed,Night training mission
+FL0495,2024-11-19,P003,A011,Reconnaissance,4.3,8163,Completed,Night reconnaissance mission
+FL0496,2024-11-19,P010,A011,Training,1.6,3146,Completed,Advanced training training
+FL0497,2024-11-19,P014,A012,Combat,3.7,7376,Completed,Emergency combat training
+FL0498,2024-11-19,P002,A009,Patrol,4.0,7969,Completed,patrol systems check completed
+FL0499,2024-11-19,P001,A016,Transport,3.4,6389,Completed,Joint force transport exercise
+FL0500,2024-11-19,P017,A015,Training,1.9,3814,Completed,training systems check completed
+FL0501,2024-11-20,P010,A001,Transport,2.8,5594,Cancelled,transport systems check completed
+FL0502,2024-11-20,P006,A013,Reconnaissance,2.8,5567,Completed,Weather-related reconnaissance mission
+FL0503,2024-11-20,P009,A018,Transport,2.4,4970,Completed,transport systems check completed
+FL0504,2024-11-20,P009,A020,Training,2.0,4078,Completed,Advanced training training
+FL0505,2024-11-20,P003,A002,Reconnaissance,4.3,8071,Completed,Night reconnaissance mission
+FL0506,2024-11-20,P009,A007,Training,1.8,3382,Completed,Standard training procedures
+FL0507,2024-11-20,P006,A004,Combat,4.7,8861,Completed,Joint force combat exercise
+FL0508,2024-11-20,P014,A019,Reconnaissance,3.6,7326,Completed,Emergency reconnaissance training
+FL0509,2024-11-20,P010,A002,Combat,3.6,6859,Completed,combat systems check completed
+FL0510,2024-11-20,P006,A003,Transport,2.5,4532,Completed,Joint force transport exercise
+FL0511,2024-11-21,P015,A015,Training,1.9,3460,Completed,Standard training procedures
+FL0512,2024-11-21,P002,A014,Patrol,3.9,7177,Completed,Successful patrol operation
+FL0513,2024-11-21,P014,A014,Training,2.1,3826,Cancelled,Joint force training exercise
+FL0514,2024-11-21,P007,A018,Transport,3.1,5992,Completed,Coastal transport operation
+FL0515,2024-11-21,P004,A015,Training,2.5,4971,Completed,Joint force training exercise
+FL0516,2024-11-21,P005,A002,Transport,2.2,4046,Completed,Night transport mission
+FL0517,2024-11-21,P004,A007,Training,2.6,4957,Completed,Routine training mission
+FL0518,2024-11-21,P003,A010,Combat,3.8,7154,Completed,Night combat mission
+FL0519,2024-11-21,P018,A007,Patrol,3.8,6919,Completed,Advanced patrol training
+FL0520,2024-11-21,P001,A009,Combat,5.0,10289,Completed,Advanced combat training
+FL0521,2024-11-22,P012,A007,Training,2.3,4780,Completed,Coastal training operation
+FL0522,2024-11-22,P006,A002,Patrol,3.2,5891,Completed,Night patrol mission
+FL0523,2024-11-22,P015,A013,Transport,3.2,6144,Cancelled,Weather-related transport mission
+FL0524,2024-11-22,P009,A017,Transport,3.0,6190,Completed,Standard transport procedures
+FL0525,2024-11-22,P016,A018,Patrol,3.1,6433,Completed,Weather-related patrol mission
+FL0526,2024-11-22,P016,A007,Patrol,3.3,6291,Completed,Standard patrol procedures
+FL0527,2024-11-22,P017,A003,Combat,3.8,7317,Completed,Emergency combat training
+FL0528,2024-11-22,P002,A017,Patrol,2.9,6017,Completed,Weather-related patrol mission
+FL0529,2024-11-22,P005,A016,Patrol,2.7,5036,Completed,patrol systems check completed
+FL0530,2024-11-22,P016,A012,Reconnaissance,3.0,5774,Completed,Routine reconnaissance mission
+FL0531,2024-11-23,P009,A003,Reconnaissance,3.9,7250,Completed,Advanced reconnaissance training
+FL0532,2024-11-23,P019,A011,Combat,5.0,10300,Completed,Weather-related combat mission
+FL0533,2024-11-23,P014,A009,Transport,3.1,6155,Completed,Coastal transport operation
+FL0534,2024-11-23,P018,A006,Combat,3.6,6586,Cancelled,Weather-related combat mission
+FL0535,2024-11-23,P011,A008,Training,2.0,3934,Completed,Successful training operation
+FL0536,2024-11-23,P016,A001,Training,2.1,3849,Completed,Joint force training exercise
+FL0537,2024-11-23,P007,A008,Training,2.4,4679,Completed,Successful training operation
+FL0538,2024-11-23,P010,A002,Training,2.2,4221,Completed,Successful training operation
+FL0539,2024-11-23,P013,A019,Patrol,3.2,5796,Completed,patrol systems check completed
+FL0540,2024-11-23,P004,A019,Training,2.5,5174,Cancelled,Coastal training operation
+FL0541,2024-11-24,P014,A017,Training,1.6,3189,Completed,Night training mission
+FL0542,2024-11-24,P013,A012,Training,2.1,4098,Completed,Successful training operation
+FL0543,2024-11-24,P006,A003,Training,2.5,4942,Completed,Night training mission
+FL0544,2024-11-24,P013,A020,Reconnaissance,3.8,7534,Cancelled,Coastal reconnaissance operation
+FL0545,2024-11-24,P004,A005,Transport,2.9,5855,Completed,Advanced transport training
+FL0546,2024-11-24,P010,A002,Patrol,3.2,6485,Completed,Routine patrol mission
+FL0547,2024-11-24,P017,A012,Transport,2.6,5266,Completed,Standard transport procedures
+FL0548,2024-11-24,P006,A013,Training,2.5,4949,Completed,Standard training procedures
+FL0549,2024-11-24,P002,A008,Training,2.6,5164,Completed,Standard training procedures
+FL0550,2024-11-24,P007,A014,Combat,5.0,9567,Cancelled,Weather-related combat mission
+FL0551,2024-11-25,P014,A001,Combat,4.3,8644,Completed,Successful combat operation
+FL0552,2024-11-25,P008,A017,Patrol,3.9,7511,Completed,Successful patrol operation
+FL0553,2024-11-25,P013,A011,Combat,3.6,6489,Completed,Weather-related combat mission
+FL0554,2024-11-25,P020,A017,Patrol,3.8,7860,Completed,Coastal patrol operation
+FL0555,2024-11-25,P015,A017,Combat,4.3,8267,Cancelled,Night combat mission
+FL0556,2024-11-25,P011,A005,Combat,4.0,7955,Cancelled,Joint force combat exercise
+FL0557,2024-11-25,P002,A005,Reconnaissance,3.1,5959,Completed,Advanced reconnaissance training
+FL0558,2024-11-25,P018,A001,Reconnaissance,4.0,7220,Completed,Routine reconnaissance mission
+FL0559,2024-11-25,P007,A020,Transport,2.2,3993,Completed,Successful transport operation
+FL0560,2024-11-25,P017,A020,Patrol,3.8,7160,Completed,Routine patrol mission
+FL0561,2024-11-26,P013,A006,Patrol,3.8,7705,Completed,Night patrol mission
+FL0562,2024-11-26,P013,A017,Reconnaissance,2.8,5659,Completed,Weather-related reconnaissance mission
+FL0563,2024-11-26,P003,A002,Patrol,3.6,7468,Cancelled,patrol systems check completed
+FL0564,2024-11-26,P001,A012,Reconnaissance,4.4,9090,Completed,reconnaissance systems check completed
+FL0565,2024-11-26,P003,A019,Combat,4.2,7825,Completed,Night combat mission
+FL0566,2024-11-26,P011,A007,Combat,4.3,8859,Completed,Night combat mission
+FL0567,2024-11-26,P012,A018,Patrol,2.5,5049,Cancelled,Weather-related patrol mission
+FL0568,2024-11-26,P007,A002,Reconnaissance,4.0,7210,Completed,Night reconnaissance mission
+FL0569,2024-11-26,P014,A008,Patrol,2.9,5579,Completed,Night patrol mission
+FL0570,2024-11-26,P010,A011,Combat,3.9,7841,Completed,Routine combat mission
+FL0571,2024-11-27,P019,A015,Patrol,2.5,4765,Completed,Night patrol mission
+FL0572,2024-11-27,P009,A009,Combat,4.5,9098,Completed,Night combat mission
+FL0573,2024-11-27,P015,A016,Training,2.5,4745,Completed,Coastal training operation
+FL0574,2024-11-27,P019,A019,Reconnaissance,4.4,8893,Completed,Successful reconnaissance operation
+FL0575,2024-11-27,P016,A013,Reconnaissance,2.9,6022,Completed,Routine reconnaissance mission
+FL0576,2024-11-27,P010,A019,Training,2.3,4745,Completed,Weather-related training mission
+FL0577,2024-11-27,P015,A008,Transport,3.2,5788,Completed,Emergency transport training
+FL0578,2024-11-27,P017,A020,Training,1.7,3404,Completed,Advanced training training
+FL0579,2024-11-27,P018,A019,Patrol,3.1,6070,Completed,Standard patrol procedures
+FL0580,2024-11-27,P004,A006,Reconnaissance,4.4,8229,Completed,Emergency reconnaissance training
+FL0581,2024-11-28,P020,A018,Patrol,3.0,5439,Completed,Standard patrol procedures
+FL0582,2024-11-28,P015,A006,Reconnaissance,4.3,8004,Completed,Standard reconnaissance procedures
+FL0583,2024-11-28,P005,A003,Combat,4.9,9650,Completed,Advanced combat training
+FL0584,2024-11-28,P011,A012,Patrol,3.2,6582,Cancelled,Coastal patrol operation
+FL0585,2024-11-28,P010,A008,Combat,4.3,8048,Completed,Standard combat procedures
+FL0586,2024-11-28,P020,A014,Patrol,3.7,7176,Completed,Night patrol mission
+FL0587,2024-11-28,P015,A003,Combat,4.5,8782,Completed,Weather-related combat mission
+FL0588,2024-11-28,P014,A005,Reconnaissance,3.1,6364,Completed,Joint force reconnaissance exercise
+FL0589,2024-11-28,P003,A020,Combat,3.8,7167,Completed,Standard combat procedures
+FL0590,2024-11-28,P002,A005,Reconnaissance,4.0,8319,Completed,reconnaissance systems check completed
+FL0591,2024-11-29,P015,A002,Transport,3.4,6761,Completed,transport systems check completed
+FL0592,2024-11-29,P009,A012,Patrol,3.8,7079,Completed,Night patrol mission
+FL0593,2024-11-29,P006,A020,Transport,2.7,5008,Completed,Weather-related transport mission
+FL0594,2024-11-29,P019,A011,Transport,3.4,6509,Completed,Successful transport operation
+FL0595,2024-11-29,P001,A005,Training,1.9,3559,Completed,Night training mission
+FL0596,2024-11-29,P005,A019,Combat,4.6,8647,Completed,Night combat mission
+FL0597,2024-11-29,P003,A007,Training,1.6,2966,Completed,Joint force training exercise
+FL0598,2024-11-29,P018,A011,Combat,3.9,7236,Completed,Weather-related combat mission
+FL0599,2024-11-29,P004,A008,Combat,4.1,7795,Completed,combat systems check completed
+FL0600,2024-11-29,P008,A011,Transport,2.4,4395,Completed,Emergency transport training
+FL0601,2024-11-30,P002,A009,Transport,2.1,3818,Completed,Night transport mission
+FL0602,2024-11-30,P001,A011,Patrol,3.1,6155,Completed,Routine patrol mission
+FL0603,2024-11-30,P011,A018,Transport,2.5,4820,Cancelled,Routine transport mission
+FL0604,2024-11-30,P003,A003,Training,2.5,4721,Completed,Night training mission
+FL0605,2024-11-30,P012,A003,Patrol,3.8,7256,Completed,Advanced patrol training
+FL0606,2024-11-30,P010,A019,Transport,2.4,4374,Completed,Joint force transport exercise
+FL0607,2024-11-30,P015,A003,Reconnaissance,2.9,5564,Completed,Successful reconnaissance operation
+FL0608,2024-11-30,P005,A012,Training,2.7,5242,Completed,Night training mission
+FL0609,2024-11-30,P005,A012,Training,2.4,4431,Completed,Night training mission
+FL0610,2024-11-30,P016,A006,Transport,2.9,5874,Completed,Joint force transport exercise
+FL0611,2024-12-01,P017,A001,Training,2.3,4765,Completed,Emergency training training
+FL0612,2024-12-01,P003,A007,Transport,3.3,6152,Completed,transport systems check completed
+FL0613,2024-12-01,P001,A012,Training,2.4,4475,Cancelled,Night training mission
+FL0614,2024-12-01,P004,A014,Transport,2.3,4324,Completed,transport systems check completed
+FL0615,2024-12-01,P009,A005,Patrol,4.0,7757,Cancelled,Routine patrol mission
+FL0616,2024-12-01,P010,A018,Training,2.4,4523,Completed,Emergency training training
+FL0617,2024-12-01,P016,A011,Combat,4.8,9699,Cancelled,Weather-related combat mission
+FL0618,2024-12-01,P018,A020,Reconnaissance,4.2,8140,Completed,reconnaissance systems check completed
+FL0619,2024-12-01,P008,A010,Patrol,3.0,6116,Completed,Coastal patrol operation
+FL0620,2024-12-01,P011,A001,Reconnaissance,2.9,5596,Completed,Advanced reconnaissance training
+FL0621,2024-12-02,P002,A005,Combat,3.7,7114,Completed,Night combat mission
+FL0622,2024-12-02,P004,A016,Reconnaissance,4.3,8699,Cancelled,Night reconnaissance mission
+FL0623,2024-12-02,P005,A006,Combat,4.4,9166,Completed,Standard combat procedures
+FL0624,2024-12-02,P016,A012,Patrol,3.7,7301,Completed,Weather-related patrol mission
+FL0625,2024-12-02,P005,A017,Reconnaissance,2.9,5436,Completed,Routine reconnaissance mission
+FL0626,2024-12-02,P009,A013,Training,2.2,4259,Completed,Routine training mission
+FL0627,2024-12-02,P011,A006,Reconnaissance,3.9,7059,Completed,Joint force reconnaissance exercise
+FL0628,2024-12-02,P010,A011,Patrol,3.3,6615,Completed,Weather-related patrol mission
+FL0629,2024-12-02,P014,A013,Reconnaissance,4.2,8766,Completed,Coastal reconnaissance operation
+FL0630,2024-12-02,P020,A018,Reconnaissance,3.5,7283,Completed,Standard reconnaissance procedures
+FL0631,2024-12-03,P006,A016,Reconnaissance,3.3,6714,Completed,Joint force reconnaissance exercise
+FL0632,2024-12-03,P018,A019,Transport,2.6,4970,Cancelled,Successful transport operation
+FL0633,2024-12-03,P018,A017,Patrol,3.3,6252,Completed,Coastal patrol operation
+FL0634,2024-12-03,P020,A019,Combat,3.8,7390,Completed,Standard combat procedures
+FL0635,2024-12-03,P009,A002,Combat,3.7,7514,Completed,Joint force combat exercise
+FL0636,2024-12-03,P012,A020,Transport,2.5,4728,Completed,Advanced transport training
+FL0637,2024-12-03,P017,A009,Transport,3.4,6630,Completed,transport systems check completed
+FL0638,2024-12-03,P007,A015,Reconnaissance,3.0,5424,Completed,reconnaissance systems check completed
+FL0639,2024-12-03,P006,A007,Transport,2.2,4414,Completed,Routine transport mission
+FL0640,2024-12-03,P014,A003,Reconnaissance,3.2,6339,Completed,Weather-related reconnaissance mission
+FL0641,2024-12-04,P011,A015,Transport,2.6,5309,Completed,Advanced transport training
+FL0642,2024-12-04,P007,A016,Training,2.6,5280,Completed,Weather-related training mission
+FL0643,2024-12-04,P012,A015,Transport,2.5,4631,Completed,Successful transport operation
+FL0644,2024-12-04,P016,A007,Transport,2.9,5950,Completed,Successful transport operation
+FL0645,2024-12-04,P013,A009,Patrol,3.9,7653,Completed,Joint force patrol exercise
+FL0646,2024-12-04,P019,A018,Reconnaissance,3.4,6463,Completed,Successful reconnaissance operation
+FL0647,2024-12-04,P007,A020,Training,2.2,4479,Completed,training systems check completed
+FL0648,2024-12-04,P012,A018,Transport,2.5,4636,Cancelled,Advanced transport training
+FL0649,2024-12-04,P008,A015,Reconnaissance,3.1,6018,Cancelled,Night reconnaissance mission
+FL0650,2024-12-04,P005,A009,Patrol,3.8,7890,Completed,Emergency patrol training
+FL0651,2024-12-05,P014,A008,Reconnaissance,3.7,7688,Completed,Routine reconnaissance mission
+FL0652,2024-12-05,P020,A008,Combat,3.7,7249,Completed,Routine combat mission
+FL0653,2024-12-05,P001,A003,Reconnaissance,4.3,8065,Completed,reconnaissance systems check completed
+FL0654,2024-12-05,P010,A020,Training,2.1,4240,Completed,Standard training procedures
+FL0655,2024-12-05,P004,A018,Reconnaissance,2.9,5582,Completed,Joint force reconnaissance exercise
+FL0656,2024-12-05,P011,A007,Training,1.6,3077,Completed,Weather-related training mission
+FL0657,2024-12-05,P009,A010,Training,2.3,4813,Completed,Weather-related training mission
+FL0658,2024-12-05,P001,A004,Combat,4.8,9107,Completed,combat systems check completed
+FL0659,2024-12-05,P019,A004,Transport,2.5,4677,Completed,Successful transport operation
+FL0660,2024-12-05,P020,A008,Transport,3.0,6006,Completed,transport systems check completed
+FL0661,2024-12-06,P012,A001,Transport,2.9,5655,Completed,Emergency transport training
+FL0662,2024-12-06,P014,A016,Reconnaissance,3.0,5606,Completed,Night reconnaissance mission
+FL0663,2024-12-06,P002,A017,Combat,4.4,7961,Completed,combat systems check completed
+FL0664,2024-12-06,P002,A014,Combat,3.5,6662,Completed,Advanced combat training
+FL0665,2024-12-06,P005,A017,Training,1.8,3247,Cancelled,training systems check completed
+FL0666,2024-12-06,P020,A011,Combat,3.7,7216,Completed,Advanced combat training
+FL0667,2024-12-06,P003,A015,Training,2.1,4291,Completed,Standard training procedures
+FL0668,2024-12-06,P005,A003,Combat,4.8,9515,Completed,Routine combat mission
+FL0669,2024-12-06,P013,A012,Reconnaissance,3.0,5690,Completed,Routine reconnaissance mission
+FL0670,2024-12-06,P012,A015,Transport,3.4,7126,Completed,Routine transport mission
+FL0671,2024-12-07,P003,A001,Training,2.1,4394,Completed,Emergency training training
+FL0672,2024-12-07,P010,A008,Transport,2.5,5233,Completed,Emergency transport training
+FL0673,2024-12-07,P010,A016,Reconnaissance,3.3,6700,Cancelled,Standard reconnaissance procedures
+FL0674,2024-12-07,P006,A015,Training,1.9,3466,Completed,Successful training operation
+FL0675,2024-12-07,P017,A009,Combat,3.8,7348,Completed,Weather-related combat mission
+FL0676,2024-12-07,P003,A015,Training,1.9,3864,Completed,Routine training mission
+FL0677,2024-12-07,P011,A017,Reconnaissance,3.7,7108,Completed,Standard reconnaissance procedures
+FL0678,2024-12-07,P011,A009,Reconnaissance,3.4,6703,Completed,Successful reconnaissance operation
+FL0679,2024-12-07,P019,A009,Patrol,3.6,6882,Completed,Night patrol mission
+FL0680,2024-12-07,P010,A018,Combat,3.7,6928,Completed,Coastal combat operation
+FL0681,2024-12-08,P003,A010,Combat,4.7,8806,Completed,Coastal combat operation
+FL0682,2024-12-08,P010,A012,Patrol,3.1,6429,Completed,patrol systems check completed
+FL0683,2024-12-08,P002,A003,Training,2.3,4696,Completed,Emergency training training
+FL0684,2024-12-08,P003,A010,Training,2.4,4824,Completed,training systems check completed
+FL0685,2024-12-08,P010,A012,Training,1.7,3107,Completed,Successful training operation
+FL0686,2024-12-08,P016,A014,Reconnaissance,4.4,8407,Completed,Advanced reconnaissance training
+FL0687,2024-12-08,P003,A012,Transport,2.9,5618,Completed,Joint force transport exercise
+FL0688,2024-12-08,P012,A006,Reconnaissance,4.3,8851,Completed,reconnaissance systems check completed
+FL0689,2024-12-08,P004,A011,Transport,3.5,6724,Completed,Coastal transport operation
+FL0690,2024-12-08,P009,A007,Training,2.1,4030,Cancelled,Weather-related training mission
+FL0691,2024-12-09,P002,A008,Combat,4.1,7394,Completed,Advanced combat training
+FL0692,2024-12-09,P009,A013,Combat,3.7,6885,Completed,Emergency combat training
+FL0693,2024-12-09,P020,A005,Reconnaissance,3.4,6121,Completed,Routine reconnaissance mission
+FL0694,2024-12-09,P019,A006,Transport,2.5,4947,Completed,Emergency transport training
+FL0695,2024-12-09,P011,A004,Combat,3.7,7159,Completed,Successful combat operation
+FL0696,2024-12-09,P010,A014,Combat,3.6,7255,Completed,Standard combat procedures
+FL0697,2024-12-09,P003,A017,Training,2.4,4653,Cancelled,Emergency training training
+FL0698,2024-12-09,P019,A014,Reconnaissance,3.0,5472,Completed,reconnaissance systems check completed
+FL0699,2024-12-09,P016,A017,Patrol,3.0,5978,Completed,Emergency patrol training
+FL0700,2024-12-09,P001,A018,Patrol,3.1,5866,Completed,Joint force patrol exercise
+FL0701,2024-12-10,P012,A010,Combat,4.3,9002,Cancelled,Emergency combat training
+FL0702,2024-12-10,P017,A012,Transport,3.1,6128,Completed,Advanced transport training
+FL0703,2024-12-10,P010,A008,Combat,4.3,8711,Completed,Advanced combat training
+FL0704,2024-12-10,P009,A017,Transport,3.0,5689,Completed,transport systems check completed
+FL0705,2024-12-10,P001,A004,Reconnaissance,4.0,8093,Completed,reconnaissance systems check completed
+FL0706,2024-12-10,P017,A006,Reconnaissance,3.1,5862,Cancelled,Coastal reconnaissance operation
+FL0707,2024-12-10,P012,A004,Reconnaissance,3.8,7955,Completed,Standard reconnaissance procedures
+FL0708,2024-12-10,P004,A012,Patrol,2.5,4643,Completed,Weather-related patrol mission
+FL0709,2024-12-10,P020,A012,Combat,3.7,7542,Completed,Weather-related combat mission
+FL0710,2024-12-10,P020,A004,Reconnaissance,4.3,8453,Completed,Standard reconnaissance procedures
+FL0711,2024-12-11,P009,A003,Combat,4.4,9028,Completed,Night combat mission
+FL0712,2024-12-11,P019,A011,Reconnaissance,3.2,6504,Completed,Standard reconnaissance procedures
+FL0713,2024-12-11,P011,A004,Patrol,3.8,7439,Completed,Night patrol mission
+FL0714,2024-12-11,P004,A015,Transport,2.5,4750,Cancelled,Standard transport procedures
+FL0715,2024-12-11,P018,A002,Patrol,3.0,6284,Completed,Routine patrol mission
+FL0716,2024-12-11,P015,A018,Patrol,3.5,7348,Completed,patrol systems check completed
+FL0717,2024-12-11,P012,A019,Combat,4.6,9281,Completed,Night combat mission
+FL0718,2024-12-11,P005,A006,Reconnaissance,3.2,6570,Completed,Standard reconnaissance procedures
+FL0719,2024-12-11,P001,A006,Training,2.7,4963,Completed,training systems check completed
+FL0720,2024-12-11,P003,A018,Transport,2.5,4736,Completed,transport systems check completed
+FL0721,2024-12-12,P017,A013,Reconnaissance,4.2,8572,Cancelled,Advanced reconnaissance training
+FL0722,2024-12-12,P008,A013,Training,1.5,2770,Completed,Emergency training training
+FL0723,2024-12-12,P020,A016,Combat,4.3,8533,Completed,Emergency combat training
+FL0724,2024-12-12,P012,A006,Training,1.9,3856,Completed,Advanced training training
+FL0725,2024-12-12,P004,A013,Reconnaissance,2.9,6016,Completed,Joint force reconnaissance exercise
+FL0726,2024-12-12,P019,A018,Transport,3.2,5846,Cancelled,Night transport mission
+FL0727,2024-12-12,P006,A016,Transport,3.0,5659,Completed,Coastal transport operation
+FL0728,2024-12-12,P018,A008,Transport,2.9,5896,Completed,Emergency transport training
+FL0729,2024-12-12,P006,A007,Patrol,3.5,6945,Cancelled,Joint force patrol exercise
+FL0730,2024-12-12,P002,A010,Transport,3.1,5974,Cancelled,Routine transport mission
+FL0731,2024-12-13,P011,A006,Transport,3.4,6949,Completed,Coastal transport operation
+FL0732,2024-12-13,P009,A013,Combat,3.9,7522,Completed,Night combat mission
+FL0733,2024-12-13,P004,A002,Reconnaissance,4.2,7761,Completed,reconnaissance systems check completed
+FL0734,2024-12-13,P003,A020,Reconnaissance,3.0,6119,Completed,Standard reconnaissance procedures
+FL0735,2024-12-13,P006,A001,Training,2.1,4245,Completed,Routine training mission
+FL0736,2024-12-13,P005,A008,Training,2.0,3981,Completed,Emergency training training
+FL0737,2024-12-13,P013,A004,Patrol,3.4,6370,Completed,Advanced patrol training
+FL0738,2024-12-13,P011,A016,Reconnaissance,3.0,5971,Completed,reconnaissance systems check completed
+FL0739,2024-12-13,P019,A010,Training,2.6,5313,Completed,Night training mission
+FL0740,2024-12-13,P002,A002,Patrol,3.7,7441,Completed,Night patrol mission
+FL0741,2024-12-14,P005,A012,Transport,3.2,6552,Completed,Coastal transport operation
+FL0742,2024-12-14,P020,A020,Transport,2.4,4588,Completed,transport systems check completed
+FL0743,2024-12-14,P017,A017,Transport,2.0,3995,Completed,Weather-related transport mission
+FL0744,2024-12-14,P019,A017,Patrol,2.9,5698,Completed,Routine patrol mission
+FL0745,2024-12-14,P015,A013,Combat,3.5,7316,Completed,Routine combat mission
+FL0746,2024-12-14,P008,A003,Patrol,3.3,6456,Completed,Joint force patrol exercise
+FL0747,2024-12-14,P012,A011,Reconnaissance,3.5,7215,Completed,Routine reconnaissance mission
+FL0748,2024-12-14,P014,A020,Patrol,4.0,7793,Completed,Advanced patrol training
+FL0749,2024-12-14,P017,A003,Patrol,3.6,6500,Completed,Joint force patrol exercise
+FL0750,2024-12-14,P007,A003,Combat,4.0,8309,Completed,Weather-related combat mission
+FL0751,2024-12-15,P008,A006,Reconnaissance,4.2,8764,Cancelled,Advanced reconnaissance training
+FL0752,2024-12-15,P015,A016,Combat,4.9,9501,Completed,Advanced combat training
+FL0753,2024-12-15,P009,A020,Combat,4.7,9401,Completed,Weather-related combat mission
+FL0754,2024-12-15,P012,A004,Training,2.7,4986,Completed,training systems check completed
+FL0755,2024-12-15,P006,A007,Patrol,2.6,4827,Completed,Emergency patrol training
+FL0756,2024-12-15,P005,A003,Transport,2.5,5225,Cancelled,Coastal transport operation
+FL0757,2024-12-15,P018,A007,Combat,3.8,7050,Completed,Routine combat mission
+FL0758,2024-12-15,P010,A020,Combat,4.3,8990,Completed,Weather-related combat mission
+FL0759,2024-12-15,P020,A010,Training,2.1,3983,Completed,Night training mission
+FL0760,2024-12-15,P010,A009,Reconnaissance,3.6,7199,Completed,Advanced reconnaissance training
+FL0761,2024-12-16,P003,A001,Reconnaissance,4.0,8211,Completed,Successful reconnaissance operation
+FL0762,2024-12-16,P004,A011,Reconnaissance,3.0,6204,Completed,Night reconnaissance mission
+FL0763,2024-12-16,P008,A004,Training,1.5,3096,Completed,Routine training mission
+FL0764,2024-12-16,P020,A018,Training,2.3,4307,Completed,Joint force training exercise
+FL0765,2024-12-16,P019,A005,Combat,4.9,9769,Completed,Routine combat mission
+FL0766,2024-12-16,P002,A007,Transport,3.1,6330,Completed,Emergency transport training
+FL0767,2024-12-16,P006,A015,Training,2.0,3707,Cancelled,Successful training operation
+FL0768,2024-12-16,P019,A007,Patrol,3.0,5420,Completed,Successful patrol operation
+FL0769,2024-12-16,P005,A005,Training,1.6,3153,Completed,Weather-related training mission
+FL0770,2024-12-16,P013,A002,Training,1.7,3077,Completed,Night training mission
+FL0771,2024-12-17,P005,A007,Training,1.7,3294,Completed,Joint force training exercise
+FL0772,2024-12-17,P005,A016,Training,2.0,3659,Completed,Weather-related training mission
+FL0773,2024-12-17,P018,A002,Transport,2.7,5225,Completed,Successful transport operation
+FL0774,2024-12-17,P014,A018,Training,2.5,4666,Completed,training systems check completed
+FL0775,2024-12-17,P015,A016,Combat,3.6,7491,Completed,Coastal combat operation
+FL0776,2024-12-17,P015,A003,Combat,3.6,7357,Completed,Advanced combat training
+FL0777,2024-12-17,P012,A018,Combat,4.2,8071,Cancelled,Emergency combat training
+FL0778,2024-12-17,P018,A005,Combat,4.6,9176,Completed,Emergency combat training
+FL0779,2024-12-17,P015,A003,Patrol,3.3,6844,Completed,patrol systems check completed
+FL0780,2024-12-17,P009,A003,Patrol,2.7,5573,Completed,Successful patrol operation
+FL0781,2024-12-18,P006,A013,Training,2.4,4896,Completed,Joint force training exercise
+FL0782,2024-12-18,P018,A006,Patrol,3.8,7453,Completed,patrol systems check completed
+FL0783,2024-12-18,P004,A005,Training,1.8,3474,Completed,Emergency training training
+FL0784,2024-12-18,P010,A019,Transport,2.1,3911,Completed,Night transport mission
+FL0785,2024-12-18,P011,A018,Patrol,2.7,5165,Completed,Routine patrol mission
+FL0786,2024-12-18,P014,A009,Transport,2.8,5125,Cancelled,Joint force transport exercise
+FL0787,2024-12-18,P008,A002,Patrol,3.5,6612,Completed,Routine patrol mission
+FL0788,2024-12-18,P001,A005,Training,1.9,3915,Completed,Coastal training operation
+FL0789,2024-12-18,P002,A005,Transport,3.4,6764,Completed,Routine transport mission
+FL0790,2024-12-18,P009,A008,Reconnaissance,4.2,8747,Completed,Joint force reconnaissance exercise
+FL0791,2024-12-19,P010,A007,Reconnaissance,4.0,7505,Completed,Night reconnaissance mission
+FL0792,2024-12-19,P016,A016,Combat,4.8,9963,Completed,Advanced combat training
+FL0793,2024-12-19,P011,A010,Transport,3.5,6473,Completed,Successful transport operation
+FL0794,2024-12-19,P011,A014,Reconnaissance,4.5,8105,Completed,Advanced reconnaissance training
+FL0795,2024-12-19,P020,A010,Patrol,3.6,7073,Completed,Emergency patrol training
+FL0796,2024-12-19,P017,A004,Transport,3.2,5917,Completed,Joint force transport exercise
+FL0797,2024-12-19,P002,A002,Patrol,3.4,6168,Completed,Emergency patrol training
+FL0798,2024-12-19,P007,A008,Combat,3.6,6543,Cancelled,Successful combat operation
+FL0799,2024-12-19,P009,A005,Reconnaissance,3.3,6533,Cancelled,reconnaissance systems check completed
+FL0800,2024-12-19,P014,A018,Combat,4.3,8920,Completed,Night combat mission
+FL0801,2024-12-20,P020,A015,Combat,4.2,8805,Completed,Night combat mission
+FL0802,2024-12-20,P019,A004,Reconnaissance,2.9,5500,Completed,Advanced reconnaissance training
+FL0803,2024-12-20,P005,A003,Combat,4.7,8892,Completed,Weather-related combat mission
+FL0804,2024-12-20,P008,A011,Transport,2.3,4395,Completed,Routine transport mission
+FL0805,2024-12-20,P016,A005,Reconnaissance,3.2,6610,Completed,Joint force reconnaissance exercise
+FL0806,2024-12-20,P019,A014,Training,2.7,5485,Completed,Weather-related training mission
+FL0807,2024-12-20,P013,A020,Patrol,3.2,6392,Completed,Joint force patrol exercise
+FL0808,2024-12-20,P009,A012,Combat,4.9,9775,Cancelled,Coastal combat operation
+FL0809,2024-12-20,P015,A017,Combat,4.5,8276,Completed,Joint force combat exercise
+FL0810,2024-12-20,P017,A008,Patrol,3.1,5921,Completed,Night patrol mission
+FL0811,2024-12-21,P001,A004,Training,2.0,3851,Completed,Advanced training training
+FL0812,2024-12-21,P016,A012,Training,2.3,4719,Completed,Emergency training training
+FL0813,2024-12-21,P009,A016,Patrol,3.6,6921,Completed,patrol systems check completed
+FL0814,2024-12-21,P004,A009,Training,2.0,4018,Completed,Emergency training training
+FL0815,2024-12-21,P018,A001,Reconnaissance,3.1,6292,Completed,Standard reconnaissance procedures
+FL0816,2024-12-21,P016,A014,Patrol,3.9,7038,Completed,Weather-related patrol mission
+FL0817,2024-12-21,P011,A001,Transport,2.2,4098,Completed,Advanced transport training
+FL0818,2024-12-21,P005,A018,Patrol,3.2,6169,Completed,Coastal patrol operation
+FL0819,2024-12-21,P011,A010,Reconnaissance,3.9,7513,Completed,Advanced reconnaissance training
+FL0820,2024-12-21,P004,A012,Reconnaissance,3.8,7092,Cancelled,Successful reconnaissance operation
+FL0821,2024-12-22,P008,A007,Transport,2.8,5165,Completed,Routine transport mission
+FL0822,2024-12-22,P013,A004,Patrol,2.6,4995,Cancelled,Weather-related patrol mission
+FL0823,2024-12-22,P013,A018,Transport,2.1,4381,Completed,Emergency transport training
+FL0824,2024-12-22,P012,A017,Transport,3.1,6129,Completed,Standard transport procedures
+FL0825,2024-12-22,P010,A010,Reconnaissance,2.9,5417,Completed,Coastal reconnaissance operation
+FL0826,2024-12-22,P001,A012,Patrol,3.7,7124,Completed,Routine patrol mission
+FL0827,2024-12-22,P017,A011,Transport,3.5,6640,Completed,Standard transport procedures
+FL0828,2024-12-22,P020,A019,Patrol,3.1,6255,Completed,Coastal patrol operation
+FL0829,2024-12-22,P018,A020,Training,2.7,5538,Completed,Advanced training training
+FL0830,2024-12-22,P015,A005,Combat,4.3,8624,Completed,combat systems check completed
+FL0831,2024-12-23,P016,A002,Training,2.6,5395,Completed,Coastal training operation
+FL0832,2024-12-23,P003,A010,Combat,5.0,9285,Completed,Night combat mission
+FL0833,2024-12-23,P007,A008,Reconnaissance,4.0,7552,Completed,Joint force reconnaissance exercise
+FL0834,2024-12-23,P005,A014,Patrol,3.8,7042,Completed,Coastal patrol operation
+FL0835,2024-12-23,P015,A001,Reconnaissance,3.1,5804,Completed,Emergency reconnaissance training
+FL0836,2024-12-23,P012,A005,Training,1.8,3597,Completed,Advanced training training
+FL0837,2024-12-23,P010,A006,Training,1.7,3258,Completed,Emergency training training
+FL0838,2024-12-23,P017,A005,Patrol,3.7,6959,Completed,patrol systems check completed
+FL0839,2024-12-23,P010,A004,Patrol,3.1,6436,Cancelled,Weather-related patrol mission
+FL0840,2024-12-23,P019,A015,Transport,3.2,6096,Completed,Weather-related transport mission
+FL0841,2024-12-24,P012,A006,Reconnaissance,3.6,7127,Completed,Standard reconnaissance procedures
+FL0842,2024-12-24,P013,A007,Combat,4.2,8366,Cancelled,Emergency combat training
+FL0843,2024-12-24,P001,A009,Reconnaissance,3.2,6697,Completed,Coastal reconnaissance operation
+FL0844,2024-12-24,P018,A006,Combat,3.7,7082,Cancelled,Standard combat procedures
+FL0845,2024-12-24,P017,A003,Reconnaissance,4.1,7423,Completed,Night reconnaissance mission
+FL0846,2024-12-24,P006,A002,Transport,2.2,4309,Completed,Emergency transport training
+FL0847,2024-12-24,P010,A005,Transport,2.2,4166,Completed,Standard transport procedures
+FL0848,2024-12-24,P017,A016,Transport,2.3,4174,Completed,transport systems check completed
+FL0849,2024-12-24,P009,A014,Patrol,2.6,5313,Completed,Emergency patrol training
+FL0850,2024-12-24,P002,A003,Transport,2.3,4232,Cancelled,Joint force transport exercise
+FL0851,2024-12-25,P016,A005,Transport,2.9,5917,Completed,Weather-related transport mission
+FL0852,2024-12-25,P005,A016,Training,1.7,3320,Completed,Advanced training training
+FL0853,2024-12-25,P020,A006,Reconnaissance,3.4,6397,Completed,reconnaissance systems check completed
+FL0854,2024-12-25,P004,A004,Combat,4.6,9618,Completed,Emergency combat training
+FL0855,2024-12-25,P014,A006,Training,1.8,3278,Completed,Emergency training training
+FL0856,2024-12-25,P008,A004,Training,2.3,4227,Completed,Routine training mission
+FL0857,2024-12-25,P017,A005,Transport,2.4,4974,Completed,Joint force transport exercise
+FL0858,2024-12-25,P018,A010,Training,2.4,4320,Cancelled,Coastal training operation
+FL0859,2024-12-25,P003,A008,Transport,3.1,6171,Completed,Standard transport procedures
+FL0860,2024-12-25,P010,A003,Reconnaissance,3.2,6711,Completed,Weather-related reconnaissance mission
+FL0861,2024-12-26,P012,A013,Transport,2.4,4772,Completed,Successful transport operation
+FL0862,2024-12-26,P013,A005,Combat,3.5,6992,Completed,combat systems check completed
+FL0863,2024-12-26,P003,A010,Training,2.1,3937,Cancelled,Coastal training operation
+FL0864,2024-12-26,P001,A009,Transport,2.4,4958,Completed,Advanced transport training
+FL0865,2024-12-26,P004,A015,Patrol,3.2,6584,Cancelled,Advanced patrol training
+FL0866,2024-12-26,P009,A016,Training,2.5,4770,Completed,Joint force training exercise
+FL0867,2024-12-26,P006,A001,Training,2.2,4169,Completed,Coastal training operation
+FL0868,2024-12-26,P017,A008,Training,1.7,3138,Cancelled,Standard training procedures
+FL0869,2024-12-26,P007,A003,Transport,3.3,6540,Completed,Emergency transport training
+FL0870,2024-12-26,P007,A014,Combat,3.9,7770,Completed,Coastal combat operation
+FL0871,2024-12-27,P015,A006,Combat,4.1,8419,Completed,Coastal combat operation
+FL0872,2024-12-27,P008,A014,Training,1.9,3462,Completed,Successful training operation
+FL0873,2024-12-27,P005,A006,Training,1.6,3269,Completed,training systems check completed
+FL0874,2024-12-27,P011,A017,Reconnaissance,3.7,7328,Completed,Weather-related reconnaissance mission
+FL0875,2024-12-27,P001,A006,Combat,4.1,7942,Completed,combat systems check completed
+FL0876,2024-12-27,P016,A014,Training,2.6,5400,Completed,Weather-related training mission
+FL0877,2024-12-27,P005,A010,Patrol,3.6,7123,Completed,Weather-related patrol mission
+FL0878,2024-12-27,P020,A018,Reconnaissance,3.6,7216,Completed,Successful reconnaissance operation
+FL0879,2024-12-27,P014,A012,Training,2.7,5401,Completed,Night training mission
+FL0880,2024-12-27,P002,A012,Transport,2.1,4398,Cancelled,Coastal transport operation
+FL0881,2024-12-28,P020,A016,Combat,4.7,9867,Completed,Weather-related combat mission
+FL0882,2024-12-28,P013,A003,Combat,5.0,10033,Completed,Night combat mission
+FL0883,2024-12-28,P013,A008,Reconnaissance,3.2,5874,Completed,Night reconnaissance mission
+FL0884,2024-12-28,P020,A010,Transport,3.3,6423,Cancelled,Successful transport operation
+FL0885,2024-12-28,P008,A013,Reconnaissance,3.4,6794,Completed,Routine reconnaissance mission
+FL0886,2024-12-28,P017,A019,Training,2.0,3671,Completed,Advanced training training
+FL0887,2024-12-28,P010,A001,Training,2.6,5363,Completed,Advanced training training
+FL0888,2024-12-28,P012,A014,Patrol,3.8,7892,Completed,Routine patrol mission
+FL0889,2024-12-28,P007,A015,Combat,4.9,9522,Completed,Emergency combat training
+FL0890,2024-12-28,P016,A002,Training,1.8,3446,Completed,Advanced training training
+FL0891,2024-12-29,P009,A013,Combat,4.4,8866,Completed,Weather-related combat mission
+FL0892,2024-12-29,P015,A011,Combat,4.0,7272,Completed,Advanced combat training
+FL0893,2024-12-29,P016,A007,Combat,5.0,9918,Completed,Coastal combat operation
+FL0894,2024-12-29,P005,A006,Combat,3.6,6676,Completed,Routine combat mission
+FL0895,2024-12-29,P003,A005,Patrol,3.7,6881,Completed,Joint force patrol exercise
+FL0896,2024-12-29,P002,A002,Transport,2.3,4504,Completed,Advanced transport training
+FL0897,2024-12-29,P013,A003,Reconnaissance,3.6,6620,Completed,Weather-related reconnaissance mission
+FL0898,2024-12-29,P005,A011,Transport,3.0,5511,Cancelled,Weather-related transport mission
+FL0899,2024-12-29,P019,A010,Transport,2.5,4890,Completed,Night transport mission
+FL0900,2024-12-29,P005,A010,Reconnaissance,4.4,8760,Completed,Routine reconnaissance mission
+FL0901,2024-12-30,P013,A001,Combat,4.4,8216,Completed,Night combat mission
+FL0902,2024-12-30,P008,A006,Reconnaissance,3.8,7258,Completed,Joint force reconnaissance exercise
+FL0903,2024-12-30,P018,A001,Training,2.4,4929,Completed,Routine training mission
+FL0904,2024-12-30,P006,A003,Combat,4.8,9864,Completed,Emergency combat training
+FL0905,2024-12-30,P013,A005,Combat,4.5,8558,Completed,Successful combat operation
+FL0906,2024-12-30,P015,A012,Reconnaissance,3.9,7211,Completed,Weather-related reconnaissance mission
+FL0907,2024-12-30,P003,A003,Reconnaissance,2.8,5671,Completed,Coastal reconnaissance operation
+FL0908,2024-12-30,P019,A005,Training,1.9,3984,Completed,Routine training mission
+FL0909,2024-12-30,P013,A008,Patrol,3.9,7848,Completed,Coastal patrol operation
+FL0910,2024-12-30,P014,A005,Transport,2.1,3999,Completed,Successful transport operation
+FL0911,2024-12-31,P011,A012,Training,2.1,3861,Completed,training systems check completed
+FL0912,2024-12-31,P010,A003,Transport,3.5,6734,Completed,Routine transport mission
+FL0913,2024-12-31,P011,A013,Combat,4.9,9680,Completed,Successful combat operation
+FL0914,2024-12-31,P008,A016,Patrol,2.8,5707,Cancelled,Successful patrol operation
+FL0915,2024-12-31,P008,A010,Combat,4.3,8418,Completed,Routine combat mission
+FL0916,2024-12-31,P006,A003,Transport,2.7,5590,Completed,Weather-related transport mission
+FL0917,2024-12-31,P017,A001,Reconnaissance,2.9,5481,Completed,Successful reconnaissance operation
+FL0918,2024-12-31,P009,A016,Training,2.5,5109,Completed,training systems check completed
+FL0919,2024-12-31,P002,A010,Reconnaissance,4.4,8444,Completed,Coastal reconnaissance operation
+FL0920,2024-12-31,P017,A006,Patrol,2.5,5167,Completed,Standard patrol procedures
+FL0921,2025-01-01,P008,A018,Training,1.8,3634,Completed,training systems check completed
+FL0922,2025-01-01,P004,A011,Patrol,3.1,6198,Completed,Coastal patrol operation
+FL0923,2025-01-01,P013,A007,Reconnaissance,3.8,6857,Completed,Weather-related reconnaissance mission
+FL0924,2025-01-01,P003,A012,Reconnaissance,2.9,5227,Cancelled,Weather-related reconnaissance mission
+FL0925,2025-01-01,P009,A013,Combat,4.5,9193,Completed,Joint force combat exercise
+FL0926,2025-01-01,P002,A019,Combat,3.6,7370,Completed,Advanced combat training
+FL0927,2025-01-01,P017,A006,Combat,4.4,8048,Completed,Standard combat procedures
+FL0928,2025-01-01,P012,A015,Combat,4.6,9067,Completed,Routine combat mission
+FL0929,2025-01-01,P001,A008,Reconnaissance,4.3,7824,Cancelled,Emergency reconnaissance training
+FL0930,2025-01-01,P004,A014,Training,1.8,3372,Completed,Weather-related training mission
+FL0931,2025-01-02,P005,A003,Transport,2.1,3974,Completed,Night transport mission
+FL0932,2025-01-02,P010,A016,Training,2.6,5282,Completed,Night training mission
+FL0933,2025-01-02,P003,A006,Training,2.7,5408,Completed,Emergency training training
+FL0934,2025-01-02,P012,A017,Combat,4.5,8364,Completed,Standard combat procedures
+FL0935,2025-01-02,P019,A007,Training,2.2,4310,Completed,Standard training procedures
+FL0936,2025-01-02,P008,A008,Patrol,3.0,5429,Completed,Night patrol mission
+FL0937,2025-01-02,P007,A017,Training,2.1,4149,Completed,Weather-related training mission
+FL0938,2025-01-02,P020,A006,Patrol,3.5,6488,Completed,Emergency patrol training
+FL0939,2025-01-02,P018,A019,Reconnaissance,2.8,5313,Completed,Night reconnaissance mission
+FL0940,2025-01-02,P013,A017,Combat,4.7,8705,Completed,Night combat mission
+FL0941,2025-01-03,P009,A008,Patrol,2.7,4975,Completed,Routine patrol mission
+FL0942,2025-01-03,P007,A020,Patrol,3.5,7316,Completed,Night patrol mission
+FL0943,2025-01-03,P014,A018,Patrol,2.6,5027,Completed,Successful patrol operation
+FL0944,2025-01-03,P016,A012,Patrol,3.9,7337,Completed,Emergency patrol training
+FL0945,2025-01-03,P005,A010,Training,1.9,3476,Completed,Routine training mission
+FL0946,2025-01-03,P013,A004,Training,1.7,3165,Cancelled,Coastal training operation
+FL0947,2025-01-03,P014,A012,Patrol,3.0,6028,Completed,patrol systems check completed
+FL0948,2025-01-03,P002,A004,Transport,2.1,4321,Completed,Weather-related transport mission
+FL0949,2025-01-03,P005,A012,Reconnaissance,2.9,5259,Completed,Coastal reconnaissance operation
+FL0950,2025-01-03,P018,A001,Combat,4.8,8975,Completed,Weather-related combat mission
+FL0951,2025-01-04,P020,A008,Training,2.2,4619,Cancelled,Joint force training exercise
+FL0952,2025-01-04,P005,A004,Combat,3.6,6702,Cancelled,Routine combat mission
+FL0953,2025-01-04,P006,A007,Combat,4.2,7982,Completed,Routine combat mission
+FL0954,2025-01-04,P016,A003,Transport,2.8,5759,Completed,Coastal transport operation
+FL0955,2025-01-04,P013,A020,Combat,4.9,10085,Completed,Routine combat mission
+FL0956,2025-01-04,P011,A018,Training,2.1,4209,Completed,Standard training procedures
+FL0957,2025-01-04,P004,A019,Training,1.6,3251,Completed,Night training mission
+FL0958,2025-01-04,P002,A003,Training,2.5,4763,Completed,Coastal training operation
+FL0959,2025-01-04,P009,A008,Transport,3.3,6823,Completed,Emergency transport training
+FL0960,2025-01-04,P010,A001,Patrol,4.0,7895,Completed,Routine patrol mission
+FL0961,2025-01-05,P006,A014,Reconnaissance,2.8,5299,Cancelled,Weather-related reconnaissance mission
+FL0962,2025-01-05,P008,A004,Training,2.4,4676,Completed,Coastal training operation
+FL0963,2025-01-05,P002,A015,Transport,2.8,5548,Completed,Successful transport operation
+FL0964,2025-01-05,P010,A005,Combat,4.2,7822,Completed,Successful combat operation
+FL0965,2025-01-05,P011,A016,Reconnaissance,4.4,9168,Completed,Successful reconnaissance operation
+FL0966,2025-01-05,P007,A006,Transport,3.0,6209,Completed,Coastal transport operation
+FL0967,2025-01-05,P007,A020,Combat,4.6,8361,Cancelled,Coastal combat operation
+FL0968,2025-01-05,P004,A009,Reconnaissance,3.6,6651,Completed,Routine reconnaissance mission
+FL0969,2025-01-05,P005,A019,Reconnaissance,4.3,7778,Completed,Joint force reconnaissance exercise
+FL0970,2025-01-05,P005,A008,Training,1.9,3975,Completed,Successful training operation
+FL0971,2025-01-06,P004,A008,Reconnaissance,3.7,7043,Completed,Successful reconnaissance operation
+FL0972,2025-01-06,P005,A001,Transport,3.2,6338,Completed,Emergency transport training
+FL0973,2025-01-06,P009,A009,Transport,3.3,6667,Completed,Joint force transport exercise
+FL0974,2025-01-06,P013,A003,Reconnaissance,3.9,8127,Completed,Standard reconnaissance procedures
+FL0975,2025-01-06,P020,A011,Training,2.7,4920,Completed,Standard training procedures
+FL0976,2025-01-06,P008,A001,Training,1.8,3778,Completed,Standard training procedures
+FL0977,2025-01-06,P019,A017,Patrol,3.7,7426,Completed,patrol systems check completed
+FL0978,2025-01-06,P005,A015,Combat,3.6,6850,Cancelled,Routine combat mission
+FL0979,2025-01-06,P017,A005,Combat,4.5,9070,Completed,Coastal combat operation
+FL0980,2025-01-06,P003,A020,Reconnaissance,3.3,6302,Cancelled,Night reconnaissance mission
+FL0981,2025-01-07,P002,A011,Reconnaissance,3.1,5876,Completed,Standard reconnaissance procedures
+FL0982,2025-01-07,P007,A006,Transport,2.2,3961,Cancelled,Routine transport mission
+FL0983,2025-01-07,P019,A013,Reconnaissance,3.5,6542,Cancelled,Weather-related reconnaissance mission
+FL0984,2025-01-07,P001,A007,Patrol,3.9,7780,Completed,Successful patrol operation
+FL0985,2025-01-07,P016,A004,Patrol,2.7,5605,Completed,Successful patrol operation
+FL0986,2025-01-07,P014,A018,Patrol,3.0,5800,Completed,Emergency patrol training
+FL0987,2025-01-07,P006,A013,Combat,4.4,8511,Completed,Emergency combat training
+FL0988,2025-01-07,P015,A015,Combat,4.1,7541,Completed,Weather-related combat mission
+FL0989,2025-01-07,P001,A007,Combat,4.6,8777,Completed,Night combat mission
+FL0990,2025-01-07,P007,A004,Reconnaissance,3.7,7305,Completed,Successful reconnaissance operation
+FL0991,2025-01-08,P014,A011,Combat,4.7,9325,Completed,Emergency combat training
+FL0992,2025-01-08,P020,A013,Patrol,3.5,6626,Completed,Emergency patrol training
+FL0993,2025-01-08,P001,A002,Patrol,3.9,8138,Completed,Standard patrol procedures
+FL0994,2025-01-08,P015,A016,Patrol,2.6,5027,Completed,Emergency patrol training
+FL0995,2025-01-08,P014,A011,Transport,2.6,5150,Completed,Joint force transport exercise
+FL0996,2025-01-08,P016,A019,Reconnaissance,2.8,5668,Completed,Standard reconnaissance procedures
+FL0997,2025-01-08,P020,A016,Combat,3.6,7075,Completed,Coastal combat operation
+FL0998,2025-01-08,P013,A018,Patrol,2.7,5427,Completed,patrol systems check completed
+FL0999,2025-01-08,P017,A018,Patrol,3.5,6543,Completed,Weather-related patrol mission
+FL1000,2025-01-08,P008,A017,Combat,4.6,9095,Completed,Joint force combat exercise
+FL1001,2025-01-09,P015,A020,Transport,2.1,4084,Completed,Advanced transport training
+FL1002,2025-01-09,P011,A019,Training,1.5,3110,Completed,Advanced training training
+FL1003,2025-01-09,P003,A005,Combat,4.6,9048,Completed,Night combat mission
+FL1004,2025-01-09,P020,A003,Combat,5.0,10254,Completed,Advanced combat training
+FL1005,2025-01-09,P005,A008,Transport,3.4,6476,Completed,Successful transport operation
+FL1006,2025-01-09,P016,A015,Combat,3.7,6827,Completed,Successful combat operation
+FL1007,2025-01-09,P018,A019,Reconnaissance,3.4,7121,Completed,Coastal reconnaissance operation
+FL1008,2025-01-09,P018,A014,Transport,3.1,6160,Completed,Joint force transport exercise
+FL1009,2025-01-09,P002,A015,Transport,3.3,6273,Completed,Coastal transport operation
+FL1010,2025-01-09,P015,A016,Training,2.2,4066,Completed,Advanced training training
+FL1011,2025-01-10,P005,A011,Reconnaissance,3.3,6783,Completed,Standard reconnaissance procedures
+FL1012,2025-01-10,P008,A011,Combat,4.9,9745,Completed,Night combat mission
+FL1013,2025-01-10,P019,A002,Training,1.6,3037,Completed,training systems check completed
+FL1014,2025-01-10,P008,A011,Transport,2.4,5027,Cancelled,Advanced transport training
+FL1015,2025-01-10,P020,A014,Transport,3.0,5435,Completed,Standard transport procedures
+FL1016,2025-01-10,P004,A005,Combat,3.8,7560,Completed,Coastal combat operation
+FL1017,2025-01-10,P007,A009,Patrol,3.0,5888,Cancelled,patrol systems check completed
+FL1018,2025-01-10,P012,A006,Training,2.7,5423,Completed,Routine training mission
+FL1019,2025-01-10,P002,A005,Patrol,2.6,4913,Cancelled,Successful patrol operation
+FL1020,2025-01-10,P016,A016,Training,2.5,5096,Cancelled,Successful training operation
+FL1021,2025-01-11,P011,A013,Reconnaissance,3.8,7558,Completed,Joint force reconnaissance exercise
+FL1022,2025-01-11,P003,A007,Patrol,3.7,7526,Completed,Successful patrol operation
+FL1023,2025-01-11,P014,A007,Transport,2.1,4158,Completed,Standard transport procedures
+FL1024,2025-01-11,P013,A018,Transport,2.8,5510,Completed,Night transport mission
+FL1025,2025-01-11,P003,A017,Transport,3.3,6925,Completed,Coastal transport operation
+FL1026,2025-01-11,P004,A014,Combat,4.6,9605,Completed,Weather-related combat mission
+FL1027,2025-01-11,P006,A002,Training,2.2,4109,Completed,Routine training mission
+FL1028,2025-01-11,P007,A007,Transport,2.2,4098,Completed,Coastal transport operation
+FL1029,2025-01-11,P014,A012,Training,1.9,3873,Cancelled,Emergency training training
+FL1030,2025-01-11,P012,A004,Training,1.7,3185,Cancelled,Successful training operation
+FL1031,2025-01-12,P016,A015,Training,1.9,3784,Completed,Routine training mission
+FL1032,2025-01-12,P019,A003,Training,2.7,5391,Cancelled,Standard training procedures
+FL1033,2025-01-12,P005,A012,Combat,5.0,10400,Completed,Weather-related combat mission
+FL1034,2025-01-12,P014,A004,Transport,3.5,7207,Completed,Weather-related transport mission
+FL1035,2025-01-12,P006,A011,Transport,2.7,5125,Completed,Coastal transport operation
+FL1036,2025-01-12,P007,A009,Training,2.7,5437,Completed,Coastal training operation
+FL1037,2025-01-12,P005,A019,Patrol,3.4,6682,Completed,Standard patrol procedures
+FL1038,2025-01-12,P015,A014,Combat,3.5,6325,Completed,Emergency combat training
+FL1039,2025-01-12,P017,A018,Combat,3.8,7462,Completed,Advanced combat training
+FL1040,2025-01-12,P002,A007,Reconnaissance,3.0,5413,Completed,reconnaissance systems check completed
+FL1041,2025-01-13,P014,A009,Patrol,2.8,5359,Completed,Weather-related patrol mission
+FL1042,2025-01-13,P013,A007,Training,1.8,3753,Completed,Emergency training training
+FL1043,2025-01-13,P015,A019,Combat,4.9,9158,Completed,Joint force combat exercise
+FL1044,2025-01-13,P001,A005,Reconnaissance,3.6,6491,Completed,Routine reconnaissance mission
+FL1045,2025-01-13,P010,A006,Transport,3.3,6634,Completed,Weather-related transport mission
+FL1046,2025-01-13,P019,A015,Transport,2.9,5476,Completed,Successful transport operation
+FL1047,2025-01-13,P011,A008,Combat,4.6,8756,Completed,Successful combat operation
+FL1048,2025-01-13,P012,A006,Training,2.1,4403,Completed,training systems check completed
+FL1049,2025-01-13,P008,A006,Combat,3.6,7223,Completed,Weather-related combat mission
+FL1050,2025-01-13,P012,A015,Combat,4.9,9523,Completed,Joint force combat exercise
+FL1051,2025-01-14,P014,A019,Reconnaissance,3.7,6997,Completed,Routine reconnaissance mission
+FL1052,2025-01-14,P004,A004,Reconnaissance,3.4,6689,Completed,Routine reconnaissance mission
+FL1053,2025-01-14,P015,A001,Combat,4.6,9629,Completed,Standard combat procedures
+FL1054,2025-01-14,P018,A005,Reconnaissance,3.5,6444,Completed,Weather-related reconnaissance mission
+FL1055,2025-01-14,P010,A012,Combat,4.3,8817,Completed,Standard combat procedures
+FL1056,2025-01-14,P003,A013,Reconnaissance,4.0,7395,Completed,Emergency reconnaissance training
+FL1057,2025-01-14,P008,A009,Reconnaissance,3.8,7308,Completed,Standard reconnaissance procedures
+FL1058,2025-01-14,P008,A018,Combat,4.9,8963,Completed,Weather-related combat mission
+FL1059,2025-01-14,P020,A002,Patrol,3.3,6366,Completed,Advanced patrol training
+FL1060,2025-01-14,P018,A004,Transport,3.4,7091,Completed,transport systems check completed
+FL1061,2025-01-15,P018,A016,Combat,4.6,8432,Cancelled,Routine combat mission
+FL1062,2025-01-15,P018,A002,Patrol,3.9,7661,Completed,Joint force patrol exercise
+FL1063,2025-01-15,P014,A015,Combat,4.5,8788,Completed,Advanced combat training
+FL1064,2025-01-15,P013,A007,Combat,4.6,9624,Completed,Coastal combat operation
+FL1065,2025-01-15,P019,A011,Reconnaissance,3.8,7883,Completed,reconnaissance systems check completed
+FL1066,2025-01-15,P015,A018,Reconnaissance,3.6,7422,Cancelled,Successful reconnaissance operation
+FL1067,2025-01-15,P020,A008,Training,2.6,5029,Completed,Coastal training operation
+FL1068,2025-01-15,P016,A011,Training,2.1,4133,Cancelled,Successful training operation
+FL1069,2025-01-15,P014,A002,Patrol,4.0,8104,Completed,Coastal patrol operation
+FL1070,2025-01-15,P004,A013,Reconnaissance,3.8,7316,Cancelled,Weather-related reconnaissance mission
+FL1071,2025-01-16,P001,A020,Transport,3.3,6346,Completed,Successful transport operation
+FL1072,2025-01-16,P004,A016,Combat,4.0,7712,Completed,Standard combat procedures
+FL1073,2025-01-16,P017,A002,Patrol,3.7,6812,Completed,Joint force patrol exercise
+FL1074,2025-01-16,P010,A017,Combat,4.6,8429,Cancelled,Standard combat procedures
+FL1075,2025-01-16,P003,A017,Training,2.1,3938,Completed,Emergency training training
+FL1076,2025-01-16,P001,A018,Combat,4.8,9607,Completed,Successful combat operation
+FL1077,2025-01-16,P009,A013,Patrol,3.0,6026,Completed,Coastal patrol operation
+FL1078,2025-01-16,P009,A019,Training,2.6,5069,Completed,Routine training mission
+FL1079,2025-01-16,P006,A018,Combat,4.0,7212,Cancelled,Advanced combat training
+FL1080,2025-01-16,P011,A020,Patrol,4.0,8325,Completed,Advanced patrol training
+FL1081,2025-01-17,P010,A014,Patrol,2.6,4925,Completed,patrol systems check completed
+FL1082,2025-01-17,P014,A017,Transport,2.4,4498,Completed,Coastal transport operation
+FL1083,2025-01-17,P013,A005,Reconnaissance,4.0,8011,Completed,Coastal reconnaissance operation
+FL1084,2025-01-17,P009,A017,Reconnaissance,4.1,8573,Completed,Advanced reconnaissance training
+FL1085,2025-01-17,P007,A008,Patrol,3.4,6730,Completed,Emergency patrol training
+FL1086,2025-01-17,P020,A004,Combat,4.5,9256,Completed,combat systems check completed
+FL1087,2025-01-17,P008,A017,Combat,4.0,7714,Completed,Emergency combat training
+FL1088,2025-01-17,P004,A009,Training,2.3,4575,Completed,Joint force training exercise
+FL1089,2025-01-17,P003,A003,Training,2.5,5015,Completed,Night training mission
+FL1090,2025-01-17,P015,A018,Reconnaissance,4.0,7877,Completed,Advanced reconnaissance training
+FL1091,2025-01-18,P019,A017,Combat,4.5,8157,Completed,Night combat mission
+FL1092,2025-01-18,P020,A006,Transport,2.8,5122,Completed,Routine transport mission
+FL1093,2025-01-18,P013,A018,Reconnaissance,3.3,6709,Completed,Advanced reconnaissance training
+FL1094,2025-01-18,P014,A016,Patrol,4.0,7298,Completed,Coastal patrol operation
+FL1095,2025-01-18,P003,A018,Training,2.6,5314,Completed,Emergency training training
+FL1096,2025-01-18,P002,A011,Reconnaissance,3.6,6658,Completed,Successful reconnaissance operation
+FL1097,2025-01-18,P014,A011,Combat,4.6,8574,Completed,Emergency combat training
+FL1098,2025-01-18,P011,A002,Transport,2.1,4390,Completed,Emergency transport training
+FL1099,2025-01-18,P007,A015,Combat,4.9,9549,Completed,combat systems check completed
+FL1100,2025-01-18,P016,A008,Patrol,3.0,5824,Completed,Weather-related patrol mission
+FL1101,2025-01-19,P006,A017,Transport,3.4,6950,Completed,Emergency transport training
+FL1102,2025-01-19,P010,A012,Training,1.6,3208,Completed,Advanced training training
+FL1103,2025-01-19,P011,A015,Combat,4.8,9395,Completed,Coastal combat operation
+FL1104,2025-01-19,P004,A011,Training,2.6,5270,Completed,Night training mission
+FL1105,2025-01-19,P002,A013,Reconnaissance,3.9,7969,Completed,reconnaissance systems check completed
+FL1106,2025-01-19,P016,A010,Training,1.7,3450,Cancelled,Weather-related training mission
+FL1107,2025-01-19,P015,A001,Training,1.9,3807,Cancelled,Standard training procedures
+FL1108,2025-01-19,P007,A016,Combat,3.9,7465,Completed,Night combat mission
+FL1109,2025-01-19,P015,A009,Reconnaissance,3.8,7830,Completed,Standard reconnaissance procedures
+FL1110,2025-01-19,P007,A007,Reconnaissance,3.8,7492,Cancelled,Joint force reconnaissance exercise
+FL1111,2025-01-20,P006,A002,Training,1.9,3427,Cancelled,Emergency training training
+FL1112,2025-01-20,P002,A018,Training,2.5,5125,Completed,Night training mission
+FL1113,2025-01-20,P013,A013,Training,2.7,5249,Completed,Successful training operation
+FL1114,2025-01-20,P004,A010,Reconnaissance,4.1,7428,Completed,Emergency reconnaissance training
+FL1115,2025-01-20,P014,A009,Patrol,2.9,5829,Completed,Successful patrol operation
+FL1116,2025-01-20,P003,A006,Transport,2.7,5605,Completed,Successful transport operation
+FL1117,2025-01-20,P009,A003,Combat,4.0,7800,Completed,Coastal combat operation
+FL1118,2025-01-20,P016,A008,Patrol,3.7,7676,Completed,patrol systems check completed
+FL1119,2025-01-20,P003,A012,Training,2.7,5500,Cancelled,training systems check completed
+FL1120,2025-01-20,P014,A006,Transport,2.5,4701,Completed,Advanced transport training
+FL1121,2025-01-21,P010,A007,Transport,3.2,5889,Completed,Night transport mission
+FL1122,2025-01-21,P010,A012,Transport,3.2,6343,Completed,Advanced transport training
+FL1123,2025-01-21,P007,A019,Transport,2.1,3910,Completed,Standard transport procedures
+FL1124,2025-01-21,P001,A016,Patrol,3.2,6343,Completed,Coastal patrol operation
+FL1125,2025-01-21,P008,A002,Reconnaissance,3.7,7458,Completed,Weather-related reconnaissance mission
+FL1126,2025-01-21,P010,A018,Training,2.5,4679,Cancelled,Advanced training training
+FL1127,2025-01-21,P010,A010,Patrol,3.6,7248,Completed,Night patrol mission
+FL1128,2025-01-21,P019,A020,Reconnaissance,3.5,6545,Completed,Successful reconnaissance operation
+FL1129,2025-01-21,P018,A015,Combat,4.8,9991,Completed,Night combat mission
+FL1130,2025-01-21,P002,A020,Training,2.3,4680,Completed,Weather-related training mission
+FL1131,2025-01-22,P005,A012,Training,1.7,3143,Completed,Standard training procedures
+FL1132,2025-01-22,P007,A020,Training,2.3,4152,Completed,Advanced training training
+FL1133,2025-01-22,P008,A016,Reconnaissance,3.1,5789,Completed,Routine reconnaissance mission
+FL1134,2025-01-22,P008,A002,Training,1.6,2902,Completed,Standard training procedures
+FL1135,2025-01-22,P020,A006,Patrol,3.2,6570,Cancelled,Coastal patrol operation
+FL1136,2025-01-22,P014,A005,Combat,3.7,6671,Completed,Routine combat mission
+FL1137,2025-01-22,P011,A007,Transport,3.4,7053,Completed,Joint force transport exercise
+FL1138,2025-01-22,P007,A001,Transport,2.3,4829,Completed,Coastal transport operation
+FL1139,2025-01-22,P016,A016,Combat,4.1,7533,Completed,Weather-related combat mission
+FL1140,2025-01-22,P006,A015,Combat,4.3,8196,Completed,Routine combat mission
+FL1141,2025-01-23,P016,A018,Combat,3.9,7693,Completed,Joint force combat exercise
+FL1142,2025-01-23,P019,A019,Transport,3.3,6213,Completed,Joint force transport exercise
+FL1143,2025-01-23,P014,A003,Training,2.4,4817,Completed,Joint force training exercise
+FL1144,2025-01-23,P018,A005,Transport,3.1,5793,Completed,Emergency transport training
+FL1145,2025-01-23,P009,A018,Patrol,3.7,7302,Completed,Weather-related patrol mission
+FL1146,2025-01-23,P012,A007,Reconnaissance,3.4,6659,Cancelled,Joint force reconnaissance exercise
+FL1147,2025-01-23,P003,A012,Reconnaissance,3.1,5623,Completed,Night reconnaissance mission
+FL1148,2025-01-23,P013,A017,Reconnaissance,3.4,6148,Completed,Advanced reconnaissance training
+FL1149,2025-01-23,P020,A001,Combat,4.7,9014,Completed,Joint force combat exercise
+FL1150,2025-01-23,P008,A014,Training,1.8,3321,Completed,Advanced training training
+FL1151,2025-01-24,P002,A016,Reconnaissance,3.7,6912,Completed,Night reconnaissance mission
+FL1152,2025-01-24,P002,A012,Transport,3.1,6257,Completed,Weather-related transport mission
+FL1153,2025-01-24,P016,A008,Training,2.3,4198,Completed,Successful training operation
+FL1154,2025-01-24,P001,A005,Reconnaissance,4.0,7576,Completed,Coastal reconnaissance operation
+FL1155,2025-01-24,P014,A009,Training,1.7,3396,Completed,Weather-related training mission
+FL1156,2025-01-24,P005,A008,Reconnaissance,3.4,6847,Completed,Coastal reconnaissance operation
+FL1157,2025-01-24,P018,A017,Reconnaissance,3.8,7878,Completed,reconnaissance systems check completed
+FL1158,2025-01-24,P019,A008,Patrol,2.5,5085,Completed,Advanced patrol training
+FL1159,2025-01-24,P004,A013,Combat,4.5,8856,Completed,Routine combat mission
+FL1160,2025-01-24,P012,A019,Reconnaissance,3.1,5629,Completed,Standard reconnaissance procedures
+FL1161,2025-01-25,P014,A009,Combat,4.6,9432,Completed,combat systems check completed
+FL1162,2025-01-25,P003,A012,Training,2.2,4088,Completed,Successful training operation
+FL1163,2025-01-25,P004,A009,Training,1.6,3168,Cancelled,Successful training operation
+FL1164,2025-01-25,P005,A001,Combat,4.5,8136,Completed,Standard combat procedures
+FL1165,2025-01-25,P014,A007,Patrol,2.6,5100,Completed,Routine patrol mission
+FL1166,2025-01-25,P002,A007,Combat,4.7,9708,Completed,Successful combat operation
+FL1167,2025-01-25,P020,A007,Combat,4.9,9167,Cancelled,Successful combat operation
+FL1168,2025-01-25,P020,A002,Patrol,4.0,7531,Completed,Successful patrol operation
+FL1169,2025-01-25,P011,A013,Reconnaissance,4.3,8773,Completed,Night reconnaissance mission
+FL1170,2025-01-25,P017,A007,Training,2.2,4156,Completed,Joint force training exercise
+FL1171,2025-01-26,P002,A004,Combat,3.9,7483,Completed,Joint force combat exercise
+FL1172,2025-01-26,P020,A012,Reconnaissance,3.3,6318,Completed,Routine reconnaissance mission
+FL1173,2025-01-26,P004,A009,Transport,3.5,7038,Completed,Successful transport operation
+FL1174,2025-01-26,P020,A013,Training,1.6,3045,Completed,Coastal training operation
+FL1175,2025-01-26,P001,A012,Transport,2.1,3933,Cancelled,Emergency transport training
+FL1176,2025-01-26,P010,A010,Combat,4.5,9320,Completed,Successful combat operation
+FL1177,2025-01-26,P017,A018,Training,1.8,3444,Completed,Emergency training training
+FL1178,2025-01-26,P001,A010,Combat,4.1,7684,Completed,Emergency combat training
+FL1179,2025-01-26,P007,A004,Training,2.2,4074,Completed,Advanced training training
+FL1180,2025-01-26,P020,A012,Reconnaissance,2.8,5545,Completed,Emergency reconnaissance training
+FL1181,2025-01-27,P019,A007,Combat,4.3,8125,Completed,Successful combat operation
+FL1182,2025-01-27,P009,A016,Patrol,2.9,5802,Completed,Night patrol mission
+FL1183,2025-01-27,P009,A014,Training,1.6,3149,Completed,Night training mission
+FL1184,2025-01-27,P002,A019,Transport,2.3,4730,Completed,Coastal transport operation
+FL1185,2025-01-27,P010,A013,Reconnaissance,3.8,7737,Completed,Coastal reconnaissance operation
+FL1186,2025-01-27,P013,A003,Combat,4.7,9709,Completed,Emergency combat training
+FL1187,2025-01-27,P014,A006,Patrol,3.1,6245,Completed,Emergency patrol training
+FL1188,2025-01-27,P012,A016,Reconnaissance,3.9,7049,Completed,Routine reconnaissance mission
+FL1189,2025-01-27,P017,A016,Training,1.5,3003,Completed,Coastal training operation
+FL1190,2025-01-27,P015,A011,Transport,3.4,6333,Completed,Coastal transport operation
+FL1191,2025-01-28,P017,A018,Reconnaissance,4.2,7848,Completed,Emergency reconnaissance training
+FL1192,2025-01-28,P018,A020,Combat,4.5,8420,Completed,Weather-related combat mission
+FL1193,2025-01-28,P010,A011,Combat,4.7,8993,Completed,Successful combat operation
+FL1194,2025-01-28,P018,A013,Combat,4.4,8262,Completed,Coastal combat operation
+FL1195,2025-01-28,P014,A002,Patrol,2.9,5543,Completed,Night patrol mission
+FL1196,2025-01-28,P002,A003,Reconnaissance,4.2,8465,Completed,Joint force reconnaissance exercise
+FL1197,2025-01-28,P013,A016,Reconnaissance,3.6,6905,Completed,Successful reconnaissance operation
+FL1198,2025-01-28,P016,A004,Reconnaissance,3.9,8013,Completed,Joint force reconnaissance exercise
+FL1199,2025-01-28,P018,A016,Patrol,3.1,5980,Completed,Advanced patrol training
+FL1200,2025-01-28,P017,A014,Training,1.8,3579,Completed,Night training mission
+FL1201,2025-01-29,P009,A001,Patrol,3.0,5732,Completed,patrol systems check completed
+FL1202,2025-01-29,P012,A011,Training,2.0,3621,Completed,Standard training procedures
+FL1203,2025-01-29,P006,A014,Patrol,3.8,6907,Completed,Routine patrol mission
+FL1204,2025-01-29,P004,A003,Combat,3.9,7532,Cancelled,Routine combat mission
+FL1205,2025-01-29,P020,A002,Patrol,3.0,5967,Completed,Weather-related patrol mission
+FL1206,2025-01-29,P007,A015,Patrol,3.6,7476,Completed,patrol systems check completed
+FL1207,2025-01-29,P008,A009,Combat,4.6,8739,Completed,Advanced combat training
+FL1208,2025-01-29,P016,A017,Combat,4.6,9399,Completed,Routine combat mission
+FL1209,2025-01-29,P011,A005,Patrol,3.9,7061,Cancelled,Joint force patrol exercise
+FL1210,2025-01-29,P014,A010,Transport,2.9,5373,Completed,Standard transport procedures
+FL1211,2025-01-30,P015,A020,Training,2.6,5413,Completed,Successful training operation
+FL1212,2025-01-30,P012,A003,Training,1.9,3942,Cancelled,Joint force training exercise
+FL1213,2025-01-30,P012,A017,Training,2.0,3608,Completed,Night training mission
+FL1214,2025-01-30,P009,A016,Transport,3.3,6321,Completed,Night transport mission
+FL1215,2025-01-30,P008,A014,Reconnaissance,3.7,7396,Completed,Joint force reconnaissance exercise
+FL1216,2025-01-30,P015,A003,Reconnaissance,3.8,6949,Cancelled,Successful reconnaissance operation
+FL1217,2025-01-30,P020,A011,Combat,3.6,6810,Completed,Coastal combat operation
+FL1218,2025-01-30,P001,A003,Transport,2.3,4699,Completed,Routine transport mission
+FL1219,2025-01-30,P015,A018,Combat,4.3,8022,Cancelled,Emergency combat training
+FL1220,2025-01-30,P008,A009,Combat,3.6,6882,Completed,Advanced combat training
+FL1221,2025-01-31,P013,A011,Reconnaissance,3.8,7453,Completed,Coastal reconnaissance operation
+FL1222,2025-01-31,P008,A001,Transport,2.8,5355,Completed,Standard transport procedures
+FL1223,2025-01-31,P009,A012,Transport,3.5,7324,Cancelled,Successful transport operation
+FL1224,2025-01-31,P001,A001,Reconnaissance,4.0,8161,Completed,Advanced reconnaissance training
+FL1225,2025-01-31,P006,A003,Training,2.8,5270,Completed,Joint force training exercise
+FL1226,2025-01-31,P011,A019,Reconnaissance,4.0,8062,Completed,Coastal reconnaissance operation
+FL1227,2025-01-31,P016,A003,Training,2.0,3910,Completed,Successful training operation
+FL1228,2025-01-31,P006,A009,Transport,2.1,3790,Cancelled,Weather-related transport mission
+FL1229,2025-01-31,P007,A006,Training,2.5,4966,Completed,training systems check completed
+FL1230,2025-01-31,P009,A014,Training,2.1,4137,Completed,Advanced training training
+FL1231,2025-02-01,P007,A006,Reconnaissance,3.1,5905,Completed,Advanced reconnaissance training
+FL1232,2025-02-01,P018,A019,Transport,2.1,3929,Completed,Night transport mission
+FL1233,2025-02-01,P003,A001,Combat,4.3,8535,Completed,Emergency combat training
+FL1234,2025-02-01,P015,A006,Combat,4.2,7576,Completed,Night combat mission
+FL1235,2025-02-01,P011,A002,Combat,3.8,7340,Completed,Emergency combat training
+FL1236,2025-02-01,P016,A016,Patrol,3.1,6361,Completed,Joint force patrol exercise
+FL1237,2025-02-01,P012,A010,Training,1.6,3051,Completed,training systems check completed
+FL1238,2025-02-01,P017,A020,Patrol,3.6,6756,Completed,Standard patrol procedures
+FL1239,2025-02-01,P005,A017,Combat,3.6,7434,Completed,Routine combat mission
+FL1240,2025-02-01,P013,A006,Training,1.9,3484,Completed,Joint force training exercise
+FL1241,2025-02-02,P012,A009,Training,1.8,3715,Completed,Standard training procedures
+FL1242,2025-02-02,P019,A006,Combat,4.1,7605,Completed,Night combat mission
+FL1243,2025-02-02,P004,A013,Combat,4.9,9809,Cancelled,Successful combat operation
+FL1244,2025-02-02,P011,A008,Patrol,2.6,4851,Completed,Emergency patrol training
+FL1245,2025-02-02,P014,A014,Combat,4.4,8497,Cancelled,Emergency combat training
+FL1246,2025-02-02,P020,A002,Transport,3.4,7091,Completed,Emergency transport training
+FL1247,2025-02-02,P014,A017,Reconnaissance,4.2,7997,Completed,Advanced reconnaissance training
+FL1248,2025-02-02,P012,A011,Patrol,3.0,6213,Completed,patrol systems check completed
+FL1249,2025-02-02,P017,A017,Reconnaissance,4.2,7646,Completed,Routine reconnaissance mission
+FL1250,2025-02-02,P002,A012,Training,1.6,2892,Cancelled,Successful training operation
+FL1251,2025-02-03,P011,A008,Training,2.5,5114,Completed,Joint force training exercise
+FL1252,2025-02-03,P009,A005,Transport,2.6,5301,Cancelled,Coastal transport operation
+FL1253,2025-02-03,P011,A020,Transport,2.2,4444,Completed,Advanced transport training
+FL1254,2025-02-03,P011,A002,Patrol,3.6,6667,Completed,Night patrol mission
+FL1255,2025-02-03,P005,A002,Patrol,3.6,7020,Completed,Standard patrol procedures
+FL1256,2025-02-03,P018,A009,Training,2.0,3634,Completed,Weather-related training mission
+FL1257,2025-02-03,P002,A011,Training,2.0,3826,Completed,Standard training procedures
+FL1258,2025-02-03,P016,A019,Reconnaissance,3.1,5804,Completed,Successful reconnaissance operation
+FL1259,2025-02-03,P006,A006,Transport,2.9,5940,Completed,transport systems check completed
+FL1260,2025-02-03,P015,A006,Combat,4.3,7973,Completed,Advanced combat training
+FL1261,2025-02-04,P010,A004,Reconnaissance,3.7,7676,Cancelled,Successful reconnaissance operation
+FL1262,2025-02-04,P020,A008,Reconnaissance,3.1,5990,Completed,reconnaissance systems check completed
+FL1263,2025-02-04,P003,A003,Combat,3.7,7123,Cancelled,Weather-related combat mission
+FL1264,2025-02-04,P008,A015,Reconnaissance,2.9,5821,Completed,Weather-related reconnaissance mission
+FL1265,2025-02-04,P018,A002,Combat,4.3,8349,Cancelled,Emergency combat training
+FL1266,2025-02-04,P010,A007,Transport,2.3,4246,Completed,Night transport mission
+FL1267,2025-02-04,P013,A016,Transport,3.2,6712,Completed,Coastal transport operation
+FL1268,2025-02-04,P003,A013,Combat,3.6,6558,Completed,Coastal combat operation
+FL1269,2025-02-04,P003,A008,Reconnaissance,3.4,6969,Completed,reconnaissance systems check completed
+FL1270,2025-02-04,P013,A009,Reconnaissance,4.1,7605,Completed,Coastal reconnaissance operation
+FL1271,2025-02-05,P005,A015,Training,2.2,4496,Completed,Routine training mission
+FL1272,2025-02-05,P017,A007,Combat,4.4,8105,Completed,Routine combat mission
+FL1273,2025-02-05,P019,A015,Transport,2.1,4057,Cancelled,Coastal transport operation
+FL1274,2025-02-05,P003,A014,Patrol,2.7,5218,Completed,Standard patrol procedures
+FL1275,2025-02-05,P002,A011,Patrol,3.2,6363,Completed,Emergency patrol training
+FL1276,2025-02-05,P006,A003,Transport,2.5,4691,Completed,Emergency transport training
+FL1277,2025-02-05,P019,A007,Transport,3.3,6375,Completed,transport systems check completed
+FL1278,2025-02-05,P013,A010,Reconnaissance,2.8,5739,Completed,reconnaissance systems check completed
+FL1279,2025-02-05,P017,A005,Patrol,3.2,5813,Completed,Weather-related patrol mission
+FL1280,2025-02-05,P019,A013,Combat,4.1,8576,Completed,Joint force combat exercise
+FL1281,2025-02-06,P006,A013,Transport,2.2,4263,Cancelled,Night transport mission
+FL1282,2025-02-06,P020,A007,Transport,2.5,4579,Completed,transport systems check completed
+FL1283,2025-02-06,P010,A017,Transport,2.3,4165,Completed,transport systems check completed
+FL1284,2025-02-06,P002,A014,Reconnaissance,3.8,6902,Completed,Standard reconnaissance procedures
+FL1285,2025-02-06,P014,A009,Patrol,3.5,7234,Completed,Coastal patrol operation
+FL1286,2025-02-06,P019,A005,Combat,4.1,8086,Completed,Joint force combat exercise
+FL1287,2025-02-06,P017,A002,Training,1.9,3943,Completed,Routine training mission
+FL1288,2025-02-06,P002,A011,Combat,4.9,9296,Completed,Successful combat operation
+FL1289,2025-02-06,P014,A020,Reconnaissance,3.7,6841,Completed,Joint force reconnaissance exercise
+FL1290,2025-02-06,P020,A010,Combat,4.9,8820,Completed,Weather-related combat mission
+FL1291,2025-02-07,P007,A012,Training,2.6,5334,Cancelled,Successful training operation
+FL1292,2025-02-07,P014,A005,Training,1.8,3446,Completed,Joint force training exercise
+FL1293,2025-02-07,P010,A008,Transport,2.7,4871,Completed,Routine transport mission
+FL1294,2025-02-07,P002,A018,Reconnaissance,3.1,5594,Completed,Standard reconnaissance procedures
+FL1295,2025-02-07,P019,A003,Training,2.4,4531,Completed,Emergency training training
+FL1296,2025-02-07,P001,A017,Patrol,3.0,5425,Completed,Weather-related patrol mission
+FL1297,2025-02-07,P006,A009,Transport,2.1,4210,Completed,Night transport mission
+FL1298,2025-02-07,P010,A016,Patrol,4.0,7688,Completed,Night patrol mission
+FL1299,2025-02-07,P015,A003,Combat,4.0,8237,Completed,Advanced combat training
+FL1300,2025-02-07,P011,A013,Transport,2.5,5137,Cancelled,Advanced transport training
+FL1301,2025-02-08,P008,A006,Training,2.4,4361,Completed,Routine training mission
+FL1302,2025-02-08,P001,A013,Patrol,2.6,4688,Completed,Advanced patrol training
+FL1303,2025-02-08,P017,A004,Reconnaissance,3.4,7109,Completed,Routine reconnaissance mission
+FL1304,2025-02-08,P002,A012,Reconnaissance,3.4,6259,Completed,Joint force reconnaissance exercise
+FL1305,2025-02-08,P008,A010,Transport,2.5,4849,Completed,transport systems check completed
+FL1306,2025-02-08,P002,A015,Transport,2.6,4957,Completed,Coastal transport operation
+FL1307,2025-02-08,P002,A010,Patrol,3.2,6019,Completed,Routine patrol mission
+FL1308,2025-02-08,P001,A016,Transport,2.5,4901,Completed,Weather-related transport mission
+FL1309,2025-02-08,P012,A004,Transport,2.9,5306,Completed,Coastal transport operation
+FL1310,2025-02-08,P015,A018,Training,1.7,3302,Completed,Advanced training training
+FL1311,2025-02-09,P018,A010,Patrol,3.1,6071,Completed,Weather-related patrol mission
+FL1312,2025-02-09,P012,A014,Transport,2.1,4145,Cancelled,Weather-related transport mission
+FL1313,2025-02-09,P001,A016,Transport,2.5,5112,Completed,Successful transport operation
+FL1314,2025-02-09,P013,A020,Reconnaissance,3.8,7157,Completed,Coastal reconnaissance operation
+FL1315,2025-02-09,P008,A016,Transport,2.7,5173,Cancelled,Emergency transport training
+FL1316,2025-02-09,P011,A002,Reconnaissance,3.9,7628,Completed,Emergency reconnaissance training
+FL1317,2025-02-09,P019,A017,Patrol,3.7,7564,Completed,Weather-related patrol mission
+FL1318,2025-02-09,P007,A019,Transport,2.3,4435,Completed,Standard transport procedures
+FL1319,2025-02-09,P002,A011,Training,2.2,4415,Cancelled,training systems check completed
+FL1320,2025-02-09,P013,A018,Reconnaissance,3.0,5910,Completed,Standard reconnaissance procedures
+FL1321,2025-02-10,P003,A008,Combat,3.6,7036,Completed,Joint force combat exercise
+FL1322,2025-02-10,P010,A013,Patrol,2.7,4993,Completed,Standard patrol procedures
+FL1323,2025-02-10,P008,A008,Training,2.0,3740,Completed,Joint force training exercise
+FL1324,2025-02-10,P003,A012,Reconnaissance,3.6,7503,Completed,Weather-related reconnaissance mission
+FL1325,2025-02-10,P015,A003,Training,2.2,4344,Completed,Standard training procedures
+FL1326,2025-02-10,P009,A006,Transport,2.3,4313,Completed,Routine transport mission
+FL1327,2025-02-10,P014,A017,Combat,4.7,8909,Completed,Weather-related combat mission
+FL1328,2025-02-10,P018,A017,Combat,3.9,7023,Completed,Coastal combat operation
+FL1329,2025-02-10,P009,A005,Reconnaissance,4.3,8283,Completed,Standard reconnaissance procedures
+FL1330,2025-02-10,P014,A014,Patrol,2.7,5392,Completed,Advanced patrol training
+FL1331,2025-02-11,P002,A009,Transport,2.2,4085,Completed,Successful transport operation
+FL1332,2025-02-11,P001,A016,Reconnaissance,3.2,6474,Completed,Routine reconnaissance mission
+FL1333,2025-02-11,P011,A002,Transport,2.4,4941,Cancelled,Weather-related transport mission
+FL1334,2025-02-11,P020,A007,Training,2.4,4808,Completed,Routine training mission
+FL1335,2025-02-11,P007,A002,Training,2.4,4578,Completed,Routine training mission
+FL1336,2025-02-11,P016,A012,Transport,2.7,4960,Completed,Joint force transport exercise
+FL1337,2025-02-11,P005,A013,Training,2.1,4161,Completed,Emergency training training
+FL1338,2025-02-11,P009,A006,Reconnaissance,4.3,7780,Completed,Successful reconnaissance operation
+FL1339,2025-02-11,P010,A014,Reconnaissance,4.5,9188,Completed,Emergency reconnaissance training
+FL1340,2025-02-11,P016,A010,Transport,2.1,3943,Completed,Weather-related transport mission
+FL1341,2025-02-12,P007,A001,Training,2.1,4407,Completed,Successful training operation
+FL1342,2025-02-12,P009,A005,Patrol,3.3,6277,Completed,Successful patrol operation
+FL1343,2025-02-12,P004,A015,Patrol,3.9,7484,Completed,patrol systems check completed
+FL1344,2025-02-12,P020,A009,Patrol,3.8,7289,Cancelled,Routine patrol mission
+FL1345,2025-02-12,P018,A003,Training,1.7,3200,Completed,training systems check completed
+FL1346,2025-02-12,P017,A014,Combat,3.7,7278,Completed,combat systems check completed
+FL1347,2025-02-12,P012,A010,Transport,2.9,5260,Completed,Advanced transport training
+FL1348,2025-02-12,P014,A020,Patrol,3.3,6882,Completed,Weather-related patrol mission
+FL1349,2025-02-12,P003,A004,Reconnaissance,3.9,7714,Completed,Joint force reconnaissance exercise
+FL1350,2025-02-12,P011,A010,Patrol,2.7,4896,Cancelled,Night patrol mission
+FL1351,2025-02-13,P008,A013,Combat,4.4,8093,Completed,Night combat mission
+FL1352,2025-02-13,P010,A003,Reconnaissance,3.8,7694,Completed,reconnaissance systems check completed
+FL1353,2025-02-13,P011,A016,Training,2.5,5063,Completed,Night training mission
+FL1354,2025-02-13,P019,A013,Transport,3.3,6045,Completed,Night transport mission
+FL1355,2025-02-13,P014,A020,Combat,4.8,8898,Completed,Weather-related combat mission
+FL1356,2025-02-13,P001,A001,Patrol,3.0,5605,Cancelled,Successful patrol operation
+FL1357,2025-02-13,P005,A007,Reconnaissance,3.0,5680,Completed,Standard reconnaissance procedures
+FL1358,2025-02-13,P019,A016,Combat,4.7,8853,Cancelled,Night combat mission
+FL1359,2025-02-13,P009,A017,Transport,2.4,4906,Completed,Advanced transport training
+FL1360,2025-02-13,P004,A015,Reconnaissance,3.0,6118,Completed,Standard reconnaissance procedures
+FL1361,2025-02-14,P009,A012,Reconnaissance,3.4,6712,Completed,Coastal reconnaissance operation
+FL1362,2025-02-14,P007,A007,Reconnaissance,3.7,7363,Completed,Routine reconnaissance mission
+FL1363,2025-02-14,P013,A018,Patrol,2.5,4526,Completed,Successful patrol operation
+FL1364,2025-02-14,P004,A020,Transport,2.0,3841,Completed,Joint force transport exercise
+FL1365,2025-02-14,P018,A020,Reconnaissance,3.6,7214,Cancelled,Night reconnaissance mission
+FL1366,2025-02-14,P019,A004,Reconnaissance,4.1,7709,Completed,Standard reconnaissance procedures
+FL1367,2025-02-14,P015,A001,Transport,3.1,5799,Completed,Successful transport operation
+FL1368,2025-02-14,P013,A016,Patrol,2.9,5560,Completed,Routine patrol mission
+FL1369,2025-02-14,P008,A001,Combat,4.6,8973,Cancelled,Joint force combat exercise
+FL1370,2025-02-14,P008,A016,Combat,3.5,6625,Completed,Coastal combat operation
+FL1371,2025-02-15,P014,A018,Reconnaissance,4.0,8252,Completed,Night reconnaissance mission
+FL1372,2025-02-15,P008,A013,Combat,3.7,7213,Completed,Night combat mission
+FL1373,2025-02-15,P016,A014,Reconnaissance,3.1,6138,Completed,Advanced reconnaissance training
+FL1374,2025-02-15,P002,A015,Reconnaissance,4.2,8326,Cancelled,Emergency reconnaissance training
+FL1375,2025-02-15,P014,A014,Patrol,3.1,6294,Cancelled,Weather-related patrol mission
+FL1376,2025-02-15,P018,A015,Training,2.6,5119,Completed,Coastal training operation
+FL1377,2025-02-15,P010,A012,Training,1.7,3067,Completed,Standard training procedures
+FL1378,2025-02-15,P005,A011,Combat,3.9,7429,Completed,Routine combat mission
+FL1379,2025-02-15,P005,A005,Training,2.7,4890,Completed,Emergency training training
+FL1380,2025-02-15,P008,A005,Transport,2.2,4244,Completed,transport systems check completed
+FL1381,2025-02-16,P018,A005,Reconnaissance,3.2,6640,Cancelled,reconnaissance systems check completed
+FL1382,2025-02-16,P013,A017,Reconnaissance,2.9,5928,Completed,reconnaissance systems check completed
+FL1383,2025-02-16,P006,A020,Transport,3.1,6355,Cancelled,Emergency transport training
+FL1384,2025-02-16,P017,A001,Combat,4.5,9299,Completed,Successful combat operation
+FL1385,2025-02-16,P016,A012,Reconnaissance,3.9,7308,Completed,Weather-related reconnaissance mission
+FL1386,2025-02-16,P006,A006,Training,1.7,3379,Completed,Joint force training exercise
+FL1387,2025-02-16,P002,A006,Combat,3.6,7374,Completed,Emergency combat training
+FL1388,2025-02-16,P001,A019,Combat,4.9,9807,Completed,Advanced combat training
+FL1389,2025-02-16,P003,A015,Training,2.1,4399,Completed,Routine training mission
+FL1390,2025-02-16,P001,A016,Transport,2.4,5001,Completed,Advanced transport training
+FL1391,2025-02-17,P014,A015,Transport,2.9,5757,Completed,Advanced transport training
+FL1392,2025-02-17,P020,A009,Training,1.8,3252,Completed,Successful training operation
+FL1393,2025-02-17,P005,A020,Reconnaissance,3.2,5955,Completed,Routine reconnaissance mission
+FL1394,2025-02-17,P001,A013,Patrol,3.6,7009,Cancelled,patrol systems check completed
+FL1395,2025-02-17,P017,A013,Patrol,2.5,4768,Completed,Night patrol mission
+FL1396,2025-02-17,P019,A001,Transport,2.1,4241,Completed,Coastal transport operation
+FL1397,2025-02-17,P009,A017,Reconnaissance,4.0,7671,Completed,Joint force reconnaissance exercise
+FL1398,2025-02-17,P006,A004,Transport,3.0,6136,Completed,Night transport mission
+FL1399,2025-02-17,P008,A016,Combat,4.5,9402,Completed,Joint force combat exercise
+FL1400,2025-02-17,P009,A009,Combat,4.9,9499,Cancelled,Emergency combat training
+FL1401,2025-02-18,P008,A003,Training,2.0,3857,Completed,Advanced training training
+FL1402,2025-02-18,P019,A002,Training,1.8,3570,Completed,Weather-related training mission
+FL1403,2025-02-18,P020,A006,Combat,4.4,9031,Completed,Routine combat mission
+FL1404,2025-02-18,P014,A019,Transport,2.2,4455,Completed,Coastal transport operation
+FL1405,2025-02-18,P008,A011,Transport,3.5,6439,Completed,Joint force transport exercise
+FL1406,2025-02-18,P002,A017,Combat,4.2,7820,Completed,Night combat mission
+FL1407,2025-02-18,P009,A005,Patrol,3.0,5782,Completed,Coastal patrol operation
+FL1408,2025-02-18,P020,A012,Training,1.6,3152,Completed,Coastal training operation
+FL1409,2025-02-18,P004,A005,Combat,4.5,9366,Completed,Successful combat operation
+FL1410,2025-02-18,P004,A002,Transport,2.7,5531,Completed,Routine transport mission
+FL1411,2025-02-19,P001,A012,Transport,2.7,5183,Completed,Coastal transport operation
+FL1412,2025-02-19,P017,A014,Training,1.8,3642,Completed,Joint force training exercise
+FL1413,2025-02-19,P007,A004,Patrol,3.5,7142,Completed,Weather-related patrol mission
+FL1414,2025-02-19,P001,A011,Reconnaissance,3.8,7740,Completed,reconnaissance systems check completed
+FL1415,2025-02-19,P017,A020,Training,2.3,4517,Completed,Standard training procedures
+FL1416,2025-02-19,P010,A018,Combat,4.6,9387,Completed,Night combat mission
+FL1417,2025-02-19,P008,A013,Combat,4.7,9856,Cancelled,Advanced combat training
+FL1418,2025-02-19,P013,A009,Reconnaissance,3.8,7246,Completed,Coastal reconnaissance operation
+FL1419,2025-02-19,P010,A014,Patrol,3.7,7098,Completed,Weather-related patrol mission
+FL1420,2025-02-19,P017,A013,Combat,4.7,9846,Completed,Standard combat procedures
+FL1421,2025-02-20,P010,A010,Transport,3.4,6790,Completed,Routine transport mission
+FL1422,2025-02-20,P002,A004,Patrol,3.4,6615,Completed,Night patrol mission
+FL1423,2025-02-20,P005,A011,Patrol,3.3,6406,Completed,Coastal patrol operation
+FL1424,2025-02-20,P018,A008,Training,2.5,4536,Cancelled,Standard training procedures
+FL1425,2025-02-20,P012,A014,Combat,5.0,9644,Cancelled,Weather-related combat mission
+FL1426,2025-02-20,P008,A002,Transport,2.6,5282,Completed,Weather-related transport mission
+FL1427,2025-02-20,P008,A016,Training,1.9,3468,Completed,Routine training mission
+FL1428,2025-02-20,P014,A012,Transport,3.0,6147,Completed,Standard transport procedures
+FL1429,2025-02-20,P020,A003,Combat,4.6,8624,Completed,Standard combat procedures
+FL1430,2025-02-20,P002,A015,Training,1.8,3558,Completed,Joint force training exercise
+FL1431,2025-02-21,P018,A007,Combat,4.1,8509,Completed,Advanced combat training
+FL1432,2025-02-21,P005,A001,Patrol,3.5,6663,Completed,Emergency patrol training
+FL1433,2025-02-21,P008,A011,Transport,2.5,4932,Completed,Emergency transport training
+FL1434,2025-02-21,P004,A018,Reconnaissance,3.8,7318,Completed,Night reconnaissance mission
+FL1435,2025-02-21,P010,A011,Combat,3.7,7521,Completed,Coastal combat operation
+FL1436,2025-02-21,P015,A019,Reconnaissance,3.8,7635,Completed,Night reconnaissance mission
+FL1437,2025-02-21,P006,A003,Training,2.3,4513,Completed,Night training mission
+FL1438,2025-02-21,P013,A006,Transport,2.8,5835,Completed,transport systems check completed
+FL1439,2025-02-21,P009,A018,Transport,3.2,6547,Cancelled,Routine transport mission
+FL1440,2025-02-21,P020,A016,Reconnaissance,4.3,8456,Cancelled,reconnaissance systems check completed
+FL1441,2025-02-22,P013,A005,Reconnaissance,3.1,6497,Completed,Joint force reconnaissance exercise
+FL1442,2025-02-22,P018,A017,Reconnaissance,3.7,7618,Completed,Weather-related reconnaissance mission
+FL1443,2025-02-22,P013,A006,Patrol,2.8,5606,Completed,Emergency patrol training
+FL1444,2025-02-22,P017,A017,Combat,3.8,7230,Cancelled,Weather-related combat mission
+FL1445,2025-02-22,P018,A004,Transport,3.1,6475,Cancelled,Advanced transport training
+FL1446,2025-02-22,P009,A018,Reconnaissance,2.9,5808,Completed,Advanced reconnaissance training
+FL1447,2025-02-22,P014,A020,Patrol,3.0,6092,Completed,Advanced patrol training
+FL1448,2025-02-22,P019,A006,Training,1.7,3177,Cancelled,Advanced training training
+FL1449,2025-02-22,P008,A005,Patrol,3.0,5759,Completed,Standard patrol procedures
+FL1450,2025-02-22,P010,A013,Training,1.6,3259,Completed,Weather-related training mission
+FL1451,2025-02-23,P009,A018,Reconnaissance,3.9,7946,Completed,Weather-related reconnaissance mission
+FL1452,2025-02-23,P017,A010,Combat,4.7,8478,Cancelled,Routine combat mission
+FL1453,2025-02-23,P015,A014,Reconnaissance,3.1,6466,Cancelled,Advanced reconnaissance training
+FL1454,2025-02-23,P001,A011,Training,1.6,3305,Completed,Routine training mission
+FL1455,2025-02-23,P020,A006,Reconnaissance,3.2,5769,Completed,Routine reconnaissance mission
+FL1456,2025-02-23,P010,A008,Reconnaissance,3.8,7779,Completed,Standard reconnaissance procedures
+FL1457,2025-02-23,P003,A014,Training,1.9,3427,Cancelled,Coastal training operation
+FL1458,2025-02-23,P008,A013,Combat,4.9,9529,Completed,Advanced combat training
+FL1459,2025-02-23,P017,A012,Reconnaissance,3.5,6932,Completed,Weather-related reconnaissance mission
+FL1460,2025-02-23,P013,A006,Reconnaissance,3.2,6540,Completed,Successful reconnaissance operation
+FL1461,2025-02-24,P008,A015,Reconnaissance,3.3,6875,Completed,Night reconnaissance mission
+FL1462,2025-02-24,P020,A008,Patrol,3.4,6395,Completed,patrol systems check completed
+FL1463,2025-02-24,P013,A007,Training,1.5,2962,Completed,Weather-related training mission
+FL1464,2025-02-24,P014,A018,Combat,4.4,8141,Completed,Coastal combat operation
+FL1465,2025-02-24,P017,A006,Transport,2.3,4556,Completed,Advanced transport training
+FL1466,2025-02-24,P010,A016,Reconnaissance,4.0,8265,Completed,Successful reconnaissance operation
+FL1467,2025-02-24,P009,A009,Patrol,3.0,5767,Completed,Successful patrol operation
+FL1468,2025-02-24,P008,A011,Transport,3.0,6186,Completed,Successful transport operation
+FL1469,2025-02-24,P001,A001,Combat,4.2,8234,Completed,Advanced combat training
+FL1470,2025-02-24,P002,A003,Training,2.8,5261,Completed,Weather-related training mission
+FL1471,2025-02-25,P018,A005,Combat,4.4,8764,Completed,combat systems check completed
+FL1472,2025-02-25,P019,A007,Reconnaissance,3.8,7607,Cancelled,Advanced reconnaissance training
+FL1473,2025-02-25,P002,A001,Transport,3.4,7009,Completed,Standard transport procedures
+FL1474,2025-02-25,P007,A009,Training,2.3,4289,Completed,training systems check completed
+FL1475,2025-02-25,P009,A001,Training,2.1,3941,Completed,Weather-related training mission
+FL1476,2025-02-25,P001,A020,Transport,3.1,5949,Completed,Weather-related transport mission
+FL1477,2025-02-25,P008,A010,Reconnaissance,3.8,7293,Completed,reconnaissance systems check completed
+FL1478,2025-02-25,P012,A006,Training,1.9,3614,Completed,Weather-related training mission
+FL1479,2025-02-25,P013,A016,Patrol,2.6,5207,Completed,Joint force patrol exercise
+FL1480,2025-02-25,P004,A016,Reconnaissance,3.0,6120,Completed,reconnaissance systems check completed
+FL1481,2025-02-26,P001,A010,Reconnaissance,4.2,8806,Completed,Successful reconnaissance operation
+FL1482,2025-02-26,P012,A008,Patrol,3.1,6392,Completed,Emergency patrol training
+FL1483,2025-02-26,P008,A004,Combat,4.9,8838,Completed,Advanced combat training
+FL1484,2025-02-26,P008,A012,Reconnaissance,3.6,7537,Completed,Standard reconnaissance procedures
+FL1485,2025-02-26,P009,A020,Training,2.1,4381,Completed,training systems check completed
+FL1486,2025-02-26,P017,A015,Training,2.5,5075,Completed,Advanced training training
+FL1487,2025-02-26,P020,A013,Patrol,3.1,6401,Completed,Routine patrol mission
+FL1488,2025-02-26,P014,A005,Combat,4.4,8022,Completed,Weather-related combat mission
+FL1489,2025-02-26,P013,A009,Reconnaissance,3.1,5804,Completed,Joint force reconnaissance exercise
+FL1490,2025-02-26,P004,A006,Patrol,3.8,7509,Completed,Emergency patrol training
+FL1491,2025-02-27,P004,A019,Patrol,2.9,5676,Completed,Joint force patrol exercise
+FL1492,2025-02-27,P005,A002,Transport,2.7,4975,Completed,Advanced transport training
+FL1493,2025-02-27,P016,A012,Patrol,3.9,7282,Cancelled,Standard patrol procedures
+FL1494,2025-02-27,P009,A017,Reconnaissance,2.8,5422,Completed,reconnaissance systems check completed
+FL1495,2025-02-27,P018,A005,Training,2.6,4945,Completed,Night training mission
+FL1496,2025-02-27,P002,A010,Combat,3.8,7968,Completed,Routine combat mission
+FL1497,2025-02-27,P016,A009,Training,2.0,3989,Completed,Advanced training training
+FL1498,2025-02-27,P020,A014,Reconnaissance,3.1,6015,Completed,Standard reconnaissance procedures
+FL1499,2025-02-27,P002,A019,Training,2.1,3929,Completed,Night training mission
+FL1500,2025-02-27,P003,A003,Reconnaissance,4.4,8506,Completed,Successful reconnaissance operation
+FL1501,2025-02-28,P013,A018,Training,1.8,3504,Completed,Weather-related training mission
+FL1502,2025-02-28,P005,A004,Transport,2.5,4968,Completed,Coastal transport operation
+FL1503,2025-02-28,P010,A010,Training,1.7,3398,Completed,training systems check completed
+FL1504,2025-02-28,P017,A004,Combat,3.9,7208,Completed,Routine combat mission
+FL1505,2025-02-28,P015,A009,Reconnaissance,4.4,8241,Completed,Coastal reconnaissance operation
+FL1506,2025-02-28,P018,A010,Training,2.8,5128,Completed,Advanced training training
+FL1507,2025-02-28,P013,A008,Reconnaissance,3.9,7889,Completed,Routine reconnaissance mission
+FL1508,2025-02-28,P010,A012,Patrol,3.1,5837,Completed,Night patrol mission
+FL1509,2025-02-28,P018,A018,Reconnaissance,3.2,6148,Completed,Joint force reconnaissance exercise
+FL1510,2025-02-28,P006,A018,Transport,3.0,6223,Completed,Night transport mission
+FL1511,2025-03-01,P015,A016,Training,2.1,4364,Completed,Successful training operation
+FL1512,2025-03-01,P004,A008,Patrol,3.0,5809,Completed,patrol systems check completed
+FL1513,2025-03-01,P009,A009,Reconnaissance,3.8,7212,Completed,Emergency reconnaissance training
+FL1514,2025-03-01,P017,A004,Reconnaissance,3.5,6450,Cancelled,Night reconnaissance mission
+FL1515,2025-03-01,P010,A014,Patrol,2.8,5066,Completed,Standard patrol procedures
+FL1516,2025-03-01,P016,A015,Reconnaissance,3.9,7338,Completed,Routine reconnaissance mission
+FL1517,2025-03-01,P015,A018,Transport,2.5,4693,Completed,Night transport mission
+FL1518,2025-03-01,P015,A001,Transport,2.4,4856,Completed,Standard transport procedures
+FL1519,2025-03-01,P004,A003,Combat,4.1,8525,Completed,Routine combat mission
+FL1520,2025-03-01,P008,A016,Reconnaissance,3.0,5990,Completed,Advanced reconnaissance training
+FL1521,2025-03-02,P014,A012,Patrol,3.1,6108,Completed,Standard patrol procedures
+FL1522,2025-03-02,P013,A007,Training,1.7,3145,Completed,Coastal training operation
+FL1523,2025-03-02,P015,A018,Training,1.6,3161,Completed,Emergency training training
+FL1524,2025-03-02,P002,A019,Training,1.6,2980,Completed,Coastal training operation
+FL1525,2025-03-02,P001,A004,Training,2.4,4689,Completed,Weather-related training mission
+FL1526,2025-03-02,P003,A002,Patrol,3.9,7656,Completed,Standard patrol procedures
+FL1527,2025-03-02,P003,A007,Patrol,3.4,6971,Completed,Joint force patrol exercise
+FL1528,2025-03-02,P016,A001,Patrol,3.0,5966,Completed,Routine patrol mission
+FL1529,2025-03-02,P017,A011,Training,1.9,3824,Completed,Advanced training training
+FL1530,2025-03-02,P012,A010,Training,2.8,5553,Completed,Weather-related training mission
+FL1531,2025-03-03,P017,A016,Transport,2.2,4419,Completed,transport systems check completed
+FL1532,2025-03-03,P012,A017,Patrol,3.0,5736,Completed,Advanced patrol training
+FL1533,2025-03-03,P020,A020,Combat,3.9,7687,Completed,Joint force combat exercise
+FL1534,2025-03-03,P008,A005,Training,2.5,4734,Completed,Standard training procedures
+FL1535,2025-03-03,P014,A020,Transport,2.5,4917,Completed,Coastal transport operation
+FL1536,2025-03-03,P015,A009,Combat,4.7,8615,Completed,Emergency combat training
+FL1537,2025-03-03,P001,A008,Transport,2.3,4284,Completed,Weather-related transport mission
+FL1538,2025-03-03,P004,A013,Reconnaissance,4.1,7772,Cancelled,Coastal reconnaissance operation
+FL1539,2025-03-03,P016,A015,Patrol,3.5,7164,Completed,Successful patrol operation
+FL1540,2025-03-03,P010,A011,Reconnaissance,4.4,8899,Completed,Joint force reconnaissance exercise
+FL1541,2025-03-04,P003,A010,Reconnaissance,3.7,6968,Completed,reconnaissance systems check completed
+FL1542,2025-03-04,P015,A001,Reconnaissance,4.0,7649,Cancelled,Joint force reconnaissance exercise
+FL1543,2025-03-04,P005,A015,Transport,3.1,5585,Completed,Routine transport mission
+FL1544,2025-03-04,P001,A007,Reconnaissance,2.9,5709,Completed,Joint force reconnaissance exercise
+FL1545,2025-03-04,P014,A019,Transport,3.0,6122,Completed,Successful transport operation
+FL1546,2025-03-04,P002,A011,Training,1.6,3069,Completed,Joint force training exercise
+FL1547,2025-03-04,P014,A011,Transport,2.4,4393,Completed,Joint force transport exercise
+FL1548,2025-03-04,P020,A002,Transport,2.7,5526,Completed,Routine transport mission
+FL1549,2025-03-04,P009,A008,Patrol,3.2,6686,Cancelled,patrol systems check completed
+FL1550,2025-03-04,P010,A019,Combat,4.3,8319,Completed,Coastal combat operation
+FL1551,2025-03-05,P006,A010,Reconnaissance,3.9,7411,Completed,reconnaissance systems check completed
+FL1552,2025-03-05,P009,A010,Transport,2.7,5033,Completed,Weather-related transport mission
+FL1553,2025-03-05,P008,A010,Reconnaissance,3.5,6555,Completed,Standard reconnaissance procedures
+FL1554,2025-03-05,P010,A009,Combat,5.0,10198,Completed,Night combat mission
+FL1555,2025-03-05,P008,A003,Training,2.6,5443,Completed,training systems check completed
+FL1556,2025-03-05,P015,A011,Transport,2.9,5331,Completed,Night transport mission
+FL1557,2025-03-05,P011,A020,Training,2.6,5305,Completed,Successful training operation
+FL1558,2025-03-05,P015,A006,Training,2.0,4186,Completed,Coastal training operation
+FL1559,2025-03-05,P015,A017,Patrol,3.1,6052,Completed,Successful patrol operation
+FL1560,2025-03-05,P020,A001,Reconnaissance,2.8,5427,Cancelled,reconnaissance systems check completed
+FL1561,2025-03-06,P013,A019,Training,2.3,4385,Completed,training systems check completed
+FL1562,2025-03-06,P010,A011,Training,1.5,2976,Completed,Standard training procedures
+FL1563,2025-03-06,P007,A006,Reconnaissance,3.5,6355,Cancelled,Coastal reconnaissance operation
+FL1564,2025-03-06,P001,A008,Training,2.2,4099,Completed,Emergency training training
+FL1565,2025-03-06,P007,A004,Transport,3.5,6910,Completed,Joint force transport exercise
+FL1566,2025-03-06,P013,A003,Reconnaissance,3.2,5843,Completed,Standard reconnaissance procedures
+FL1567,2025-03-06,P011,A009,Training,2.6,5141,Completed,training systems check completed
+FL1568,2025-03-06,P019,A017,Combat,4.5,8690,Completed,Routine combat mission
+FL1569,2025-03-06,P004,A004,Training,2.5,4673,Completed,training systems check completed
+FL1570,2025-03-06,P003,A016,Reconnaissance,3.3,6052,Completed,Advanced reconnaissance training
+FL1571,2025-03-07,P001,A006,Combat,3.7,6711,Completed,Night combat mission
+FL1572,2025-03-07,P007,A013,Combat,3.7,7109,Completed,combat systems check completed
+FL1573,2025-03-07,P013,A001,Reconnaissance,3.1,6332,Completed,Weather-related reconnaissance mission
+FL1574,2025-03-07,P012,A017,Combat,3.7,6693,Completed,Coastal combat operation
+FL1575,2025-03-07,P004,A011,Patrol,2.7,5405,Completed,Advanced patrol training
+FL1576,2025-03-07,P005,A010,Transport,3.3,6056,Completed,Advanced transport training
+FL1577,2025-03-07,P004,A013,Training,2.7,5470,Cancelled,Standard training procedures
+FL1578,2025-03-07,P001,A007,Combat,4.6,9204,Completed,Successful combat operation
+FL1579,2025-03-07,P010,A017,Combat,4.3,8322,Completed,Emergency combat training
+FL1580,2025-03-07,P001,A004,Combat,4.9,9642,Completed,Weather-related combat mission
+FL1581,2025-03-08,P004,A018,Patrol,2.7,5319,Completed,patrol systems check completed
+FL1582,2025-03-08,P019,A014,Training,2.7,5070,Completed,Joint force training exercise
+FL1583,2025-03-08,P014,A002,Combat,4.1,7456,Cancelled,Coastal combat operation
+FL1584,2025-03-08,P002,A011,Patrol,2.9,5534,Completed,Coastal patrol operation
+FL1585,2025-03-08,P009,A012,Patrol,3.7,6665,Cancelled,Successful patrol operation
+FL1586,2025-03-08,P015,A020,Patrol,3.6,7271,Completed,Advanced patrol training
+FL1587,2025-03-08,P014,A016,Training,1.9,3828,Completed,Joint force training exercise
+FL1588,2025-03-08,P009,A012,Combat,4.6,8622,Completed,combat systems check completed
+FL1589,2025-03-08,P004,A020,Transport,2.8,5867,Completed,Advanced transport training
+FL1590,2025-03-08,P005,A017,Training,2.3,4310,Completed,Advanced training training
+FL1591,2025-03-09,P003,A001,Transport,3.0,5438,Completed,Successful transport operation
+FL1592,2025-03-09,P020,A014,Patrol,3.9,8034,Completed,Emergency patrol training
+FL1593,2025-03-09,P011,A020,Training,2.3,4707,Completed,Coastal training operation
+FL1594,2025-03-09,P019,A003,Patrol,3.9,7411,Completed,Coastal patrol operation
+FL1595,2025-03-09,P015,A013,Combat,4.5,8139,Completed,Successful combat operation
+FL1596,2025-03-09,P010,A008,Combat,3.8,7464,Completed,combat systems check completed
+FL1597,2025-03-09,P017,A005,Patrol,3.2,6695,Completed,Advanced patrol training
+FL1598,2025-03-09,P005,A014,Reconnaissance,2.8,5744,Completed,Coastal reconnaissance operation
+FL1599,2025-03-09,P018,A015,Combat,4.0,7912,Completed,Advanced combat training
+FL1600,2025-03-09,P005,A018,Transport,3.1,6221,Completed,Coastal transport operation
+FL1601,2025-03-10,P001,A007,Combat,4.3,8617,Completed,Advanced combat training
+FL1602,2025-03-10,P011,A017,Transport,2.4,4563,Completed,Standard transport procedures
+FL1603,2025-03-10,P008,A014,Reconnaissance,4.3,8730,Completed,Coastal reconnaissance operation
+FL1604,2025-03-10,P020,A004,Combat,4.8,8828,Completed,Advanced combat training
+FL1605,2025-03-10,P009,A008,Patrol,2.7,5363,Completed,Emergency patrol training
+FL1606,2025-03-10,P010,A012,Transport,2.7,4896,Completed,transport systems check completed
+FL1607,2025-03-10,P018,A011,Patrol,3.8,7267,Completed,Weather-related patrol mission
+FL1608,2025-03-10,P011,A002,Transport,2.9,5524,Completed,Weather-related transport mission
+FL1609,2025-03-10,P003,A014,Reconnaissance,3.3,6681,Cancelled,Night reconnaissance mission
+FL1610,2025-03-10,P007,A016,Reconnaissance,3.9,7431,Cancelled,Advanced reconnaissance training
+FL1611,2025-03-11,P017,A020,Training,2.3,4227,Completed,training systems check completed
+FL1612,2025-03-11,P016,A014,Reconnaissance,4.3,8037,Completed,reconnaissance systems check completed
+FL1613,2025-03-11,P009,A008,Transport,2.6,4717,Completed,Advanced transport training
+FL1614,2025-03-11,P017,A010,Training,2.7,5501,Completed,Emergency training training
+FL1615,2025-03-11,P013,A017,Transport,3.4,6219,Completed,Weather-related transport mission
+FL1616,2025-03-11,P006,A015,Patrol,3.5,7166,Completed,Successful patrol operation
+FL1617,2025-03-11,P016,A011,Patrol,2.5,5220,Completed,Coastal patrol operation
+FL1618,2025-03-11,P008,A018,Patrol,3.2,6152,Completed,Standard patrol procedures
+FL1619,2025-03-11,P008,A006,Transport,3.3,6270,Completed,Routine transport mission
+FL1620,2025-03-11,P011,A007,Reconnaissance,3.0,5894,Cancelled,Successful reconnaissance operation
+FL1621,2025-03-12,P008,A014,Transport,2.6,5188,Completed,Night transport mission
+FL1622,2025-03-12,P007,A007,Reconnaissance,4.3,7938,Completed,reconnaissance systems check completed
+FL1623,2025-03-12,P017,A020,Patrol,3.1,6230,Completed,Advanced patrol training
+FL1624,2025-03-12,P002,A001,Training,2.4,4656,Completed,training systems check completed
+FL1625,2025-03-12,P005,A002,Reconnaissance,3.2,6325,Completed,Weather-related reconnaissance mission
+FL1626,2025-03-12,P005,A011,Transport,2.4,4960,Completed,Emergency transport training
+FL1627,2025-03-12,P018,A015,Reconnaissance,2.8,5282,Cancelled,Standard reconnaissance procedures
+FL1628,2025-03-12,P018,A019,Transport,2.5,5005,Completed,Standard transport procedures
+FL1629,2025-03-12,P020,A007,Training,2.7,5019,Completed,Weather-related training mission
+FL1630,2025-03-12,P012,A002,Transport,2.2,4128,Cancelled,Joint force transport exercise
+FL1631,2025-03-13,P014,A014,Patrol,3.3,6422,Completed,Coastal patrol operation
+FL1632,2025-03-13,P016,A005,Transport,3.4,6815,Completed,Successful transport operation
+FL1633,2025-03-13,P005,A016,Training,1.6,3146,Completed,Successful training operation
+FL1634,2025-03-13,P012,A018,Combat,5.0,10013,Completed,combat systems check completed
+FL1635,2025-03-13,P006,A004,Combat,4.9,10202,Completed,Joint force combat exercise
+FL1636,2025-03-13,P002,A012,Transport,2.3,4447,Completed,Advanced transport training
+FL1637,2025-03-13,P014,A012,Combat,4.8,9148,Completed,Weather-related combat mission
+FL1638,2025-03-13,P019,A020,Reconnaissance,3.3,6150,Completed,Successful reconnaissance operation
+FL1639,2025-03-13,P017,A020,Transport,2.2,4534,Completed,Joint force transport exercise
+FL1640,2025-03-13,P019,A003,Training,2.5,4740,Completed,Routine training mission
+FL1641,2025-03-14,P003,A014,Patrol,3.7,7446,Cancelled,Night patrol mission
+FL1642,2025-03-14,P017,A007,Reconnaissance,4.2,7837,Completed,Routine reconnaissance mission
+FL1643,2025-03-14,P018,A002,Reconnaissance,4.4,8856,Completed,Routine reconnaissance mission
+FL1644,2025-03-14,P004,A014,Combat,4.5,9105,Cancelled,Weather-related combat mission
+FL1645,2025-03-14,P004,A004,Training,2.4,4822,Completed,Joint force training exercise
+FL1646,2025-03-14,P020,A004,Combat,4.1,7907,Completed,Joint force combat exercise
+FL1647,2025-03-14,P003,A019,Reconnaissance,3.8,7801,Completed,Standard reconnaissance procedures
+FL1648,2025-03-14,P009,A013,Transport,3.1,6141,Completed,Joint force transport exercise
+FL1649,2025-03-14,P006,A020,Combat,4.6,9322,Completed,Routine combat mission
+FL1650,2025-03-14,P013,A011,Patrol,3.8,7890,Completed,Standard patrol procedures
+FL1651,2025-03-15,P014,A003,Combat,4.7,9229,Completed,Advanced combat training
+FL1652,2025-03-15,P010,A019,Reconnaissance,2.8,5480,Completed,Night reconnaissance mission
+FL1653,2025-03-15,P011,A012,Patrol,3.7,6992,Completed,Advanced patrol training
+FL1654,2025-03-15,P018,A002,Transport,2.5,4873,Completed,Night transport mission
+FL1655,2025-03-15,P015,A019,Reconnaissance,2.9,5367,Completed,Night reconnaissance mission
+FL1656,2025-03-15,P020,A004,Training,2.6,4969,Cancelled,Advanced training training
+FL1657,2025-03-15,P002,A008,Combat,4.7,8918,Completed,Coastal combat operation
+FL1658,2025-03-15,P019,A020,Training,1.9,3805,Completed,Successful training operation
+FL1659,2025-03-15,P013,A006,Combat,3.9,7483,Cancelled,Coastal combat operation
+FL1660,2025-03-15,P004,A003,Reconnaissance,4.4,8162,Completed,Successful reconnaissance operation
+FL1661,2025-03-16,P012,A015,Combat,3.5,6859,Completed,Coastal combat operation
+FL1662,2025-03-16,P020,A009,Reconnaissance,3.0,5785,Completed,Emergency reconnaissance training
+FL1663,2025-03-16,P003,A004,Patrol,3.2,6677,Completed,Joint force patrol exercise
+FL1664,2025-03-16,P017,A020,Reconnaissance,4.4,8743,Completed,reconnaissance systems check completed
+FL1665,2025-03-16,P014,A012,Patrol,3.1,6480,Completed,Routine patrol mission
+FL1666,2025-03-16,P001,A002,Combat,3.7,6715,Cancelled,Weather-related combat mission
+FL1667,2025-03-16,P013,A018,Reconnaissance,3.9,7523,Completed,Standard reconnaissance procedures
+FL1668,2025-03-16,P020,A017,Reconnaissance,3.6,7206,Completed,Standard reconnaissance procedures
+FL1669,2025-03-16,P016,A015,Reconnaissance,2.9,5708,Completed,Successful reconnaissance operation
+FL1670,2025-03-16,P011,A013,Combat,4.3,8453,Completed,Coastal combat operation
+FL1671,2025-03-17,P017,A013,Patrol,2.6,5281,Completed,Routine patrol mission
+FL1672,2025-03-17,P004,A005,Transport,2.7,5286,Completed,Emergency transport training
+FL1673,2025-03-17,P004,A016,Combat,4.1,7953,Completed,Night combat mission
+FL1674,2025-03-17,P019,A004,Combat,4.5,9278,Completed,Night combat mission
+FL1675,2025-03-17,P011,A009,Training,2.8,5400,Completed,training systems check completed
+FL1676,2025-03-17,P011,A003,Combat,3.9,7117,Cancelled,Night combat mission
+FL1677,2025-03-17,P012,A014,Patrol,3.4,6470,Cancelled,Routine patrol mission
+FL1678,2025-03-17,P003,A009,Training,2.5,4850,Cancelled,Weather-related training mission
+FL1679,2025-03-17,P016,A012,Reconnaissance,3.4,7053,Cancelled,Advanced reconnaissance training
+FL1680,2025-03-17,P014,A013,Transport,3.2,5997,Completed,Advanced transport training
+FL1681,2025-03-18,P009,A002,Patrol,2.5,4680,Completed,Standard patrol procedures
+FL1682,2025-03-18,P008,A002,Training,2.1,4298,Completed,Standard training procedures
+FL1683,2025-03-18,P008,A007,Transport,3.3,6094,Completed,Weather-related transport mission
+FL1684,2025-03-18,P012,A020,Training,2.2,4182,Completed,Routine training mission
+FL1685,2025-03-18,P006,A002,Patrol,3.2,6196,Completed,Successful patrol operation
+FL1686,2025-03-18,P013,A002,Transport,3.0,6135,Completed,Routine transport mission
+FL1687,2025-03-18,P006,A014,Training,1.7,3411,Completed,Joint force training exercise
+FL1688,2025-03-18,P008,A009,Reconnaissance,2.9,5740,Completed,Routine reconnaissance mission
+FL1689,2025-03-18,P002,A006,Transport,2.6,4728,Completed,Weather-related transport mission
+FL1690,2025-03-18,P018,A001,Reconnaissance,3.3,6749,Completed,reconnaissance systems check completed
+FL1691,2025-03-19,P015,A020,Training,2.0,3893,Completed,Coastal training operation
+FL1692,2025-03-19,P020,A005,Reconnaissance,2.8,5555,Completed,Advanced reconnaissance training
+FL1693,2025-03-19,P002,A006,Transport,3.2,6272,Completed,Advanced transport training
+FL1694,2025-03-19,P013,A003,Combat,4.6,8799,Completed,Successful combat operation
+FL1695,2025-03-19,P010,A002,Training,2.2,4024,Completed,Night training mission
+FL1696,2025-03-19,P019,A004,Transport,2.5,5058,Completed,Emergency transport training
+FL1697,2025-03-19,P001,A011,Patrol,2.6,4927,Completed,Weather-related patrol mission
+FL1698,2025-03-19,P014,A007,Transport,2.5,4809,Completed,Joint force transport exercise
+FL1699,2025-03-19,P018,A014,Training,1.9,3562,Completed,Emergency training training
+FL1700,2025-03-19,P015,A001,Transport,2.3,4306,Completed,Night transport mission
+FL1701,2025-03-20,P018,A014,Transport,2.1,4001,Cancelled,Emergency transport training
+FL1702,2025-03-20,P008,A007,Patrol,3.0,5863,Completed,Routine patrol mission
+FL1703,2025-03-20,P002,A007,Transport,2.8,5307,Completed,Routine transport mission
+FL1704,2025-03-20,P015,A005,Training,2.5,4639,Completed,Standard training procedures
+FL1705,2025-03-20,P001,A020,Training,1.6,3247,Completed,Night training mission
+FL1706,2025-03-20,P009,A016,Reconnaissance,3.0,5738,Completed,reconnaissance systems check completed
+FL1707,2025-03-20,P006,A003,Patrol,2.8,5459,Completed,Joint force patrol exercise
+FL1708,2025-03-20,P003,A016,Combat,4.1,8332,Cancelled,Joint force combat exercise
+FL1709,2025-03-20,P002,A013,Combat,4.6,8762,Completed,Successful combat operation
+FL1710,2025-03-20,P003,A015,Transport,2.7,5078,Completed,Advanced transport training
+FL1711,2025-03-21,P013,A003,Reconnaissance,4.1,7845,Completed,Coastal reconnaissance operation
+FL1712,2025-03-21,P005,A020,Reconnaissance,2.9,5392,Cancelled,Routine reconnaissance mission
+FL1713,2025-03-21,P014,A002,Training,2.2,4333,Completed,Successful training operation
+FL1714,2025-03-21,P014,A012,Combat,3.9,7522,Completed,Weather-related combat mission
+FL1715,2025-03-21,P019,A006,Combat,3.8,7661,Completed,combat systems check completed
+FL1716,2025-03-21,P004,A015,Patrol,3.3,6848,Completed,Joint force patrol exercise
+FL1717,2025-03-21,P011,A014,Reconnaissance,4.0,8071,Completed,Joint force reconnaissance exercise
+FL1718,2025-03-21,P014,A012,Patrol,3.9,8037,Completed,Successful patrol operation
+FL1719,2025-03-21,P012,A016,Patrol,2.7,4959,Completed,Standard patrol procedures
+FL1720,2025-03-21,P018,A006,Training,2.2,4423,Completed,Routine training mission
+FL1721,2025-03-22,P013,A018,Training,2.1,4132,Completed,Standard training procedures
+FL1722,2025-03-22,P017,A014,Combat,4.9,9713,Completed,Successful combat operation
+FL1723,2025-03-22,P001,A017,Reconnaissance,3.0,6183,Completed,reconnaissance systems check completed
+FL1724,2025-03-22,P013,A014,Reconnaissance,3.1,5704,Completed,Weather-related reconnaissance mission
+FL1725,2025-03-22,P007,A018,Reconnaissance,4.0,7241,Completed,Routine reconnaissance mission
+FL1726,2025-03-22,P003,A011,Training,2.0,3955,Completed,training systems check completed
+FL1727,2025-03-22,P005,A016,Combat,3.6,6837,Cancelled,Joint force combat exercise
+FL1728,2025-03-22,P012,A014,Combat,3.9,7453,Completed,combat systems check completed
+FL1729,2025-03-22,P004,A002,Transport,3.1,5667,Completed,Coastal transport operation
+FL1730,2025-03-22,P004,A003,Reconnaissance,2.8,5778,Completed,Standard reconnaissance procedures
+FL1731,2025-03-23,P015,A008,Patrol,3.7,6915,Completed,Routine patrol mission
+FL1732,2025-03-23,P016,A017,Transport,2.0,3754,Completed,Coastal transport operation
+FL1733,2025-03-23,P016,A001,Combat,4.0,7795,Cancelled,Emergency combat training
+FL1734,2025-03-23,P013,A020,Training,1.6,2923,Completed,Coastal training operation
+FL1735,2025-03-23,P010,A005,Training,1.7,3147,Completed,Joint force training exercise
+FL1736,2025-03-23,P010,A010,Transport,3.0,5791,Cancelled,Emergency transport training
+FL1737,2025-03-23,P003,A010,Training,1.6,3062,Completed,Weather-related training mission
+FL1738,2025-03-23,P005,A003,Combat,4.4,8016,Completed,Coastal combat operation
+FL1739,2025-03-23,P003,A001,Combat,4.1,8135,Completed,combat systems check completed
+FL1740,2025-03-23,P011,A010,Training,2.1,4365,Cancelled,Successful training operation
+FL1741,2025-03-24,P017,A003,Reconnaissance,3.2,6207,Completed,Joint force reconnaissance exercise
+FL1742,2025-03-24,P009,A018,Patrol,3.7,7626,Completed,Successful patrol operation
+FL1743,2025-03-24,P012,A009,Transport,2.3,4522,Completed,Coastal transport operation
+FL1744,2025-03-24,P005,A018,Transport,2.3,4698,Completed,Emergency transport training
+FL1745,2025-03-24,P010,A004,Transport,3.1,6089,Completed,Night transport mission
+FL1746,2025-03-24,P019,A015,Transport,3.0,5456,Completed,Emergency transport training
+FL1747,2025-03-24,P002,A018,Reconnaissance,3.7,6824,Completed,Successful reconnaissance operation
+FL1748,2025-03-24,P001,A013,Reconnaissance,2.8,5489,Completed,Weather-related reconnaissance mission
+FL1749,2025-03-24,P020,A002,Combat,4.1,8336,Cancelled,Emergency combat training
+FL1750,2025-03-24,P015,A017,Combat,4.3,7771,Completed,Routine combat mission
+FL1751,2025-03-25,P018,A005,Training,2.5,4872,Completed,training systems check completed
+FL1752,2025-03-25,P007,A019,Reconnaissance,3.4,6253,Completed,reconnaissance systems check completed
+FL1753,2025-03-25,P013,A006,Combat,4.7,9583,Completed,Emergency combat training
+FL1754,2025-03-25,P015,A006,Transport,2.5,4776,Cancelled,Routine transport mission
+FL1755,2025-03-25,P006,A009,Combat,4.1,8034,Completed,Coastal combat operation
+FL1756,2025-03-25,P010,A008,Training,1.9,3864,Completed,Weather-related training mission
+FL1757,2025-03-25,P004,A010,Patrol,3.6,6555,Completed,Joint force patrol exercise
+FL1758,2025-03-25,P007,A015,Patrol,3.0,6093,Completed,Emergency patrol training
+FL1759,2025-03-25,P014,A016,Reconnaissance,2.9,6040,Completed,Weather-related reconnaissance mission
+FL1760,2025-03-25,P006,A013,Training,2.2,4301,Cancelled,Successful training operation
+FL1761,2025-03-26,P001,A010,Transport,2.7,5343,Cancelled,Weather-related transport mission
+FL1762,2025-03-26,P002,A009,Transport,2.6,4956,Completed,Coastal transport operation
+FL1763,2025-03-26,P006,A019,Combat,4.1,7668,Completed,Coastal combat operation
+FL1764,2025-03-26,P010,A012,Reconnaissance,4.0,8262,Completed,Emergency reconnaissance training
+FL1765,2025-03-26,P008,A012,Combat,3.8,6979,Completed,Joint force combat exercise
+FL1766,2025-03-26,P020,A011,Training,2.8,5178,Completed,Successful training operation
+FL1767,2025-03-26,P002,A001,Training,1.8,3715,Completed,Advanced training training
+FL1768,2025-03-26,P016,A002,Transport,2.2,4525,Completed,Coastal transport operation
+FL1769,2025-03-26,P001,A017,Reconnaissance,2.8,5511,Completed,Weather-related reconnaissance mission
+FL1770,2025-03-26,P006,A019,Reconnaissance,3.0,6091,Completed,Successful reconnaissance operation
+FL1771,2025-03-27,P003,A009,Combat,5.0,9975,Completed,Standard combat procedures
+FL1772,2025-03-27,P013,A020,Combat,3.9,7105,Completed,combat systems check completed
+FL1773,2025-03-27,P014,A013,Patrol,2.9,5367,Cancelled,patrol systems check completed
+FL1774,2025-03-27,P007,A001,Patrol,3.3,6210,Completed,Coastal patrol operation
+FL1775,2025-03-27,P017,A020,Combat,3.7,7240,Completed,Routine combat mission
+FL1776,2025-03-27,P002,A016,Combat,3.6,6879,Completed,Successful combat operation
+FL1777,2025-03-27,P003,A017,Reconnaissance,4.0,8127,Completed,Advanced reconnaissance training
+FL1778,2025-03-27,P018,A002,Training,2.4,4591,Completed,Night training mission
+FL1779,2025-03-27,P008,A019,Training,2.5,4540,Completed,Coastal training operation
+FL1780,2025-03-27,P003,A020,Patrol,2.6,4956,Completed,Night patrol mission
+FL1781,2025-03-28,P010,A010,Transport,3.0,5436,Completed,Advanced transport training
+FL1782,2025-03-28,P015,A014,Transport,2.6,4864,Completed,Weather-related transport mission
+FL1783,2025-03-28,P010,A010,Combat,3.7,7149,Cancelled,Night combat mission
+FL1784,2025-03-28,P013,A013,Reconnaissance,3.4,6975,Cancelled,reconnaissance systems check completed
+FL1785,2025-03-28,P015,A014,Training,2.2,4552,Completed,Routine training mission
+FL1786,2025-03-28,P003,A019,Patrol,3.1,6005,Completed,Successful patrol operation
+FL1787,2025-03-28,P005,A019,Training,2.5,5153,Completed,training systems check completed
+FL1788,2025-03-28,P007,A003,Combat,4.2,7857,Completed,Advanced combat training
+FL1789,2025-03-28,P014,A003,Transport,2.5,4705,Completed,Standard transport procedures
+FL1790,2025-03-28,P010,A004,Reconnaissance,2.8,5542,Completed,Weather-related reconnaissance mission
+FL1791,2025-03-29,P005,A001,Transport,3.4,6580,Completed,Routine transport mission
+FL1792,2025-03-29,P015,A018,Transport,2.5,4881,Cancelled,Emergency transport training
+FL1793,2025-03-29,P014,A001,Training,2.7,4945,Completed,Coastal training operation
+FL1794,2025-03-29,P018,A014,Training,2.6,5160,Completed,training systems check completed
+FL1795,2025-03-29,P016,A016,Training,2.2,4360,Completed,training systems check completed
+FL1796,2025-03-29,P011,A015,Reconnaissance,3.9,7351,Completed,Emergency reconnaissance training
+FL1797,2025-03-29,P003,A010,Patrol,3.3,6444,Completed,Weather-related patrol mission
+FL1798,2025-03-29,P019,A004,Training,1.7,3132,Completed,Successful training operation
+FL1799,2025-03-29,P018,A018,Reconnaissance,4.3,7872,Completed,Emergency reconnaissance training
+FL1800,2025-03-29,P005,A004,Reconnaissance,3.9,8010,Completed,reconnaissance systems check completed
+FL1801,2025-03-30,P002,A008,Transport,2.7,5398,Completed,Emergency transport training
+FL1802,2025-03-30,P013,A012,Training,1.8,3600,Completed,Coastal training operation
+FL1803,2025-03-30,P011,A020,Transport,3.5,6965,Completed,Successful transport operation
+FL1804,2025-03-30,P015,A005,Training,2.6,5157,Completed,Weather-related training mission
+FL1805,2025-03-30,P005,A011,Reconnaissance,3.4,6196,Completed,Standard reconnaissance procedures
+FL1806,2025-03-30,P002,A004,Patrol,3.0,6067,Completed,Joint force patrol exercise
+FL1807,2025-03-30,P009,A020,Reconnaissance,3.7,7245,Cancelled,Advanced reconnaissance training
+FL1808,2025-03-30,P007,A007,Patrol,3.9,7981,Cancelled,Advanced patrol training
+FL1809,2025-03-30,P003,A003,Reconnaissance,3.3,6924,Completed,Routine reconnaissance mission
+FL1810,2025-03-30,P002,A009,Training,2.3,4605,Cancelled,Standard training procedures
+FL1811,2025-03-31,P007,A009,Reconnaissance,4.3,7827,Completed,Coastal reconnaissance operation
+FL1812,2025-03-31,P006,A019,Reconnaissance,3.2,6205,Cancelled,Night reconnaissance mission
+FL1813,2025-03-31,P019,A007,Training,2.7,5656,Completed,Standard training procedures
+FL1814,2025-03-31,P019,A015,Reconnaissance,3.6,7222,Completed,Coastal reconnaissance operation
+FL1815,2025-03-31,P001,A009,Patrol,3.5,6411,Cancelled,Standard patrol procedures
+FL1816,2025-03-31,P005,A010,Transport,3.4,6545,Cancelled,Routine transport mission
+FL1817,2025-03-31,P012,A009,Patrol,4.0,7813,Completed,Advanced patrol training
+FL1818,2025-03-31,P008,A010,Combat,4.8,9797,Completed,Weather-related combat mission
+FL1819,2025-03-31,P006,A015,Transport,3.2,6086,Completed,Joint force transport exercise
+FL1820,2025-03-31,P009,A003,Transport,2.9,5942,Cancelled,Night transport mission
+FL1821,2025-04-01,P007,A017,Patrol,3.1,5989,Cancelled,Emergency patrol training
+FL1822,2025-04-01,P013,A018,Combat,3.6,7240,Completed,Coastal combat operation
+FL1823,2025-04-01,P007,A019,Transport,2.2,4341,Completed,Routine transport mission
+FL1824,2025-04-01,P009,A016,Transport,3.1,5868,Cancelled,Weather-related transport mission
+FL1825,2025-04-01,P011,A016,Patrol,2.8,5281,Completed,Standard patrol procedures
+FL1826,2025-04-01,P010,A012,Patrol,3.6,6615,Completed,Advanced patrol training
+FL1827,2025-04-01,P019,A007,Combat,3.6,7540,Completed,combat systems check completed
+FL1828,2025-04-01,P002,A006,Patrol,3.0,5680,Completed,patrol systems check completed
+FL1829,2025-04-01,P012,A009,Transport,2.7,4862,Cancelled,Advanced transport training
+FL1830,2025-04-01,P019,A006,Training,2.3,4671,Completed,training systems check completed
+FL1831,2025-04-02,P008,A003,Transport,2.6,5180,Completed,Night transport mission
+FL1832,2025-04-02,P018,A012,Patrol,2.9,6013,Completed,patrol systems check completed
+FL1833,2025-04-02,P005,A003,Training,2.2,4579,Cancelled,Weather-related training mission
+FL1834,2025-04-02,P006,A011,Combat,3.7,7455,Completed,Night combat mission
+FL1835,2025-04-02,P013,A005,Combat,4.4,8546,Completed,Coastal combat operation
+FL1836,2025-04-02,P011,A012,Patrol,3.8,7354,Completed,Joint force patrol exercise
+FL1837,2025-04-02,P013,A004,Transport,2.6,5188,Completed,transport systems check completed
+FL1838,2025-04-02,P012,A012,Patrol,3.0,5553,Completed,Routine patrol mission
+FL1839,2025-04-02,P019,A010,Combat,3.8,7219,Completed,combat systems check completed
+FL1840,2025-04-02,P011,A018,Training,1.6,3302,Completed,Successful training operation
+FL1841,2025-04-03,P004,A010,Transport,2.6,5114,Completed,Night transport mission
+FL1842,2025-04-03,P002,A010,Transport,2.6,4898,Completed,Routine transport mission
+FL1843,2025-04-03,P018,A017,Reconnaissance,4.1,7570,Completed,Routine reconnaissance mission
+FL1844,2025-04-03,P008,A018,Transport,2.6,4935,Completed,Standard transport procedures
+FL1845,2025-04-03,P007,A003,Training,2.3,4771,Completed,Weather-related training mission
+FL1846,2025-04-03,P020,A008,Patrol,3.8,7968,Completed,Joint force patrol exercise
+FL1847,2025-04-03,P011,A005,Patrol,3.2,6506,Completed,Coastal patrol operation
+FL1848,2025-04-03,P019,A013,Transport,3.5,6650,Completed,Successful transport operation
+FL1849,2025-04-03,P010,A009,Patrol,3.0,6159,Completed,Successful patrol operation
+FL1850,2025-04-03,P014,A011,Combat,4.9,9503,Completed,Weather-related combat mission
+FL1851,2025-04-04,P017,A002,Combat,3.9,7269,Cancelled,Emergency combat training
+FL1852,2025-04-04,P017,A018,Transport,2.5,4708,Cancelled,Joint force transport exercise
+FL1853,2025-04-04,P019,A014,Patrol,2.9,5876,Completed,Joint force patrol exercise
+FL1854,2025-04-04,P019,A002,Reconnaissance,3.2,6004,Completed,Emergency reconnaissance training
+FL1855,2025-04-04,P001,A013,Combat,5.0,10454,Completed,Emergency combat training
+FL1856,2025-04-04,P014,A004,Reconnaissance,4.1,7484,Completed,Weather-related reconnaissance mission
+FL1857,2025-04-04,P011,A003,Combat,4.0,8242,Cancelled,Coastal combat operation
+FL1858,2025-04-04,P017,A012,Combat,4.7,9116,Completed,combat systems check completed
+FL1859,2025-04-04,P005,A015,Training,2.1,4284,Completed,Night training mission
+FL1860,2025-04-04,P010,A007,Transport,3.5,6675,Completed,Advanced transport training
+FL1861,2025-04-05,P020,A007,Training,1.8,3456,Completed,Routine training mission
+FL1862,2025-04-05,P005,A003,Transport,2.2,4607,Completed,Emergency transport training
+FL1863,2025-04-05,P008,A005,Transport,2.9,5383,Completed,Advanced transport training
+FL1864,2025-04-05,P014,A018,Combat,4.8,9141,Completed,Night combat mission
+FL1865,2025-04-05,P020,A003,Transport,2.5,4701,Completed,Emergency transport training
+FL1866,2025-04-05,P001,A013,Training,2.2,4375,Completed,training systems check completed
+FL1867,2025-04-05,P020,A014,Training,2.4,4480,Completed,Joint force training exercise
+FL1868,2025-04-05,P001,A018,Patrol,3.7,6761,Completed,Weather-related patrol mission
+FL1869,2025-04-05,P003,A009,Transport,3.4,6558,Completed,Night transport mission
+FL1870,2025-04-05,P018,A006,Patrol,2.5,4720,Completed,Successful patrol operation
+FL1871,2025-04-06,P013,A019,Reconnaissance,4.2,8028,Completed,Emergency reconnaissance training
+FL1872,2025-04-06,P007,A015,Reconnaissance,2.9,5923,Completed,Night reconnaissance mission
+FL1873,2025-04-06,P015,A009,Transport,3.3,6188,Cancelled,Joint force transport exercise
+FL1874,2025-04-06,P019,A016,Combat,3.8,7446,Completed,Advanced combat training
+FL1875,2025-04-06,P019,A001,Training,1.7,3139,Completed,training systems check completed
+FL1876,2025-04-06,P002,A001,Patrol,2.8,5398,Completed,Successful patrol operation
+FL1877,2025-04-06,P003,A015,Patrol,2.9,5245,Completed,Advanced patrol training
+FL1878,2025-04-06,P002,A011,Patrol,3.3,6130,Cancelled,Weather-related patrol mission
+FL1879,2025-04-06,P012,A001,Transport,2.9,5330,Completed,Weather-related transport mission
+FL1880,2025-04-06,P014,A005,Patrol,3.7,7192,Cancelled,Standard patrol procedures
+FL1881,2025-04-07,P012,A003,Combat,3.5,7098,Cancelled,Weather-related combat mission
+FL1882,2025-04-07,P010,A015,Training,1.8,3261,Cancelled,training systems check completed
+FL1883,2025-04-07,P020,A018,Training,2.3,4311,Cancelled,Emergency training training
+FL1884,2025-04-07,P010,A008,Reconnaissance,4.5,8951,Cancelled,Weather-related reconnaissance mission
+FL1885,2025-04-07,P014,A017,Patrol,3.8,7223,Completed,Weather-related patrol mission
+FL1886,2025-04-07,P018,A012,Patrol,3.1,5599,Cancelled,Routine patrol mission
+FL1887,2025-04-07,P016,A019,Combat,4.1,7737,Completed,Successful combat operation
+FL1888,2025-04-07,P011,A014,Training,2.0,4137,Cancelled,Standard training procedures
+FL1889,2025-04-07,P018,A004,Training,2.1,4384,Completed,Weather-related training mission
+FL1890,2025-04-07,P011,A007,Training,2.5,5134,Completed,Night training mission
+FL1891,2025-04-08,P012,A003,Training,1.5,2774,Completed,Routine training mission
+FL1892,2025-04-08,P012,A010,Reconnaissance,3.5,6535,Completed,Night reconnaissance mission
+FL1893,2025-04-08,P003,A020,Transport,3.1,5878,Completed,Weather-related transport mission
+FL1894,2025-04-08,P008,A017,Reconnaissance,3.8,7563,Completed,Routine reconnaissance mission
+FL1895,2025-04-08,P009,A020,Patrol,3.7,7445,Completed,Emergency patrol training
+FL1896,2025-04-08,P016,A003,Patrol,2.9,5872,Completed,Standard patrol procedures
+FL1897,2025-04-08,P001,A001,Reconnaissance,3.2,6452,Completed,Night reconnaissance mission
+FL1898,2025-04-08,P014,A014,Patrol,2.9,6069,Completed,Coastal patrol operation
+FL1899,2025-04-08,P006,A012,Transport,2.3,4803,Completed,Standard transport procedures
+FL1900,2025-04-08,P019,A005,Training,2.6,4762,Completed,Joint force training exercise
+FL1901,2025-04-09,P017,A019,Patrol,3.5,6352,Completed,Night patrol mission
+FL1902,2025-04-09,P015,A014,Training,2.1,4284,Completed,Coastal training operation
+FL1903,2025-04-09,P007,A002,Transport,2.6,4811,Cancelled,Successful transport operation
+FL1904,2025-04-09,P017,A018,Transport,2.8,5247,Completed,Joint force transport exercise
+FL1905,2025-04-09,P005,A018,Patrol,3.8,7966,Completed,Successful patrol operation
+FL1906,2025-04-09,P020,A001,Patrol,3.4,7017,Completed,Joint force patrol exercise
+FL1907,2025-04-09,P011,A011,Reconnaissance,3.2,6222,Completed,Standard reconnaissance procedures
+FL1908,2025-04-09,P019,A010,Patrol,2.9,5279,Completed,Weather-related patrol mission
+FL1909,2025-04-09,P003,A013,Combat,4.1,7990,Completed,combat systems check completed
+FL1910,2025-04-09,P019,A001,Combat,4.8,8813,Completed,Emergency combat training
+FL1911,2025-04-10,P016,A017,Combat,4.0,7708,Completed,Coastal combat operation
+FL1912,2025-04-10,P006,A007,Combat,3.6,7316,Completed,Weather-related combat mission
+FL1913,2025-04-10,P015,A019,Transport,3.4,6874,Completed,transport systems check completed
+FL1914,2025-04-10,P015,A018,Patrol,3.7,7612,Completed,Night patrol mission
+FL1915,2025-04-10,P009,A009,Patrol,2.7,5079,Completed,Routine patrol mission
+FL1916,2025-04-10,P014,A006,Patrol,2.6,4773,Completed,Successful patrol operation
+FL1917,2025-04-10,P006,A018,Patrol,3.0,5455,Completed,Emergency patrol training
+FL1918,2025-04-10,P003,A004,Patrol,3.9,7202,Completed,patrol systems check completed
+FL1919,2025-04-10,P008,A016,Training,2.0,4032,Completed,training systems check completed
+FL1920,2025-04-10,P019,A009,Combat,3.5,6710,Completed,Successful combat operation
+FL1921,2025-04-11,P001,A005,Training,2.6,5310,Completed,Weather-related training mission
+FL1922,2025-04-11,P012,A005,Transport,2.0,4145,Completed,Weather-related transport mission
+FL1923,2025-04-11,P013,A004,Patrol,3.7,7426,Completed,Emergency patrol training
+FL1924,2025-04-11,P018,A019,Combat,4.1,8302,Completed,Joint force combat exercise
+FL1925,2025-04-11,P008,A016,Patrol,3.6,6938,Completed,Coastal patrol operation
+FL1926,2025-04-11,P014,A005,Transport,3.2,6182,Completed,Advanced transport training
+FL1927,2025-04-11,P009,A001,Combat,4.8,8816,Completed,Successful combat operation
+FL1928,2025-04-11,P019,A011,Patrol,2.8,5055,Cancelled,Emergency patrol training
+FL1929,2025-04-11,P007,A017,Training,1.7,3555,Completed,Joint force training exercise
+FL1930,2025-04-11,P020,A006,Reconnaissance,4.4,8305,Completed,Coastal reconnaissance operation
+FL1931,2025-04-12,P008,A015,Patrol,2.8,5287,Completed,Advanced patrol training
+FL1932,2025-04-12,P013,A015,Transport,2.2,4496,Completed,Successful transport operation
+FL1933,2025-04-12,P008,A017,Patrol,3.6,7013,Completed,patrol systems check completed
+FL1934,2025-04-12,P019,A013,Combat,4.5,8219,Completed,Weather-related combat mission
+FL1935,2025-04-12,P017,A013,Reconnaissance,3.0,5815,Completed,Weather-related reconnaissance mission
+FL1936,2025-04-12,P020,A015,Combat,4.3,8449,Completed,Night combat mission
+FL1937,2025-04-12,P020,A002,Combat,4.6,9290,Completed,Standard combat procedures
+FL1938,2025-04-12,P017,A019,Transport,2.7,5605,Completed,Joint force transport exercise
+FL1939,2025-04-12,P010,A014,Patrol,3.7,6783,Completed,Weather-related patrol mission
+FL1940,2025-04-12,P006,A003,Patrol,3.4,6317,Completed,Successful patrol operation
+FL1941,2025-04-13,P001,A002,Patrol,2.6,5221,Completed,Night patrol mission
+FL1942,2025-04-13,P010,A014,Patrol,3.5,7221,Completed,patrol systems check completed
+FL1943,2025-04-13,P018,A008,Training,1.6,3307,Completed,Emergency training training
+FL1944,2025-04-13,P019,A013,Patrol,3.4,6203,Completed,Emergency patrol training
+FL1945,2025-04-13,P014,A010,Transport,2.1,3938,Completed,Weather-related transport mission
+FL1946,2025-04-13,P004,A002,Patrol,3.8,6939,Completed,Joint force patrol exercise
+FL1947,2025-04-13,P018,A009,Combat,4.2,8666,Cancelled,Routine combat mission
+FL1948,2025-04-13,P008,A015,Combat,4.9,10107,Cancelled,combat systems check completed
+FL1949,2025-04-13,P020,A010,Training,2.3,4775,Cancelled,Routine training mission
+FL1950,2025-04-13,P014,A012,Reconnaissance,4.3,7836,Cancelled,Joint force reconnaissance exercise
+FL1951,2025-04-14,P007,A019,Combat,4.3,8632,Completed,Advanced combat training
+FL1952,2025-04-14,P015,A011,Combat,3.9,7500,Completed,Weather-related combat mission
+FL1953,2025-04-14,P018,A009,Reconnaissance,3.1,5756,Cancelled,Advanced reconnaissance training
+FL1954,2025-04-14,P018,A016,Transport,3.1,6284,Completed,Night transport mission
+FL1955,2025-04-14,P017,A002,Transport,3.2,5771,Completed,Emergency transport training
+FL1956,2025-04-14,P014,A016,Reconnaissance,2.9,5720,Completed,reconnaissance systems check completed
+FL1957,2025-04-14,P018,A006,Transport,2.4,4552,Cancelled,Successful transport operation
+FL1958,2025-04-14,P004,A002,Patrol,3.4,6230,Completed,Successful patrol operation
+FL1959,2025-04-14,P018,A007,Training,2.5,5033,Completed,Coastal training operation
+FL1960,2025-04-14,P004,A006,Reconnaissance,2.9,5743,Completed,Advanced reconnaissance training
+FL1961,2025-04-15,P013,A002,Patrol,3.7,7512,Cancelled,Joint force patrol exercise
+FL1962,2025-04-15,P009,A018,Transport,2.2,4416,Completed,Advanced transport training
+FL1963,2025-04-15,P006,A010,Reconnaissance,3.4,6921,Completed,Advanced reconnaissance training
+FL1964,2025-04-15,P005,A002,Combat,3.9,7152,Completed,Coastal combat operation
+FL1965,2025-04-15,P009,A008,Combat,4.8,9051,Completed,Night combat mission
+FL1966,2025-04-15,P005,A017,Combat,4.0,7683,Completed,Emergency combat training
+FL1967,2025-04-15,P003,A008,Patrol,2.9,5984,Completed,Weather-related patrol mission
+FL1968,2025-04-15,P013,A007,Patrol,3.8,6925,Completed,patrol systems check completed
+FL1969,2025-04-15,P006,A007,Transport,3.3,6863,Completed,Standard transport procedures
+FL1970,2025-04-15,P006,A011,Reconnaissance,3.1,6200,Completed,Successful reconnaissance operation
+FL1971,2025-04-16,P018,A018,Reconnaissance,3.7,7490,Completed,Night reconnaissance mission
+FL1972,2025-04-16,P011,A002,Combat,4.4,9176,Completed,Joint force combat exercise
+FL1973,2025-04-16,P009,A017,Patrol,3.6,7359,Completed,Routine patrol mission
+FL1974,2025-04-16,P006,A014,Reconnaissance,3.3,6193,Cancelled,Weather-related reconnaissance mission
+FL1975,2025-04-16,P012,A018,Combat,3.6,6927,Completed,Standard combat procedures
+FL1976,2025-04-16,P018,A020,Patrol,3.2,6352,Cancelled,Advanced patrol training
+FL1977,2025-04-16,P013,A006,Combat,4.2,8267,Completed,Successful combat operation
+FL1978,2025-04-16,P013,A007,Combat,4.7,9310,Completed,Successful combat operation
+FL1979,2025-04-16,P013,A012,Combat,4.5,9419,Completed,Routine combat mission
+FL1980,2025-04-16,P001,A007,Transport,3.4,6266,Completed,Joint force transport exercise
+FL1981,2025-04-17,P013,A001,Patrol,3.1,6250,Cancelled,Joint force patrol exercise
+FL1982,2025-04-17,P012,A019,Training,2.7,5329,Completed,Routine training mission
+FL1983,2025-04-17,P002,A017,Reconnaissance,3.3,6244,Completed,Successful reconnaissance operation
+FL1984,2025-04-17,P013,A018,Training,2.2,4321,Completed,Weather-related training mission
+FL1985,2025-04-17,P005,A016,Reconnaissance,2.9,5558,Completed,Advanced reconnaissance training
+FL1986,2025-04-17,P018,A009,Training,2.6,5349,Completed,Advanced training training
+FL1987,2025-04-17,P011,A002,Patrol,3.6,6698,Completed,Routine patrol mission
+FL1988,2025-04-17,P011,A018,Reconnaissance,3.4,6812,Cancelled,Night reconnaissance mission
+FL1989,2025-04-17,P007,A014,Combat,3.9,7284,Completed,Coastal combat operation
+FL1990,2025-04-17,P015,A001,Reconnaissance,3.0,5497,Completed,Standard reconnaissance procedures
+FL1991,2025-04-18,P019,A010,Training,1.7,3327,Completed,Routine training mission
+FL1992,2025-04-18,P019,A001,Transport,2.7,5508,Completed,Coastal transport operation
+FL1993,2025-04-18,P009,A005,Training,2.6,5031,Cancelled,Successful training operation
+FL1994,2025-04-18,P014,A009,Training,1.9,3455,Completed,Routine training mission
+FL1995,2025-04-18,P006,A015,Patrol,3.5,6968,Completed,Night patrol mission
+FL1996,2025-04-18,P011,A012,Reconnaissance,3.5,6911,Completed,reconnaissance systems check completed
+FL1997,2025-04-18,P004,A018,Transport,2.3,4632,Cancelled,Weather-related transport mission
+FL1998,2025-04-18,P006,A014,Reconnaissance,3.8,7904,Completed,Routine reconnaissance mission
+FL1999,2025-04-18,P005,A013,Patrol,2.6,5197,Completed,Standard patrol procedures
+FL2000,2025-04-18,P018,A012,Reconnaissance,3.2,6352,Completed,Successful reconnaissance operation

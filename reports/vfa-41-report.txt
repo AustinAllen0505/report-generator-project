@@ -1,0 +1,40 @@
+============================================================
+              VFA-41 SQUADRON ACTIVITY REPORT               
+============================================================
+
+============================================================
+                     SQUADRON OVERVIEW                      
+============================================================
+Squadron: VFA-41
+Assigned Pilots: 3
+Assigned Aircraft: 3
+
+============================================================
+                      ASSIGNED PILOTS                       
+============================================================
+Capt Peter Mitchell "Maverick"
+Lt Bradley Bradshaw "Rooster"
+Maj Sarah Blackwood "Phoenix"
+
+============================================================
+                     ASSIGNED AIRCRAFT                      
+============================================================
+A001 - F/A-18E Super Hornet - Tail Number: NE-400 - Status: Active
+A002 - F/A-18E Super Hornet - Tail Number: NE-401 - Status: Active
+A003 - F/A-18F Super Hornet - Tail Number: NE-402 - Status: Active
+
+============================================================
+                     FLIGHT STATISTICS                      
+============================================================
+Total Missions: 286
+Total Flight Hours: 915.60
+Average Mission Duration: 3.20 hours
+
+============================================================
+                   MISSION TYPE BREAKDOWN                   
+============================================================
+Combat: 53 missions
+Patrol: 53 missions
+Reconnaissance: 66 missions
+Training: 54 missions
+Transport: 60 missions
